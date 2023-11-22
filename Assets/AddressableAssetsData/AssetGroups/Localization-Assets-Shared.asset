@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2161ce4595bd30943aac247926f5757d
+  m_SerializeEntries:
+  - m_GUID: 04290f6ef79fc384b8cd1c6d2352dc8e
+    m_Address: Assets/Localization/Tables/UI text Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 54aebc7ddb5157c4387272ad0f13c934
+    m_Address: Assets/Localization/Tables/cansTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 985dc406d038c7b459fe4f0f37913597
+    m_Address: Assets/Localization/Tables/FAQs/FAQsTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 27879126c688a6246b0eef98d5aa1c66
+    m_Address: Assets/Localization/Tables/about/aboutTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: d6427c4e3c5da51449635cc4e31a0f10
+    m_Address: Assets/Localization/Tables/Cardboard/cardboardTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 6e1e2deda4388c7429a1d8004eb2691a
+    m_Address: Assets/Localization/Tables/Glass/glassTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 9c5eb784583e99b4b8663f2b88953da0
+    m_Address: Assets/Localization/Tables/paper/paperTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 1b8a00292723a0b4a8ccf2da39c34222
+    m_Address: Assets/Localization/Tables/Plastic/PlasticTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: ed477a0d1439a2842a025888245fe123
+    m_Address: Assets/Localization/Tables/Textile/TextileTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a173d2736491c40418416620a0b95ea2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4b740fce95b6ba044b2e0cfd8adee35f, type: 2}
+    - {fileID: 11400000, guid: 2568e0a7fd7262649a36a7c2cdff5cad, type: 2}

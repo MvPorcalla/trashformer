@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: paperTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: 9c5eb784583e99b4b8663f2b88953da0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8790364160
+    m_Localized: Ang papel ay isang manipis at patag na materyal na binubuo ng mga
+      hibla ng selulusa na karamihan ay nabuo mula sa sapal ng kahoy, basahan, o
+      ilang mga damo. Ito ay isa sa mga pinaka ginagamit na materyales para sa pagsulat,
+      pag-print, pag-iimpake, at iba't ibang mga aplikasyon. Sa loob ng libu-libong
+      taon, ang papel ay isang mahalagang kasangkapan para sa komunikasyon at dokumentasyon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595227347210240
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n- Karton\r\n- Magazine/Brochure
+      \r\n- Elastic Garter\r\n- Gunting\r\n- Glue Gun at Glue Sticks \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595395102593024
+    m_Localized: "Ipunin ang mga kina-kailangang materyales. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595406146195456
+    m_Localized: Gumuhit at gupitin ang dalawang bilog na  hugis mula sa karton. 
+      Maaari kang pumili ng  gusto mo na laki.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595417214963712
+    m_Localized: "Gumupit ng isang piraso ng elastic garter  para gamitin bilang
+      hanger.  Ikabit ang bawat dulo ng  garter sa tuktok ng bilog  na karton gamit
+      ang glue  gun. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595426715062272
+    m_Localized: "Mag-lagay ng pandikit sa gilid ng bilog na  karton at idikit ang
+      isa  pang bilog na karton sa  ibabaw nito, para lumikha  ng matibay na pundasyon.
+      \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595435971891200
+    m_Localized: "Gupitin ng maraming 3x3 pulgadang  hugis kwadrado mula sa  mga
+      magazine. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595445669122048
+    m_Localized: 'I-rolyo ang bawat kwadrado ng magazine  bumuo ng isang bulaklak. 
+      Gumawa ng marami nito  kung kinakailangan. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595459497742336
+    m_Localized: "I-lapat ang pandikit sa buong ibabaw ng bilog  na karton, simulan
+      ang  pag-lagay ng mga  \r\npinagsama na bulaklak ng  magazine. Pag patong patungin
+      ito. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595471371816960
+    m_Localized: 'Ipagpatuloy ang pagdaragdag ng mga  pinagsamang bulaklak hanggang
+      sa masakop ang  buong bilog na karton. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595482516082688
+    m_Localized: 'Ulitin ang proseso hanggang sa mapuno mo  ang buong bilog. Tapos
+      na  ang iyong magazine wall hanging! Isabit ito bilang  pandekorasyon sa iyong 
+      tahanan. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603662612647936
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n- Dyaryo \r\n- Gunting \r\n-
+      Glue gun with glue stick \r\n- Ruler \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603727464976384
+    m_Localized: "Ipunin ang lahat ng kinakailangang materyales. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603751787745280
+    m_Localized: 'Kumuha ng pahayagan, tiklupin ito sa gitna at gamit ang gunting,
+      gupitin ito nang pahalang. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603765180157952
+    m_Localized: 'Susunod ay itiklop ang pahayagan na may 1-pulgadang lapad na mga
+      piraso at gumawa ng higit pa na mga piraso na may parehong laki. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603777024872448
+    m_Localized: 'Kumuha ng sampung piraso ng pahayagan. I-posisyon ang limang piraso
+      ng patayo at isa pa na limang piraso ng pahalang. Ihabi ito nang paulit-ulit
+      at magdagdag ng higit pa na mga piraso upang magpatuloy sa iyong nais na laki
+      ng basket. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603790010437632
+    m_Localized: 'Gumamit ng pandikit upang makatulong na ma-secure ang mga piraso
+      sa lugar. Mariing pindutin ang mga piraso pababa upang matiyak na nakadikit
+      ito nang maayos. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603801016291328
+    m_Localized: 'Kapag ang base ay nasa iyong ninanais na laki, simulan ang pag-habi
+      at tiklop ng mga vertical na piraso pataas. Ang mga ito ay bubuo sa mga gilid
+      ng basket. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603816686211072
+    m_Localized: "Ulitin ang proseso ng matiyaga at kapag naabot na ng basket ang
+      iyong ninanais na taas, tiklupin ang natitirang mga piraso pababa sa labas
+      ng basket. Ilapat ang pandikit upang ma-secure ang mga piraso at gupitin ang
+      labis na haba.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608176275148800
+    m_Localized: 'I-rolyo ang bawat piraso ng dyaryo upang  makagawa ng matibay na
+      stick. Mag-handa ng marami nito. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608009484455936
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n- Dyaryo  \r\n- Magazine/Brochure
+      \r\n- Glue Gun at Glue Sticks  \r\n- Gunting \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608120503488512
+    m_Localized: "Kolektahin ang mga kakailanganing materyales. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608166137516032
+    m_Localized: 'Kumuha ng dyaryo tiklupin ito sa gitna ng pahalang, at gupitin
+      sa  gitna. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608185703944192
+    m_Localized: 'Ayusin ang pinagsamang mga stick ng  dyaryo sa hugis na diamond, 
+      pagdikitin ang mga ito  upang lumikha ng base  para sa iyong wall hanging.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608234492088320
+    m_Localized: "Mula sa magazine/brochure, gumupit ng maraming  hugis bilog na
+      may iba't-ibang\r\nlaki.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608247943221248
+    m_Localized: 'Gupitin ang bawat bilog ng parang spiral  patungo sa gitna. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608258785497088
+    m_Localized: 'Sa dulo ng pabilog, i-rolyo ang papel ng magazine/brochure hanggang
+      sa maging hugis bulaklak ito. Gumawa ng  maraming bulaklak gamit  ang iba''t
+      ibang laki ng mga  bilog. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608269019598848
+    m_Localized: "Idikit ang mga bulaklak sa hugis diamond na base na ginawa mo 
+      kanina. Lagyan ang  \r\nparteng baba ng base ng  mga bulaklak hanggang sa 
+      masiyahan ka sa resulta. \r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

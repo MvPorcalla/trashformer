@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: glassTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: glassTable
+  m_TableCollectionNameGuidString: 6e1e2deda4388c7429a1d8004eb2691a
+  m_Entries:
+  - m_Id: 5170679808
+    m_Key: GlassDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12511631161577472
+    m_Key: gltmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513166541082624
+    m_Key: glt1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513715256709120
+    m_Key: glt2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12514252521885696
+    m_Key: glt3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515004178911232
+    m_Key: glt4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515787976888320
+    m_Key: glt5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515789956599808
+    m_Key: glt6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517662839164928
+    m_Key: gkhjMaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517829629857792
+    m_Key: Gkhj1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517893114843136
+    m_Key: Gkhj2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517919186636800
+    m_Key: Gkhj3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517934386794496
+    m_Key: Gkhj4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517946768379904
+    m_Key: Gkhj5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517957673570304
+    m_Key: Gkhj6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517968712978432
+    m_Key: Gkhj7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539019132030976
+    m_Key: GpMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539118813859840
+    m_Key: gp1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539136329273344
+    m_Key: gp2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539148106878976
+    m_Key: gp3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539174921064448
+    m_Key: gp4
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7858890284423184431
+  references:
+    version: 2
+    RefIds:
+    - rid: 7858890284423184431
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1696358373920

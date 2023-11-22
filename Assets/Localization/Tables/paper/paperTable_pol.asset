@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: paperTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: 9c5eb784583e99b4b8663f2b88953da0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8790364160
+    m_Localized: "Kan papel ay \xFAsad na manipis sagk\xFAd patag na material na
+      pinag\xEDbuo nikan mga hibla ning selulusa na kad\xE1klan ay nabuo al\xED sa
+      s\xE1p\xE1l nikan ca\xFAy, trapo, o mga r\xEDk\xF3t. Kadi ay \xFAsad sa mga
+      pinagigamit na materyales para sa pag-s\xFArat, pag-print, pag-iimpake, sagk\xFAd
+      iba-iba pa na aplikasyon. Sa l\xFAg nikan dak\xFAl na taon, kan papel ay \xFAsad
+      sa importanteng gamit para sa pag k\xFAmonikar sagk\xFAd dokumentasyon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595227347210240
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n- Karton \r\n- Magazine  \r\n-
+      Elastic Garter  \r\n- Gunting \r\n- Glue Gun at Glue Sticks \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595395102593024
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na caip\xFAwan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595406146195456
+    m_Localized: " Mag-drawing sagk\xFAd gunting\xFAn kan d\xFAwang hugis bilog sa
+      karton. Pwede ka pumili  nikan gusto mo na s\xFAkol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595417214963712
+    m_Localized: "Mag-gunting \xFAsad  na pidaso nikan elastic  garter para gamit\xFAn
+      bilang  hanger. I-kabit sa paryong p\xFAro sa tuktok nikan  karton na bilog
+      gamit kan glue gun. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595426715062272
+    m_Localized: "Mag-b\xFAtang pampasta sa gilid nikan karton na bilog sagk\xFAd
+      i-pasta kan \xFAsad pambilog sa ibab\xFAw nganing mag-kakay\xFAn p\xFAndasyon. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595435971891200
+    m_Localized: " Mag-gunting dak\xFAl na 3x3 pulgadang hugis kuwadrado gamit kan
+      magazine."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595445669122048
+    m_Localized: "I-rolyo kan kada kuwadrado nikan magazine nganing maka-gib\xF3ng
+      b\xFArak. Gumibong dak\xFAl kung caip\xFAwan pa. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595459497742336
+    m_Localized: "I-lapat kan pampasta sa ibaba nikan bilog. Mag-p\xFAn na ikang
+      b\xFAtang mga b\xFArak nikan magazine. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595471371816960
+    m_Localized: "I-dagos kan pag-r\xFAgang mga b\xFArak sagk\xFAd p\xFAn\xFA\xFAn
+      kan buong bilog nikan karton."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595482516082688
+    m_Localized: "\xDAlit\xFAn kan proseso hanggang sa map\xFAno mo kan buong bilog.
+      Tapos na kan  magazine wall hanging! I-s\xE1bit kadi sa bal\xFAy bilang r\xFAgang
+      sa dekorasyon.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603662612647936
+    m_Localized: "Mga Materyales na Caip\xFAwan: \n\r\n- Dyaryo \r\n- Gunting \r\n-
+      Glue gun with glue stick \r\n- Ruler \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603727464976384
+    m_Localized: "Tip\xFAn\xFAn ngamin na caip\xFAwan na materyales. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603751787745280
+    m_Localized: "Mag-\xFAko nikan dyaryo, tikl\xFApun sa b\xFAtnga tapos gamit kan
+      gunting, gunting\xFAn pa b\xE1l\xE1gb\xE1g. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603765180157952
+    m_Localized: " S\xFAnod tupi\xFAn kan dyaryo ning 1 na pulgada kan lapad nikan
+      mga pidas\u03CC tapos g\xFAmibo nikan dak\xFAl na pidaso na pararyo nikan dak\xFAlo.
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603777024872448
+    m_Localized: "Mag-\xFAko ning samp\xFAlong pidaso nikan dyaryo. I-posisyon kan
+      limang pidaso patind\u03CCg tapos kan kab\xE1nga pa-b\xE1l\xE1gb\xE1g. I-habi
+      kadi ning pa-\xFAtro-\xFAtro sagk\xFAd mag-r\xFAgang ning dak\xFAl pa na mga
+      pidaso nganing makagibo nikan dak\xFAlo na basket. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603790010437632
+    m_Localized: " Mag-gamit nikan pampasta nganing maka-sig\xFArado na di matangg\xE1l
+      kan pary\u03CCng p\xFAro na pinagpast\xE1han. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603801016291328
+    m_Localized: "Pag-na\xFAko mo na kan gusto mo na dak\xFAlo nikan basket, p\xFAnan
+      na kan pag-habi sagk\xFAd tiklop kan mga pidas\u03CC pa-\xEDtas. Kadi kan may-porma
+      nikan gil\xEDd nikan basket. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603816686211072
+    m_Localized: "Ulit\xFAn sana kan proseso sagk\xFAd pag-naabot na kan gustong
+      taas nikan basket saka tikl\xFApun kan mga nat\xFArang pidaso pababa sa l\xFAwas
+      nikan basket. I-pasta kadi ning maray nganing sig\xFArado na di maali sa pag-kakar\xFAkot
+      kan mga pidaso sagk\xFAd gunting\xFAn kan mga sobra.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608009484455936
+    m_Localized: "Mga Materyales na Caipuwan: \n\r\n- Dyaryo  \r\n- Magazine/Brochure
+      \r\n- Glue Gun at Glue Sticks  \r\n- Gunting \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608120503488512
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na caip\xFAwan. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608166137516032
+    m_Localized: "Mag \xFAkong dyaryo sagkud tikl\xFAp\xFAn kan b\xFAtnga saka gunting\xFAn
+      idto sa tinikl\xFApan \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608176275148800
+    m_Localized: "I-rolyo ngamin na pidaso nikan dyaryo nganing makagib\xF3ng stick.
+      Mag-gib\xF3ng dak\xFAl nikadi. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608185703944192
+    m_Localized: "\xDAsayun kan mga pinag-k\xFAr\xFAyog na mga stick nikan dyaryo
+      sa hugis  diamond, i-pasta kadi nganing maka-gibo ning base para sa wall hanging.
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608234492088320
+    m_Localized: "Mag gunting dak\xFAl na bilog na kay\xFAn iba-ibang dak\xFAlo gamit
+      kan magazine/brochure. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608247943221248
+    m_Localized: "Gunting\xFAn kan mga bilog na pa-spiral papaydto sa b\xFAtnga.
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608258785497088
+    m_Localized: "Sa p\xFAro nikan  pabilog, paligid\xFAn kan  papel hanggang makagibo
+      ikang b\xFArak. Mag-gib\xF3ng  dak\xFAl na kay\xFAn iba ibang  daculo. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608269019598848
+    m_Localized: "I-pasta kan mga  b\xFArak sa hugis diamond na  ginibo mo. B\xFAtangan
+      kan  parteng ibaba nikan base nikan mga b\xFArak hanggang sa magay\xF3nan na
+      ika sa resulta."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

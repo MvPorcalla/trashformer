@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI text_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: 04290f6ef79fc384b8cd1c6d2352dc8e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36476964864
+    m_Localized: "Plastik\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15906360152064
+    m_Localized: Lata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22654294839296
+    m_Localized: Papel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22801909174272
+    m_Localized: Babasagin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23098828148736
+    m_Localized: Tela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23251207213056
+    m_Localized: Karton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24771881488384
+    m_Localized: Mga Kategorya ng Basura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36470055391232
+    m_Localized: Listahan ng mga Proyekto ng Basura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41910935900160
+    m_Localized: Pumili ng Wika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42208299470848
+    m_Localized: Tungkol sa TrashFormers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90281994244096
+    m_Localized: Pagtuturo sa Pag-recycle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074420539412480
+    m_Localized: LoadPlasticDiscPainting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074475937779712
+    m_Localized: Lampshade From Plastic Spoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15074590614245376
+    m_Localized: LoadPlasticLampshade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075186402545664
+    m_Localized: 'Materials Needed:
+
+
+      - Plastic bottles
+
+      - Scissors or
+      cutter
+
+      - White plastic spoons
+
+      - Tea light candles
+
+      - Glue
+      gun or any strong adhesive
+
+      - Marker or pen'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075425444319232
+    m_Localized: "You can use a marker or pen to mark the middle section of the plastic
+      bottle. This will be the part you'll keep to create the lampshade. Carefully
+      cut the bottle in half along the marked line using scissors or a utility knife.
+      You can wear protective gloves for safety.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075456679301120
+    m_Localized: ' Remove the handles of the white plastic spoons, leaving only the
+      spoon-shaped parts. You can do this by snapping off the handles or cutting
+      them using scissors. Ensure you have enough spoon pieces to cover the entire
+      surface of the middle section of the plastic bottle.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075497800257536
+    m_Localized: Apply a small amount of glue to the spoon piece using a glue gun
+      or a strong adhesive. Press the glued end of the spoon onto the upper section
+      of the plastic bottle. Repeat this process, attaching the spoon pieces side
+      by side, and working your way from the top to the bottom until the entire section
+      of the plastic bottle is covered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15075558626054144
+    m_Localized: "Once the bottle is covered with spoons, place tea light candles
+      inside the plastic bottle. Make sure they are centered and secure. Light the
+      tea light candles to see the lampshade in action. The white plastic spoons
+      will create a soft and diffused light effect, giving a unique and decorative
+      ambiance.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15082406276124672
+    m_Localized: Lampshade From Plastic Spoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15082596320038912
+    m_Localized: LampShade From Plastic Spoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15082721431932928
+    m_Localized: LampShade From Plastic Spoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15082842274025472
+    m_Localized: LampShade From Plastic Spoon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

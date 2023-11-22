@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: aboutTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: 27879126c688a6246b0eef98d5aa1c66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8672923648
+    m_Localized: Maligayang pagdating sa TrashFormers, ang iyong go-to na mobile
+      app para sa pag-recycle ng basura at pagkamalikhain. Kami ay mahilig sa pamamahala
+      ng basura at naniniwala na ang lahat ay maaaring gumawa ng positibong epekto
+      sa kapaligiran.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12628152320
+    m_Localized: "Ang aming Misyon\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169835962368
+    m_Localized: "Ang aming misyon ay simple: upang bigyang kaalaman ang mga indibidwal
+      at komunidad na bawasan ang basura, i-recycle, at gawing kapaki-pakinabang
+      at magagandang mga likha. Nilalayon naming itaas ang kamalayan tungkol sa kahalagahan
+      ng responsableng pamamahala ng basura at magbigay ng mga praktikal na gamit
+      at mapagkukunan upang magbigay ng inspirasyon sa pagbabago.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4411383500800
+    m_Localized: Ang Aming Pangako
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4435672715264
+    m_Localized: Kami ay nakatuon sa pagbago ng mundo tungo sa isang luntiang kapaligiran
+      sa pamamagitan ng pagbibigay sa iyo ng mga gamit at impormasyon na kailangan
+      mo upang gawing opurtunidad ang basura. Ang aming nilalaman ay idinisenyo upang
+      magbigay ng inspirasyon at ipaalam sa iyo ang tungkol sa pinakabagong mga uso
+      sa pamamahala ng basura at pag-recycle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6081354027008
+    m_Localized: "Makisali!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105647435776
+    m_Localized: "Sumali sa amin sa komunidad ng TrashFormers at maging bahagi ng
+      solusyon.  ang mga proyekto sa pag-recycle, manatiling napapanahon sa mga pinakabagong
+      balita at kaganapan sa mundo ng pamamahala ng basura. Sama-sama, maaari tayong
+      gumawa ng pagbabago.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

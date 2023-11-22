@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Filipino (Philippines) (fil-PH)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Filipino (Philippines) (fil-PH)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e6d25264818cc8e4aa5583db4726b290
+  m_SerializeEntries:
+  - m_GUID: ccac657446cca5d489ee31a4e68d1e3e
+    m_Address: UI text_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: 7af3e0f27e7252f48a21ad4c4696f082
+    m_Address: cansTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: c3ab3e9d8a5a9f141ba201774652437a
+    m_Address: FAQsTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: 3d171a3e2ac576147abde01620109f88
+    m_Address: aboutTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: cf27aa6720ff54b4ab88b7f8d94486a8
+    m_Address: cardboardTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: d39eec8039d164544a4de79921fce2bf
+    m_Address: glassTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: e9699280d1220874ca4a38b86055b7e8
+    m_Address: paperTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: 0e4715efb43f4534e9aa8898e927ae62
+    m_Address: PlasticTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  - m_GUID: af589be990a2de94bae0e35af9ae763c
+    m_Address: TextileTable_fil-PH
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fil-PH
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a173d2736491c40418416620a0b95ea2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c959aaabf77c1164ba7c112f1278285f, type: 2}
+    - {fileID: 11400000, guid: 26282300e2d9a0243a57b91907ba86b5, type: 2}

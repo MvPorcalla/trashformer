@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI text_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: 04290f6ef79fc384b8cd1c6d2352dc8e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 36476964864
+    m_Localized: "Plastik\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15906360152064
+    m_Localized: Lata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22654294839296
+    m_Localized: Papel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22801909174272
+    m_Localized: "P\xFAp\xFAsa\xFAn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23098828148736
+    m_Localized: Tela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23251207213056
+    m_Localized: Karton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24771881488384
+    m_Localized: "Mga Kateg\xF3rya nikan Bas\xFAra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36470055391232
+    m_Localized: "List\xE1h\xE1n nikan mga Proyekto ning Bas\xFAra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41910935900160
+    m_Localized: "Pum\xEDl\xED nikan L\xE9nggwah\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42208299470848
+    m_Localized: "Man\xFAng\xFAd sa TrashFormers"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90281994244096
+    m_Localized: Pagtuturo sa Pag-recycle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91856653406208
+    m_Localized: 'Tin Can Organizer '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93133160468480
+    m_Localized: "Materials Needed:  \n\n\t- Tin Cans (Different sizes)  \r\n\t-
+      Scissors  \r\n\t- Glue Gun with Glue Sticks \r\n\t- Cardboard  \r\n\t- Newspapers\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

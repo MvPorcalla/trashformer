@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: cansTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: 54aebc7ddb5157c4387272ad0f13c934, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59289652842496
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\n\t- Lata (Iba-ibang dakulo) \r\n\t-
+      Gunting \r\n\t- Glue Gun at Glue Sticks \r\n\t- Karton  \r\n\t- Dyaryo \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67657998159872
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71502593675264
+    m_Localized: "Mag-gunting \xFAsad  na bilog sa karton tapos  \xFAsad pa na paryong
+      bilog sa dyaryo. B\xFAtangan pang-pasta kan bilog na karton  tapos i-b\xFAtang
+      kan bilog na dyaryong papel sa itaas  tapos likod. Kadi kan may s\xEDrb\xEDng
+      pat\xFAngan nikan organizer. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73380501016576
+    m_Localized: "I-pasta kan mga dyaryo sa l\xFAwas nikan mga lata hanggang sa matakl\xFAban
+      kadi. Kadi kan  may taw dekorasyon sa gigib\xF3n mo na organizer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74007729819648
+    m_Localized: "Pag nap\xFAtos mo na ngamin na lata tapos g\xFAminayon na i-pasta
+      na kadi sa pabilog na base na ginibo mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74902160953344
+    m_Localized: "Pwede na magamit kan organizer mo! I-b\xFAtang  sa lata kan mga
+      lapis, pa n-surat, o uno pa na saraday na bagay na gusto mo i-b\xFAtang idto
+      sa organizer\r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74924638228480
+    m_Localized: "I-display kan organizer na ginibo mo sa study table o maski sayn
+      na lugar na caip\xFAwan organizer. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78815043932160
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n\t- Lata\r\n\t- Martilyo \r\n\t-
+      Pako \r\n\t- Saday na kand\xEDla\r\n\t- Hole Punch (opsyonal  pamalit sa pako)
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80692070469632
+    m_Localized: "Mag-\xFAkong lata, gamit kan martilyo tapos pako l\xFAb\xFAtan
+      kan pal\xEDbot nikan lata,mas dak\xFAlo na l\xFAbot mas magay\xF3n. Mag-ingat
+      sana sa pag-gamit nikan martilyo sagk\xFAd pako."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80701935472640
+    m_Localized: "Mag-b\xFAtang ning saday na kand\xEDla sa l\xFAg nikan lata kina
+      s\xFAl\xFAan. May taw kadi nikan magay\xF3n sagk\xFAd maaliwalas na kapalib\xFAtan
+      sa espasyo mo. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80712706445312
+    m_Localized: "Ng\xFAana na tapos mo na, pwede mo na k\xE1ding i-b\xFAtang sa
+      bal\xFAy mo bilang dekorasyon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80678988435456
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na caip\xFAwan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86128463073280
+    m_Localized: "Mga Materyales na Caip\xFAwan:\n\n\t- Lata (Dak\xFAlong s\xFAkol)
+      \r\n\t- Magazine /Brochure \r\n\t Dyaryo \r\n\t- Yarn \r\n\t- Colored paper
+      \r\n\t- Glue gun at glue stick \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86157647040512
+    m_Localized: "Mag-\xFAko ning dak\xFAlo na lata, buksan kadi sagk\xFAd i-pasta
+      kan dyaryo sa l\xFAg hanggang maputos kan l\xFAg nikan lata."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86541413273600
+    m_Localized: "Diseny\xFAhan nikan mga pang-dec\xF3rar na papel na kay\xFAn pattern
+      kan l\xFAwas nikan lata."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86553153130496
+    m_Localized: "Gamit kan magazine  mag-gibo nikan butterfly origami na iba-iba
+      kan dak\xFAlo. Kan origami na kadi gagamit\xFAn pang-dec\xF3rar sa l\xFAg 
+      nikan lata sagk\xFAd sa kalay-kalay nikan dreamcatcher. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86562481262592
+    m_Localized: "(Opsyonal) Mag-\xFAko ning CD sagk\xFAd pint\xFAran gamit kan disenyo
+      na kay\xFAn tema na kapalib\xFAtan, gagamit\xFAn kadi para sa pa\xFAp\xFAtan
+      kan mga butterfly na ginibo sagk\xFAd i-pasta kan CD sa l\xFAg nikan lata. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86573826854912
+    m_Localized: "Pag-natapos na ika sa pag-dek\xF3rar nikan lata, gamit\xFAn kan
+      yarn tapos palib\xFAt\xFAn sa l\xFAwas nikan lata, i-pasta kadi gamit kan matibay
+      na pang pasta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86592881577984
+    m_Localized: "Gib\u03CCn kan ik\u03CCg nikan dreamcatcher gamit kan butterfly
+      origamis sagk\xFAd i-stapler kadi sa sinulid. Pag-tapos na saka isabit kadi
+      sa bal\xFAy.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 413295734575104
+    m_Localized: "Kan mga lata ay mga b\xFAtang\xE1ng metal na k\xE1daklan gib\xF3
+      sa bakal na napapalib\xFAtan nikan manipis na layer ning lata. Gagamit kan
+      lata sa pag-iimpake nikan mga pagkawn ar\xFAg nikan prutas, g\xFAlay, sopas,
+      sarsa, sagk\xFAd iba pang mga pagkawn na pwede i-b\xFAtang sa lata. Importante
+      kading mga lata dahil sa kapasidad na pa-al\xFAy kan kalidad sagk\xFAd kaligtasan
+      nikan mga b\xFAtang sa al\xFAy na panahon. Kan patong nikan lata kan naga-s\xEDrb\xEDng
+      proteksyon sa pagkawn ngan\xEDng d\xED t\xFAlos mara\xFAt, s\xEDs\xEDgurado
+      nikadi kan kaligtasan nikan produkto."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

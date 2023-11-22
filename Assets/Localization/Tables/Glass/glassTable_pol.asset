@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: glassTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: 6e1e2deda4388c7429a1d8004eb2691a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5170679808
+    m_Localized: "Kan salming ay \xFAsad na solidong sangkap na kay\xFAn makinis,
+      minsan malinaw sagk\xFAd madaling ma-p\xFAsa. Gagamit kadi sa pag-gibo nikan
+      mga bintana, b\xFAtangan, sagk\xFAd iba pa na mga gamit na kay\xFAn makinis
+      tapos makintab na ibab\xFAw. Gigibo kadi sa pa\xE1gi nikan pag-p\xE1p\xE1lipot
+      nikan pinag-t\xFAn\xFAw na k\xFAmbinasyon nikan pirang materyales sa \xFAsad
+      na mat\xFAgas na estado na \xFAda kristalisasyon. Dahil sa transparency, kinis,
+      sagk\xFAd capasidad nikadi, \xFAsad kadi sa mga importanteng materyales sa
+      iba-ibang sektor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12511631161577472
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n\t- P\xFAp\xFAsa\xFAn na Garap\xF3n
+      (Saday sagk\xFAd sa dak\xFAlo na s\xFAkol) \r\n\t- Acrylic na pintura \r\n\t-
+      Paintbrushes \r\n\t- Saday na kand\xEDla \r\n\t- Yarn \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513166541082624
+    m_Localized: "Mag-k\xF3lekta ning mga garap\xF3n na p\xFAp\xFAsa\xFAn na iba-iba
+      kan dak\xFAlo. Kan mga garap\xF3n, bote, sagk\xFAd iba pa na mga gamit na p\xFAp\xFAsa\xFAn
+      ay pwede gamit\xFAn sa pag-gib\xF3ng lantern. Mag-is\xEDp kung \xFAnong disenyo
+      kan i-b\xFAtang mo sa garap\xF3n, kung \xFAnong pattern, landscape, anino,
+      tas abstract na disenyo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513715256709120
+    m_Localized: "Mag-b\xFAtang ning dyaryo o plastic sheet nganing di matips\xEDkan
+      pintura kan lugar na g\xEDg\xEDbwan mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12514252521885696
+    m_Localized: "Mag-p\xFAn m\xFAna sa pag-pintura ning napili mo na disenyo. Kung
+      gusto mo, pwede ka pa mag-rugang ning mga pinong detalye sa pinagi-pint\xFAran
+      mo. Pab\xE1yan m\xFAna na mag-mara kan pinint\xFAran bago i-dagos kan s\xFAnod
+      na gigib\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515004178911232
+    m_Localized: "I-p\xFAtos kan yarn sa tak\xFAp nikan mga garap\xF3n. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515787976888320
+    m_Localized: "Mag-b\xFAtang ning mga sad\xE1y na kand\xEDla sa l\xFAg. Sig\xFArad\xFAn
+      na tama kan pwesto nikan mga kand\xEDla. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515789956599808
+    m_Localized: "S\xFAl\xFAan kan kand\xEDla nganing makita kan gay\xF3n nikan lantern.
+      \xDAsay\xFAn kan mga natapos mo na lantern sa l\xFAg o l\xFAwas nikan baluy
+      nganing magay\xF3n kit\xFAn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517662839164928
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n\t- Mason Jar o Garapon\r\n\t
+      - Glue Gun at Glue Sticks  \r\n\t- Yarn  \r\n\t- Gunting \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517829629857792
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na gagamit\xFAn  sa pag-gibo
+      nikading proyekto. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517893114843136
+    m_Localized: "Gum\xFAnting \xFApat na  pidasong yarn na kay\xFAn  s\xFAkol na
+      25 pulgada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517919186636800
+    m_Localized: "I-b\xFAtang kan d\xFAwang pidasong yarn  pa-b\xE1l\xE1gb\xE1g tapos
+      d\xFAwa pa  na patindog na naka-patong sa b\xFAtnga.  Mag-p\xFAn ng g\xFAmibo
+      nikan buhol sa intersection point.  \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517934386794496
+    m_Localized: "Mag-b\xFAtang pampasta sa irar\xFAm na b\xFAtnga  nikan garapon
+      tapos i-pasta kan naka-buhol na yarn.  Sig\xFArad\xFAn na naka-pasta  kading
+      maray. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517946768379904
+    m_Localized: "Mag-\xFAkong \xFAsad  pa na pidasong yarn ali sa  mga pades (pabalagbag 
+      tapos patindog) sagk\xFAd  p\xFAnan kan pag-ka-ka-buhol  nikadi sa palibot
+      nikan  garapon. Mag-b\xFAtang  d\xFAd\xFAy na pampasta sa  mga p\xFAro nikan
+      buhol nganing di siya ma-\xE1li o  ma-iwag. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517957673570304
+    m_Localized: "Pag natak\xFApan na nikan buhol kan garapon  sagk\xFAd naabot na
+      kan p\xFAro i-b\xFAgk\xFAs kan pang-\xFAryan na  buhol nganing makasigurado
+      na di ma-tanggal kan yarn, p\xFAt\xFAl\xFAn kan mga sobra. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517968712978432
+    m_Localized: "Mag-b\xFAtang saday  na kand\xEDla sa l\xFAg nikan  knotted glass
+      jar. Sig\xFArad\xFAn na idto kadi sa  ligtas na lugar. S\xFAl\xFAan kan kandila,
+      magataw kan buhol-buhol ning magay\xF3n sagk\xFAd  ma-aliwalas na disenyo.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539019132030976
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n\t- P\xFAp\xFAsa\xFAn na Bote
+      \r\n\t- Acrylic na pintura \r\n\t- Paleta \r\n\t- Paintbrush  \r\n\t- Dyaryo
+      \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539118813859840
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na gagamit\xFAn. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539136329273344
+    m_Localized: "\xDAkon kan mga  p\xFAp\xFAsa\xFAn na bote. Mag-gamit nikan acrylic
+      na  pintura tapos paintbrush nganing gib\xF3n kan disenyo  na gusto mo sa palibot 
+      nikan bote."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539148106878976
+    m_Localized: "I-k\xFAy\xFAg mo pati kan  mga pino na detalye tapos  pabayan mo
+      sanang l\xFAm\xFAwas kan pag-kamalikhain mo habang naga-pinta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539174921064448
+    m_Localized: " I-padag\xFAs kan  pag-gib\xF3 nikan dak\xFAl na  pinint\xFArahang
+      bote sagk\xFAd gusto mo. I-b\xFAtang kadi sa bal\xFAy  nganing mapagay\xF3n
+      kan dekorasyon sa bal\xFAy ninyo.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

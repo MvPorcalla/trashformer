@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: aboutTable_en-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-PH
+  m_SharedData: {fileID: 11400000, guid: 27879126c688a6246b0eef98d5aa1c66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8672923648
+    m_Localized: 'Welcome to TrashFormers, your go-to mobile app for waste recycling
+      and creativity. We are passionate about waste management and believe that everyone
+      can make a positive impact on the environment. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12628152320
+    m_Localized: Our Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169835962368
+    m_Localized: 'Our mission is simple: to empower individuals and communities to
+      reduce waste, recycle, and transform it into useful and beautiful creations.
+      We aim to raise awareness about the importance of responsible waste management
+      and provide practical tools and resources to inspire change.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4411383500800
+    m_Localized: Our Commitment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4435672715264
+    m_Localized: We are dedicated to making the world a greener place by providing
+      you with the tools and information you need to turn waste into opportunity.
+      Our content is designed to inspire and inform you about the latest trends in
+      waste management and recycling.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105647435776
+    m_Localized: 'Join us in the TrashFormers community and be part of the solution.
+      Explore recycling projects, stay up to date with the latest news and events
+      in the world of waste management. Together, we can make a difference.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6081354027008
+    m_Localized: Get Involved!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

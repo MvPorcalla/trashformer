@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: cansTable_en-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-PH
+  m_SharedData: {fileID: 11400000, guid: 54aebc7ddb5157c4387272ad0f13c934, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59289652842496
+    m_Localized: "Materials Needed:  \n\n\t- Tin Cans (Different sizes)  \r\n\t-
+      Scissors  \r\n\t- Glue Gun with Glue Sticks \r\n\t- Cardboard  \r\n\t- Newspapers\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67657998159872
+    m_Localized: Gather the needed  materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71502593675264
+    m_Localized: Cut a circular piece of cardboard and a matching circular piece
+      from a newspaper. Apply glue to the cardboard circle and attach the newspaper
+      circle on top and on the back. This will serve as the sturdy base for your
+      organizers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73380501016576
+    m_Localized: Carefully glue newspaper sheets to the outside of each tin can until
+      they are completely covered, giving them a decorative look.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74007729819648
+    m_Localized: Once all your tin cans are wrapped in  newspaper and look stylish,
+      glue them securely onto  the circular base you created in step 2.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74902160953344
+    m_Localized: Your tin can organizer is now ready to use! Place your pencils, 
+      pens, or any other small items you want to keep organized inside the cans.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74924638228480
+    m_Localized: Showcase your homemade organizer on your study table or any other
+      area where you need to keep things tidy. It will add a touch of organization
+      and charm to your room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78815043932160
+    m_Localized: "Materials Needed: \n\n\t- Tin Cans  \r\n\t- Hammer  \r\n\t- Nails 
+      \r\n\t- Tea Light Candles  \r\n\t- Hole Punch (optional, in  place of nails)
+      \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80678988435456
+    m_Localized: "Collect all the items you'll need for this project. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80692070469632
+    m_Localized: Take a tin can. Use a hammer and nails or a hole punch to make holes
+      all around the can's surface. The more holes, the better! But be careful when
+      using a hammer and  nails, prioritize safety.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80701935472640
+    m_Localized: 'Place a tea light candle inside the tin can with the holes. Light
+      the candle. This will produce a warm and cozy atmosphere in your space. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80712706445312
+    m_Localized: "Now that you're done, you can position your tin can lantern anywhere
+      in your home for an evening display or as a decorative piece\r.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86128463073280
+    m_Localized: "Materials Needed: \r\n\n\t- Can (Large Size) \r\n\t-  Magazine/Brochure
+      \r\n\t-  Newspaper \r\n\t-  Yarn \r\n\t-  Colored paper \r\n\t-  Glue gun with
+      glue stick "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86157647040512
+    m_Localized: 'Get a large size of tin cans, open it and glue the newspaper inside
+      until all the inside of the can is covered. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86541413273600
+    m_Localized: On the outside of the tin cans, design it with decorative paper
+      of pattern you like.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86553153130496
+    m_Localized: "Create a butterfly origami that is made by magazines and make different
+      sizes of it. Theorigami will be used as a design to be put inside the cans.
+      And it will also be used to make the tail of the dreamcatcher. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86562481262592
+    m_Localized: (Optional) Get a CD or disk and paint it with nature-theme designs,
+      we will use it together with the butterfly origami we made that will then be
+      glued inside the cans alongside with the butterfly origami.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86573826854912
+    m_Localized: 'When you finished designing the tin cans, wrap a yarn around it
+      and secure it with a strong adhesive. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86592881577984
+    m_Localized: "Create a dreamcatcher's tail using the butterfly origami and staple
+      it in a not too long piece of yarn. When done, hang the dream catcher anywhere
+      in your house.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 413295734575104
+    m_Localized: "Cans are metal containers made mostly of steel covered with a thin
+      layer of tin. Cans are frequently used to package a wide range of commodities,
+      particularly foods such as fruits, vegetables, soups, sauces, and more. They
+      are valued for their capacity to maintain the quality and safety of the contents
+      for long periods of time. The protective coating prevents the metal from reacting
+      with acidic or corrosive components in the food, ensuring the product's safety.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

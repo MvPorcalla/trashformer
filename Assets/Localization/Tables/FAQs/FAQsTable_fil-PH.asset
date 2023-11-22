@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: FAQsTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: 985dc406d038c7b459fe4f0f37913597, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6680629248
+    m_Localized: "Ano ang TrashFormers?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41199751168
+    m_Localized: Ang TrashFormers ay isang mobile application na nakatuon sa pag-recycle
+      at pamamahala ng basura. Nag-aalok ito ng mga mapagkukunan, gabay, at proyekto
+      upang matulungan kang i-recycle at muling gamitin ang iba't ibang mga basurang
+      materyales sa mga kapaki-pakinabang na gamit at nagbibigay ng mga update patungkol
+      sa pamamahala ng basura sa aming komunidad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4732902068224
+    m_Localized: "Upang makapagsimula, i-download ang apk.file ng TrashFormers app.
+      Kapag na-install na, hindi mo na kailangang mag-sign up o mag-log in dahil
+      bukas ang aming app sa lahat. Maa-access mo kaagad ang mga kategorya ng basura,
+      mga proyekto sa pag-recycle, at mga update sa komunidad nang hindi nangangailangan
+      ng isang account. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4712169623552
+    m_Localized: ' Paano ako magsisimula sa TrashFormers?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5972880936960
+    m_Localized: "Ano ang mga kategorya ng basura sa TrashFormers?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5974755790848
+    m_Localized: 'Kasama sa TrashFormers ang anim na kategorya ng basura: plastik,
+      lata, papel, babasagin, tela, at karton. Ang bawat kategorya ay naglalaman
+      ng mga proyekto sa pag-recycle at mga pasunod-sunod na instruksyon  kung paano
+      gawing kapaki-pakinabang na mga bagay ang basura.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7435283746816
+    m_Localized: '
+
+      Oo naman! Ang isang halimbawa ay ang paglikha ng isang
+      hinabing basket gamit ang mga lumang pahayagan. Ang app ay nagbibigay ng mga
+      detalyadong instruksiyon at materyales na kailangan upang makumpleto ang proyekto,
+      na makakatulong upang mabawasan ang mga basura at lumikha ng isang bagay na
+      kapaki-pakinabang.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7419378946048
+    m_Localized: Maaari mo ba akong bigyan ng halimbawa ng isang proyekto sa pag-recycle
+      na makikita sa TrashFormers?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9295075889152
+    m_Localized: Gaano kadalas ina-update ang app gamit ang bagong nilalaman at mga
+      highlight ng komunidad?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9319063113728
+    m_Localized: Nilalayon naming magbigay ng mga regular na update na may sariwang
+      nilalaman at mga highlight ng komunidad. Maaari mong asahan na makakita ng
+      mga bagong proyekto at artikulo ng balita na idinagdag sa app sa isang regular
+      na batayan upang panatilihin kang may kaalaman at inspirasyon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10416561475584
+    m_Localized: "Upang makita ang mga kategorya ng basura, buksan lang ang app at
+      i-tap ang seksyong \"Recycle\". Mula doon, maaari mong piliin ang kategoryang
+      interesado ka at ma-access ang mga proyekto at gabay sa pag-recycle na nauugnay
+      sa partikular na uri ng basura.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10398517579776
+    m_Localized: "Paano ako mag-navigate sa iba't ibang kategorya ng basura sa TrashFormers?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11865253105664
+    m_Localized: "Pwede ba ang Trashformers sa maraming wika?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11883468967936
+    m_Localized: 'Ngayon, ang TrashFormers ay magagamit lamang sa wikang English,
+      Tagalog at Polangui, at kami ay gumagawa ng paraan para mapalawak ang wika
+      upang maabot ang mas malawak na madla.
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

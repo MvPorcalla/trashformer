@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: FAQsTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: 985dc406d038c7b459fe4f0f37913597, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6680629248
+    m_Localized: "Uno kan TrashFormers?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41199751168
+    m_Localized: "Kan TrashFormers ay usad na mobile application na nakatuon sa pag
+      recycle sagkud pag asikaso nikan basura. Nagialok kadi nikan mga mapagukuwan,
+      gabay, sagkud proyekto nganing matabangan ikang i-recycle sagkud magamit mo
+      utro kan iba ibang mga basurang materyales sa mga kapaki-pakinabang na gamit
+      sagkud nagataw nikan mga update nikan basura sa satong komunidad. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4712169623552
+    m_Localized: 'Pawno ako magpun sa TrashFormers?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4732902068224
+    m_Localized: "Nganing makapun, i-download kan  apk.file nikan TrashFormers app.
+      Pag na-install mo na, di mo na caipwan mag-sign up o mag-log in ta bukas kan
+      application namo sa ngamin. Maa-access mo kan mga kategorya nikan basura, mga
+      proyekto sa pag recycle, sagkud mga update sa komunidad nang di nangaipwan 
+      nikan usad na account. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5972880936960
+    m_Localized: "Uno kan mga kategorya nikan basura sa TrashFormers?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5974755790848
+    m_Localized: 'Kakuyog sa TrashFormers kan unum na kategorya nikan basura: plastic,
+      lata, papel, pupusaun, tela, sagkud karton. Kan bawat kategorya nikan mga proyekto
+      sa pag recycle sagkud sunod-sunod na mga paintindi kung pawno gibon kapaki-pakinabang
+      na mga gamit kan basura.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7435283746816
+    m_Localized: Oo naman, Usad na halimbawa nikan ay kan paggibo nikan mga eco-friendly
+      basket gamit kan na lumang dyaryo. Kan app ay naytaw nikan mga detalyadong
+      paintindi sagkud materyales na caipwan nganing makumpleto kan proyekto, na
+      naytabang na mabawasan kan basura sagkud gumibo nikan usad na bagay na kapaki-pakinabang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7419378946048
+    m_Localized: Pwede mo ba akong matawan halimbawa nikan usad na proyekto sa pag-recycle
+      na makikita sa TrashFormers?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9295075889152
+    m_Localized: Gawno kadali iupdate kan app nikan bagong nilalaman sagkud highlight
+      nikan komunidad?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9319063113728
+    m_Localized: 'Obheto namo na makataw nikan mga regular na update na kayun mga
+      bagong nilalaman sagkud mga highlight nikan komunidad. Pwede ikang mag asa
+      na makakikita ka nikan mga bagong proyekto sagkud artikulo na irurugang sa
+      app sa usad na regular na batayan nganing manatili kan kaaraman sagkud inspirasyon
+      mo.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10416561475584
+    m_Localized: "Nganing makita kan mga kategorya nikan basura, buksan sana kan
+      app sagkud i-tap kan seksyong \u201CRecyle\u201D. Pun idto, pwede mong piliun
+      kan kategoryang interesado ika sagkud ma-access kan mga proyekto sagkud gabay
+      sa pag-recycle na naugnay sa partikular na uri nikan basura.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10398517579776
+    m_Localized: "Pawno ako mag-navigate sa iba ibang kategorya nikan basura sa TrashFormers?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11865253105664
+    m_Localized: " Pwede ba kan TrashFormers sa dakul na lenggwahe?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11883468967936
+    m_Localized: "Nguana, kan TrashFormers ay magagamit lang sa English, Tagalog,
+      sagkud Polangui, sagkud nagagibo kaming paraan nganing mapalawak kan lenggwahe
+      para mas magamit siya nikan dakul na taw.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

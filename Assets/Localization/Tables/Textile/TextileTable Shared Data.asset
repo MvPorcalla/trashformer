@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TextileTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TextileTable
+  m_TableCollectionNameGuidString: ed477a0d1439a2842a025888245fe123
+  m_Entries:
+  - m_Id: 18626007040
+    m_Key: TextileDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16599963931922432
+    m_Key: TextileRFPmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600042910666752
+    m_Key: TextileRFP1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600076297326592
+    m_Key: TextileRFP2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600085357023232
+    m_Key: TextileRFP3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600093879848960
+    m_Key: TextileRFP4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600103174426624
+    m_Key: TextileRFP5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600112435449856
+    m_Key: TextileRFP6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605096652722176
+    m_Key: TextileTSmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605130605613056
+    m_Key: TextileTS1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605169595863040
+    m_Key: TextileTS2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605183185408000
+    m_Key: TextileTS3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605195130785792
+    m_Key: TextileTS4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605205062897664
+    m_Key: TextileTS5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605215062118400
+    m_Key: TextileTS6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605225027784704
+    m_Key: TextileTS7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608853780221952
+    m_Key: TextileOCEmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608954674204672
+    m_Key: TextileOCE1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608973062033408
+    m_Key: TextileOCE2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608982289502208
+    m_Key: TextileOCE3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608989503705088
+    m_Key: TextileOCE4
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7858890284423184446
+  references:
+    version: 2
+    RefIds:
+    - rid: 7858890284423184446
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1696359089655

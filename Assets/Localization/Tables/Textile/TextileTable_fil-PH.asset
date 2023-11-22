@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TextileTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: ed477a0d1439a2842a025888245fe123, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18626007040
+    m_Localized: Ang tela ay tumutukoy sa anumang materyal na gawa sa pang-habi,
+      pagni-niting, pag-gantsilyo, at sintetikong mga hibla. Ang mga tela ay ginagawa
+      mula sa pag-hahabi at gina-gamit para sa iba't-ibang gamit tulad ng damit,
+      mga produkto sa bahay, at mga pang-industriyang aplikasyon. Ang mga tela ay
+      isang pangunahing bahagi ng sibilisasyon ng tao at ginawa sa loob ng libu-libong
+      taon gamit ang iba't-ibang mga pamamaraan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16599963931922432
+    m_Localized: "Mga Kagamitan na kailangan:  \r\n\n- Lumang Damit \r\n- Siper 
+      \r\n- Gamit Panahi  \r\n- Gunting \r\n- Medida \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600042910666752
+    m_Localized: "I-punin ang mga kina-kailangang materyales sa pag-gawa ng pouch.
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600076297326592
+    m_Localized: "Sukatin at gupitin ang dalawang piraso ng tela mula sa iyong mga
+      lumang damit, bawat isa ay may sukat na 20x25  sentimetro. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600085357023232
+    m_Localized: 'Tahiin ang sipper sa taas ng tela. Dito mo bubuksan at isasara
+      ang  pouch. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600093879848960
+    m_Localized: 'Tahiin ang natitirang tatlong gilid ng mga piraso ng tela. Isasara
+      nito ang pouch, habang bukas naman ang nasa itaas (kung saan mo ikinabit ang
+      zipper). '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600103174426624
+    m_Localized: Baliktarin ang pouch upang nasa loob ang tinahian. Itatago nito
+      ang mga tinahian at maging malinis ang itsura nito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600112435449856
+    m_Localized: "Ang iyong pouch ay handa nang gamitin!  Maaari kang mag-lagay ng
+      mga bagay tulad ng mga panulat, lapis, o anumang bagay na gusto mong panatilihing
+      organisado sa loob nito. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605096652722176
+    m_Localized: "Mga Kagamitan na kailangan:  \r\n\n- Lumang tela o damit - Gamit
+      Panahi \r\n- Garter\r\n- Gunting \r\n- Medida\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605130605613056
+    m_Localized: 'I-punin ang mga kina-kailangang materyales sa pag-gawa ng proyekto. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605169595863040
+    m_Localized: "Sukatin at gupitin ang isang piraso ng tela,  4x16 pulgada ang
+      laki. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605183185408000
+    m_Localized: Gupitin ng 5-pulgada ang isang piraso  ng garter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605195130785792
+    m_Localized: "Tahiin ang magkabilang dulo ng  garter upang makabuo ng  bilog.
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605205062897664
+    m_Localized: I-balot ang piraso ng tela sa paligid ng garter at tahiin ito sa
+      lugar. Tiyakin na ang tela ay  ganap na natatakpan ang  garter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605215062118400
+    m_Localized: Baliktarin ang tinahi na tela at garter para maitago ang tahi. Sa
+      wakas, tahiin ang mga dulo ng tela upang masarado ang bilog.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605225027784704
+    m_Localized: Congrats! Nakagawa ka na ngayon ng sarili mong scrunchie na magagamit
+      mo para itali ang iyong buhok.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608853780221952
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n- Lumang Damit \r\n- Gunting
+      \r\n- Pang tahi \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608954674204672
+    m_Localized: 'Pumili ng lumang t-shirt na gusto mong gawing bag. Ilagay ang t-shirt
+      sa isang patag na ibabaw at alisin ang anumang gusot. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608973062033408
+    m_Localized: 'Gupitin ang gustong haba sa magkabilang manggas ng t-shirt. Tandaan
+      na ang mga manggas ay magiging mga hawakan ng bag, kaya pumili ng haba na kumportable
+      para sa iyonadalhin. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608982289502208
+    m_Localized: "Baliktarin ang t-shirt sa loob upang ang mga tahi ay nasa labas.
+      Gumamit ng sewing machine o hand-sew para isara ang ilalim na bahagi ng t-shirt.
+      Kung ikaw ay mag-tatahi gamit ang kamay, gumamit ng matibay at secure na tahi,
+      gaya ng backstitch. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608989503705088
+    m_Localized: 'Pagkatapos manahi, ilabas ang t-shirt sa kanang bahagi sa butas
+      ng leeg. Handa nang gamitin ang iyong bag! (Opsyonal) Kung gusto mo, maaari
+      mong higit pa na i-personalize ang iyong eco bag sa pamamagitan ng pagdaragdag
+      ng tela na pintura, mga iron-on patch, o iba pa na mga palamuti.
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

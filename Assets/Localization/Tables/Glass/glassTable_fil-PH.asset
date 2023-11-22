@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: glassTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: 6e1e2deda4388c7429a1d8004eb2691a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5170679808
+    m_Localized: Ang salamin ay isang solidong sangkap na may makinis, kadalasang
+      malinaw at madaling mabasag. Ito ay karaniwang ginagamit upang gumawa ng mga
+      bintana, lalagyan, at iba pa na mga bagay na may makinis, makintab na ibabaw.
+      Ginagawa ito sa pamamagitan ng pagpapalamig ng tinunaw na kumbinasyon ng ilang
+      mga materyales sa isang matigas na estado nang walang kristalisasyon. Dahil
+      sa transparency, kinis, at kakayahang umangkop nito, isa itong mahalagang materyal
+      sa iba't ibang sektor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12511631161577472
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n\t- Glass Container (Maliit hanggang
+      katamtamang laki) \r\n\t- Acrylic na pinture \r\n\t- Paintbrushes \r\n\t- Maliit
+      na kandila\r\n\t- Yarn \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513166541082624
+    m_Localized: "Kolektahin ang malinis na babasaging lalagyan na may iba't-ibang
+      laki. Ang mga garapon, bote, at iba pa na mga bagay na salamin ay gumagana
+      nang maayos para sa paggawa ng mga lantern. Mag-pasya sa disenyo na gusto mong
+      ipinta sa mga glass lantern. Isaalang-alang ang mga pattern, landscape, silhouette,
+      o abstract na disenyo. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513715256709120
+    m_Localized: Maglagay ng pahayagan o isang plastic sheet sa iyong pag gagawa
+      upang maprotektahan ito mula sa mga talsik ng pintura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12514252521885696
+    m_Localized: Magsimula sa pamamagitan ng pag-pipinta ng napiling disenyo na gusto
+      mo. Maaring magdagdag ng mas pinong mga detalye sa iyong pininturahan na disenyo.
+      Maaaring kabilang dito ang mga highlight, shading, o masalimuot na pattern.
+      Hayaang matuyo nang lubusan ang pintura bago magpatuloy sa susunod na hakbang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515004178911232
+    m_Localized: 'Ibalot ang yarn sa takip ng mga babasaging lalagyan. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515789956599808
+    m_Localized: "Sindihan ang kandila upang mag-bigay liwanag ang iyong parol. Ilagay
+      ito bilang dekorasyon sa kung saang sulok ng iyong bahay, ito ay mag-lilikha
+      ng napaka-gandang aliwalas ng kapaligiran.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515787976888320
+    m_Localized: Mag-lagay ng mga tea light candle sa loob. Siguraduhing naka-secure
+      ang mga ilaw at hindi tatagilid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517662839164928
+    m_Localized: "Mga Kagamitan na kailangan:  \r\n\n\t- Mason Jar o Garapon \r\n\t-
+      Glue Gun at Glue Sticks  \r\n\t- Yarn \r\n\t- Gunting \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517829629857792
+    m_Localized: 'Ipunin ang mga kina-kailangang materyales  sa pag-gawa ng proyekto. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517893114843136
+    m_Localized: Gupitin ang apat na piraso ng yarn, bawat isa  ay may sukat na 25
+      pulgada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517919186636800
+    m_Localized: "Ilagay ang dalawang piraso ng yarn  nang pahalang at ang  dalawa
+      pa ay patayo, na  magkaka-patong sa gitna.  Mag-simulang gumawa ng  buhol sa
+      intersection point  na ito.  \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517934386794496
+    m_Localized: Maglagay ng kaunting pandikit sa ilalim  na gitna ng babasaging 
+      garapon at idikit ang  nakabuhol na yarn dito.  Tiyaking nakakabit ito nang 
+      mahigpit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517946768379904
+    m_Localized: Kumuha ng isang piraso ng yarn mula sa  bawat pares (pahalang at 
+      patayo) at simulan ang  pagkaka-buhol ng mga ito  sa paligid ng babasaging 
+      garapon. Maglagay ng  kaunting pandikit sa dulo  ng bawat buhol upang  mapanatili
+      ang mga ito sa  lugar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517957673570304
+    m_Localized: "Kapag natakpan na ng buhol ang garapon at  naabot mo na ang tuktok, 
+      itali ang panghuling buhol  upang masigurado ang  pagkaka-tali ng yarn, at
+      putulin ang anumang  sobra. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517968712978432
+    m_Localized: Maglagay ng maliit na kandla sa loob ng  knotted glass jar. Siguraduhin
+      na ito ay ligtas  sa lugar at hindi tatagilid.  Sindihan ito at ang buhol-buhol
+      na disenyo ay lilikha  ng maganda at maaliwalas  na kapaligiran.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539019132030976
+    m_Localized: "Mga Kagamitan na  Kailangan:\r\n\n\t- Babasaging Bote \r\n\t- Acrylic
+      na pintura \r\n\t- Paleta \r\n\t- Paintbrush  \r\n\t- Dyaryo   \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539118813859840
+    m_Localized: "Ipunin ang mga kinakailangang materyales.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539136329273344
+    m_Localized: "Kunin ang iyong babasaging bote. Gumamit ng paintbrush at acrylic
+      na\r pintura upang gawin ang disenyo na gusto mo sa  paligid ng bote. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539148106878976
+    m_Localized: Huwag mag atubiling isama ang mga  mga pinong detalye at  hayaang
+      dumaloy ang  iyong pagka-malikhain  habang nagpinta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539174921064448
+    m_Localized: Ipag-patuloy ang pag-gawa ng maraming  pininturahan na babasaging
+      bote hangga't  gusto mo. Ilagay ang mga ito saan man sa iyong  bahay upang
+      mapa-ganda  ang pan-dekorasyon sa  inyong bahay.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

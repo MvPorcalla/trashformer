@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: PlasticTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: PlasticTable
+  m_TableCollectionNameGuidString: 1b8a00292723a0b4a8ccf2da39c34222
+  m_Entries:
+  - m_Id: 5602693120
+    m_Key: PlasticDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615047983747072
+    m_Key: PlasticPBFmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615137028820992
+    m_Key: PlasticPBF1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615148634460160
+    m_Key: PlasticPBF2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615158033895424
+    m_Key: PlasticPBF3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615167362027520
+    m_Key: PlasticPBF4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615176987955200
+    m_Key: PlasticPBF5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615186685186048
+    m_Key: PlasticPBF6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615194838913024
+    m_Key: PlasticPBF7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615210882125824
+    m_Key: PlasticPBF8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618697892253696
+    m_Key: PlasticDPmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618751638065152
+    m_Key: PlasticDP1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618758718050304
+    m_Key: PlasticDP2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618764627824640
+    m_Key: PlasticDP3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618770365632512
+    m_Key: PlasticDP4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618826300870656
+    m_Key: PlasticDP5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622560296783872
+    m_Key: PlasticLPSmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622592341266432
+    m_Key: PlasticLPS1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622609588244480
+    m_Key: PlasticLPS2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622617435787264
+    m_Key: PlasticLPS3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622626633895936
+    m_Key: PlasticLPS4
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7858890284423184441
+  references:
+    version: 2
+    RefIds:
+    - rid: 7858890284423184441
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1696358877353

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: cansTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: 54aebc7ddb5157c4387272ad0f13c934, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59289652842496
+    m_Localized: "Mga Kagamitan na kailangan: \n \r\n\t- Lata (Iba-ibang laki)  \r\n\t-
+      Gunting \r\n\t- Glue Gun at Glue Sticks \n\t- Karton  \r\n\t- Dyaryo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67657998159872
+    m_Localized: "Ipunin ang mga kinakailangang materyales. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71502593675264
+    m_Localized: Gumupit ng isang bilog na piraso sa karton at isang parehong bilog
+      sa dyaryo. Lagyan ng pandikit ang bilog na karton at ilagay ang bilog na dyaryong
+      papel sa itaas at sa likod. Ito ang mag-sisilbing patungan para sa iyong organizer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73380501016576
+    m_Localized: Maingat na idikit ang mga dyaryo sa labas ng bawat lata hanggang
+      sa  ganap itong matakpan, ito  ang magbibigay dekorasyon sa gagawin na organizer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74007729819648
+    m_Localized: "Kapag nabalot na ang lahat ng lata at nagmukhang maganda idikit
+      ang mga ito sa pabilog na base na ginawa mo sa ikalawang hakbang. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74902160953344
+    m_Localized: Ang iyong organizer ay handa nang gamitin!  Ilagay ang iyong mga
+      lapis, panulat, o anumang iba  pa na maliliit na bagay na gusto mong panatilihing
+      maayos sa loob ng mga lata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74924638228480
+    m_Localized: I-display ang iyong ginawang organizer sa iyong study table o iba
+      pa na lugar kung saan kailangan mong panatilihing malinis ang mga bagay. Mag-daragdag
+      ito ng ugnayan ng organisasyon at kagandahan sa iyong silid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78815043932160
+    m_Localized: "Mga Kagamitan na kailangan:  \n\r\n\t- Lata\r\n\t- Martilyo \r\n\t-
+      Pako \r\n\t- Maliit na kandila\r\n\t- Hole Punch (opsyonal  pamalit sa pako)
+      \r\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80678988435456
+    m_Localized: "Ipunin ang mga kina-kailangang materyales.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80692070469632
+    m_Localized: Kumuha ng lata, gumamit ng martilyo at  pako upang gumawa ng  mga
+      butas sa paligid ng  lata, mas maraming butas, mas mabuti! Ngunit mag-ingat
+      sa pag-gamit ng  martilyo at pako, unahin  ang kaligtasan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80701935472640
+    m_Localized: 'Mag-lagay ng maliit na kandila at sindihan ito. Mag-bibigay ito
+      ng maganda at maaliwalas na kapaligiran sa iyong espasyo. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80712706445312
+    m_Localized: Ngayong tapos ka na, maaari mong ilagay ang iyong ginawa kahit saan
+      sa iyong bahay bilang isang pandekorasyon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86128463073280
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n\t- Lata (Malaking sukat) \r\n\t-
+      Magazine/Brochure \r\n\t- Dyaryo \r\n\t- Yarn \r\n\t- Colored Paper \r\n\t-
+      Glue gun at glue stick \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86157647040512
+    m_Localized: Kumuha ng malaking lata, buksan ito at idikit ang dyaryo sa loob
+      hanggang sa masakop ang loob ng lata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86541413273600
+    m_Localized: 'Sa labas ng lata, disenyohan ito ng pang-dekorasyon na papel ng
+      pattern na gusto mo. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86553153130496
+    m_Localized: "Gumawa ng butterfly origami gamit ang magazine/brochure at gumawa
+      ng iba't-ibang laki nito. Ang origami ay gagamitin bilang disenyo na ilalagay
+      sa loob ng lata. At gagamitin din ito bilang buntot ng dream catcher.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86562481262592
+    m_Localized: "(Opsyonal) Kumuha ng CD o disk at ipinta ito gamit ang mga disenyo
+      na may temang kalikasan, gagamitin ito para idikit ang origami ng butterfly
+      na ginawa at pagkatapos ay ididikit sa loob ng mga lata kasama ng butterfly
+      origamis. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86573826854912
+    m_Localized: Kapag natapos mo na ang pagdidisenyo ng mga lata, balutin ito ng
+      yarn at gamitan ito ng anumang matibay na pandikit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86592881577984
+    m_Localized: Gumawa ng dreamcatchers tail gamit ang butterfly origamis at i-stapler
+      ito sa yarn. Kapag tapos na, isabit ang dreamcatcher kahit saan sa iyong bahay.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 413295734575104
+    m_Localized: 'Ang mga lata ay mga lalagyang metal na karamihan ay gawa sa bakal
+      na natatakpan ng manipis na layer ng lata. Ang mga lata ay madalas na ginagamit
+      sa pag-iimpake ng mga pagkain tulad ng mga prutas, gulay, sopas, sarsa, at
+      higit pa. Ang mga ito ay pinahahalagahan dahil sa kanilang kakayahang mapanatili
+      ang kalidad at kaligtasan ng mga nilalaman sa mahabang panahon. Ang patong
+      ng lata ang nagsisilbing proteksyon na tumugon sa acidic o madaling pagkasira
+      ng mga pagkain, at tinitiyakang kaligtasan ng produkto.
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

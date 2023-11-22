@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: cardboardTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: d6427c4e3c5da51449635cc4e31a0f10, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20056264704
+    m_Localized: "Kan karton ay \xFAsad na makapal sagk\xFAd mat\xFAgas na paperboard
+      o materyales na papel na minsan gagamit sa pag-iimpake, konstr\xFAksiyon, sagk\xFAd
+      iba pa. Kan mga layer nikan papel ay papasta sagk\xFAd p\xEDnag\xED-k\xFAr\xFAyog-k\xFAyog
+      nganing b\xFAmilog ning matibay sagk\xFAd pang-al\xFAyan na karton. Importane
+      kan karton sa rason na madali kading g\xFAnting\xFAn, tikl\xFAp\xFAn, sagk\xFAd
+      gibon nganing magamit sa iba-ibang p\xE1ng\xE1ng\xE1ipo. Kadi ay \xFAsad sa
+      pinakam\xFAra na alternatibo sa pag-iimpake nikan mga kalakal, pag-protekta
+      sa mga gamit nay-byahe sagk\xFAd pag-tind\xFAg nikan pansamantala o permanenting
+      gusali sa mga disenyo nikan proyekto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104973408030720
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\n\t- Karton \r\n\t- Acrylic na
+      pintura \r\n\t- Paint Brush \r\n\t- Glue Gun at Glue Sticks\r\n\t- Masking
+      Tape \r\n\t- Manipis na Lubid \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110814823600128
+    m_Localized: "Tip\xFAn\xFAn ngamin na caip\xFAwan na materyales para sa proyekto
+      mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110948538011648
+    m_Localized: "Mag-\xFAko ning t\xFAlong pidasong karton, s\xFAk\xFAlon tapos
+      gunting\xFAn kan bawat pidaso nikan karton sa s\xFAkol na 8x20 sentimero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110972898529280
+    m_Localized: "Mag-b\xFAtang ning masking tape sa gilid nikan mga rektangg\xFAlong
+      karton nganing matakl\xFAban tapos ma\xFAsay kan mga gilid."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111033195843584
+    m_Localized: "Mag-gamit nikan acrylic na pintura tapos paint brush nganing mapint\xFArahan
+      kan t\xFAlong pidasong karton nikan gusto mo na kulay. P\xE1b\xE1y\xE1n m\xFAna
+      na mag-mara ngamin na pinint\xFAran mo.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111076648833024
+    m_Localized: "Pag-mara na su pintura, pwede na ikang mag-p\xFAn sa pag-r\xFAgang
+      kal\xEDgrap\xEDya o mga bibisar\xFAn na gusto mo i-b\xFAtang sa pinint\xFArahan
+      mo na karton. Gamit\xFAn kan pagka-malikhain nganing maka-gibo nikan kakaiba
+      sagk\xFAd magay\xF3n na disenyo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111090909466624
+    m_Localized: "Gamit kan glue gun, i-kab\xEDt kan manipis na l\xFAbid sa mga gilid
+      kina likod nikan t\xFAlong karton. Kadi kan mag\xED-s\xEDrb\xEDng hanger para
+      sa wall hanging mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111106143178752
+    m_Localized: "Kumpleto na kan wall hanging! Pwede mo na kading i-sabit maski
+      sayn sa bal\xFAy nganing magay\xF3n kan palamuti mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117903235108864
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n\t- Karton \r\n\t- Acrylic
+      na pintura \r\n\t- Paint Brush \r\n\t- Glue Gun at Glue Sticks\r\n \t- Cutter
+      \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117978925518848
+    m_Localized: "Tip\xFAn\xFAn ngamin na caip\xFAwan na materyales para sa proyekto
+      mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118061368758272
+    m_Localized: "Mag-s\xFAkol sagk\xFAd mag-gunting dose na pidaso nikan karton,
+      ngamin dapat kay\xFAn s\xFAkol  na 3x5 na pulgada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118070193573888
+    m_Localized: "Mag-\xFAkong d\xFAwang pidasong karton sagk\xFAd i-pasta nganing
+      matibay. Manga\xEDpo ika nikan \xFAn\xFAm na pidaso nganing kumapal kan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118080830328832
+    m_Localized: "Mag-p\xFAn na sa pag-pasta ning \xFAn\xFAm na makapal na pidaso
+      nikan karton nganing bumuo nikan hugis heksagono. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118091030876160
+    m_Localized: "Gamit kan acrylic na pintura sagk\xFAd paintbrush, pint\xFAran
+      kan heksagono sa mga kulay na gusto mo. Mag-b\xFAtang nikan dyaryo sa irar\xFAm
+      nikan lugar na gigibwan  mo nganing d\xED mat\xEDps\xEDkan nikan pintura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118104150659072
+    m_Localized: "Pag natapos mo na kan hugis heksagono pwede mo na ng\xFAana i-pasta
+      kan d\xFAwang hugis heksagono sa pader. Pwede kading mag-s\xEDrb\xED na pang-dekorasyon
+      na istante, pwede ikang mag-b\xFAtang ning mga saraday na bagay ar\xFAg nikan
+      pig\xFArin o iba pa na mga pang-dekorar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125030896914432
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n\t- Butangan Sapatos \r\n\t-
+      Gunting \r\n\t- Glue gun with glue stick \r\n\t- Decorative paper (Opsyonal)
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125085649358848
+    m_Localized: "Mag-p\xFAn m\xFAna sa pag-p\xFAtol nikan ibab\xFAw na takl\xF3b
+      ning b\xFAtangan sapatos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125107493294080
+    m_Localized: "Gunting\xFAn kan takl\xF3b sa b\xFAtnga nganing mag-kakay\xF3n
+      pary\xF3ng dak\xFAlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125117391851520
+    m_Localized: "I-b\xFAtang kan kahon sa pantay na pat\xFAngan, naka-\xE1mp\xE1ng
+      dapat sa taas kan bukas na parte. Mag-guhit ning dayagonal na linya p\xFAn
+      sa b\xFAtnga ning kahon. Tapos gunting\xFAn  kan dayagonal nganing mag-kakay\xFAn
+      \xEDka d\xFAwang pidaso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125129173651456
+    m_Localized: "T\xFApi\xFAn kan kahon sa parte na pinag-guntingan mo nung dayagonal
+      mag-kakay\xFAn na ika divider. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125137394487296
+    m_Localized: "\xDAkon kan taklob nung kahon na ginunting sa b\xFAtnga tapos i-pasta
+      sa gilid nikan kahon. Kading divider na kadi makatabang sa pag-organisa nikan
+      mga b\xFAtang sa kahon. (Opsyonal) Kung m\xFAya mo man pwede ikang mag-r\xFAgang
+      ning pang-dekorasyon na papel sa luwas nung kahon nganing mas magay\xF3n kit\xFAn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125145275584512
+    m_Localized: "Ng\xFAana na pwede ng magamit kan organizer, pwede mo na i-b\xFAtang
+      kan mga gamit na gusto mo na \xFAsayon sa l\xFAg."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

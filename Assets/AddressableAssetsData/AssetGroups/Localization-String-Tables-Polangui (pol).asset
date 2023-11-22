@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Polangui (pol)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Polangui (pol)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: efd00ae030f22dc47987d531082c9562
+  m_SerializeEntries:
+  - m_GUID: 280d22ea750f2de42a32bc4bf1e31661
+    m_Address: UI text_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: a1f6035a0c0296245a102283032ea658
+    m_Address: cansTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: 592d68806b03a2f418ff87c32d56387f
+    m_Address: FAQsTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: 5f5ef6e3baab0fa49b1e899636370d36
+    m_Address: aboutTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: 899e2d8813aa56f42ab974a5dbcbaf7b
+    m_Address: cardboardTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: b3681999a08d3214d923a7e66e3c461b
+    m_Address: glassTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: fe12f66dfce4d054eb789f3be8603d6c
+    m_Address: paperTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: ad7da02f58b4cbd4687fabd9e0808307
+    m_Address: PlasticTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  - m_GUID: 522dc290f48ed5047ac7097bc88fba14
+    m_Address: TextileTable_pol
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pol
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a173d2736491c40418416620a0b95ea2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 88e57448f2150d54ab2a4212afc5811c, type: 2}
+    - {fileID: 11400000, guid: 46ffe345bcb2e7c4b8631b27178cb5b1, type: 2}

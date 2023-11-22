@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PlasticTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: 1b8a00292723a0b4a8ccf2da39c34222, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5602693120
+    m_Localized: Ang plastik ay isang materyal na nabuo ng mga polimer, ito ay malalaking
+      molekula na binu-buo ng paulit-ulit na mga sub-yunit. Ang mga sub-yunit na
+      ito ay kilala bilang monomer. Ang mga plastik ay mga materyal na maaaring hulmahin
+      sa iba't-ibang mga hugis at anyo, ginagawa itong lubhang kapaki-pakinabang
+      sa iba't-ibang mga aplikasyon kabilang ang pag iimpake tulad ng mga plastic
+      bag at lalagyan, mga materyales sa gusali tulad ng mga tubo, mga produkto tulad
+      ng mga laruan at elektronics, kagamitang medikal, mga piyesa ng sasakyan, at
+      higit pa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615047983747072
+    m_Localized: "Mga Kagamitan na kailangan:  \n\r\n- Plastik na Bote  \r\n- Gunting 
+      \r\n- Glue Gun at Glue Sticks  \r\n- Maliit na kandila\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615137028820992
+    m_Localized: 'Ipunin ang mga kina-kailangang materyales. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615148634460160
+    m_Localized: "Gupitin ang plastik na bote upang alisin ang  itaas at ibaba na
+      parte,  iwan lamang ang gitnang  parte. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615158033895424
+    m_Localized: "Mula sa gitnang parte ng bote, gumupit ng  maraming kuwadradong 
+      hugis na may iba\u2019t-ibang  laki. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615167362027520
+    m_Localized: "Gamit ang mga ginupit na kuwadradong  hugis gawin itong bulaklak 
+      sa pamamagitan ng pag-putol ng mga ito sa  hugis na parang talulot. Gumawa
+      ng marami nito. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615176987955200
+    m_Localized: 'Magsindi ng kandila at dahan-dahang  tunawin ang mga gilid ng 
+      bawat talulot. Ito ay lilikha  ng natural na itsura ng  bulaklak. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615186685186048
+    m_Localized: 'Mag-lagay ng pandikit sa isang gilid ng  talulot at ikabit ito
+      sa isa  pa na talulot, ulitin ang  prosesong ito hanggang sa  makabuo ka ng
+      pabilog na  pag-kakaayos ng mga  talulot. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615194838913024
+    m_Localized: Ipag-patuloy ang pag-didikit ng mga talulot  hanggang sa makuha
+      mo  ang nais na laki at itsura ng  bulaklak.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615210882125824
+    m_Localized: "Kapag kumpleto na, gamitin ang iyong  bulaklak na plastik na bote 
+      bilang palamuti sa bahay.  Ilagay ito sa isang vase  upang mag-silbing isang 
+      kaakit-akit na artipisyal na  bulaklak. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618697892253696
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n- Mga CDs or DVDs \r\n- Acrylic
+      na pintura \r\n- Paintbrushes \r\n- Paleta \r\n- Dyaryo o plastic sheet \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618751638065152
+    m_Localized: "Mag-latag ng dyaryo o plastic sheet upang hindi matapunan ng pintura
+      ang lugar na pag-gagawan mo. Mag-pasya sa disenyo na gusto mong gawin. Maaari
+      itong maging abstract pattern, landscape, portrait, o anumang iba pang malikhaing
+      ideya na nasa isip mo. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618758718050304
+    m_Localized: 'Mag-simula sa pamamagitan ng pag-lalagay ng base na kulay sa CD.
+      Maaari kang gumamit ng isang kulay o lumikha ng gradient sa pamamagitan ng
+      pagsasama-sama ng maraming kulay. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618764627824640
+    m_Localized: "Kapag tuyo na ang base coat, simulan ang pag-daragdag ng iyong
+      disenyo gamit ang iba't-ibang brush at kulay ng pintura. Mag-eksperimento gamit
+      ang mga brushstroke, tuldok, linya, at iba pa mga pamamaraan upang lumikha
+      ng mga texture at pattern. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618770365632512
+    m_Localized: 'Hayaang matuyo nang lubusan ang pininturahan na CD bago mag-patuloy
+      sa susunod na hakbang. Karaniwan itong tumatagal ng mga 20-30 minuto, ngunit
+      ang mga oras ng pag-papatuyo ay maaaring mag-iba batay sa kapal ng mga layer
+      ng pintura. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618826300870656
+    m_Localized: "Kapag ang mga pintura ay ganap na tuyo, maari mo itong gawin bilang
+      dekorasyon sa iyong bahay o gamitin ito sa anumang layunin ng sining.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622560296783872
+    m_Localized: "Mga Kagamitan na kailangan: \n\r\n- Plastik na Bote\r\n- Gunting\r\n-
+      Plastic na Kutsara (Puti)\r\n- Maliit na kandila\r\n- Glue Gun at Glue Stick\r\n-
+      Marker\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622592341266432
+    m_Localized: "Maaari mong gamitin ang marker o panulat upang markahan ang gitnang
+      seksyon ng plastik na bote. Ito ang bahagi na kailangan upang lumikha ng lampshade.
+      Maingat na gupitin ang bote sa kalahati sa may markang linya gamit ang gunting
+      o isang utility na kutsilyo. Maaari kang mag-suot ng guwantes na proteksiyon
+      para sa kaligtasan.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622609588244480
+    m_Localized: "Alisin ang mga hawakan ng puting plastik na kutsara, iiwan lamang
+      ang mga bahaging hugis kutsara. Magagawa mo ito sa pamamagitan ng pag-tanggal
+      ng mga hawakan o pag-putol sa mga ito gamit ang gunting. Tiyaking mayroon kang
+      sapat na piraso ng kutsara upang takpan ang buong ibabaw ng gitnang seksyon
+      ng plastik na bote.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622617435787264
+    m_Localized: "Mag-lagay ng kaunting pandikit sa piraso ng kutsara gamit ang glue
+      gun o matibay na pandikit. Pindutin ang nakadikit na dulo ng kutsara sa ita\xE1s
+      na bahagi ng plastik na bote. Ulitin ang prosesong ito, ikabit ang mga piraso
+      ng kutsara nang magkatabi, at gawin ang iyon mula sa ita\xE1s hanggang sa ibaba
+      hanggang sa matakpan ang buong seksyon ng plastik na bote.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622626633895936
+    m_Localized: "Kapag ang bote ay natatakpan na ng mga kutsara, ilagay ang maliit
+      na kandila sa loob ng plastik na bote. Tiyaking nakasentro at secure ang mga
+      ito. Sindihan ang kandila para makita ang magandang liwanag ng lampshade. Ang
+      mga puting plastik na kutsara ay lilikha ng magaan at maaliwalas na epekto
+      na nag-bibigay ng kakaiba at pandekorasyon na liwanag.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

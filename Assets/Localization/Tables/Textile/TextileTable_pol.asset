@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TextileTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: ed477a0d1439a2842a025888245fe123, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18626007040
+    m_Localized: "Kan tela ay mga materyales na gibo ali sa pag-habi, pag-ni-niting,
+      pag-ga-gantsilyo, sagk\xFAd mga sintetikong mga hibla. Kan mga tela ay gibo
+      sa pag-ha-habi sagk\xFAd pinagi-gamit sa iba-ibang gamit ar\xFAg nikan bad\xF3,
+      mga produkto sa bal\xFAy, sagk\xFAd mga pang-industriyang aplikasyon. Kan mga
+      tela ay \xFAsad na parte nikan sibilisasyon ning mga taw sagk\xFAd pinaga-gibo
+      sa l\xFAg nikan pirang ta\xFAn gamit kan iba-ibang mga pa\xE1gi.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16599963931922432
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n- L\xFAmang Bad\xF3\r\n- S\xEDper 
+      \r\n- Gamit Panahi  \r\n- Gunting \r\n- Medida \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600042910666752
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na gagamit\xFAn sa pag-gibo nikan
+      pouch. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600076297326592
+    m_Localized: "S\xFAk\xFAlon sagk\xFAd gunting\xFAn kan d\xFAwang pidaso nikan
+      tela al\xED sa luma mo na bad\xF3, pary\xF3 20x25 sentimetro dapat kan s\xFAkol. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600085357023232
+    m_Localized: "Tahi\xFAn kan s\xEDper sa taas na parte nikan tela. \xCDd\xED mo
+      b\xFA-b\xFAksan sagk\xFAd i-s\xE1-s\xE1r\xE1do kan pouch. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600093879848960
+    m_Localized: "Tahi\xFAn man kan nat\xFAt\xFArang t\xFAlong gilid nikan tela,
+      i-s\xE1-s\xE1r\xE1do nikadi kan pouch, habang kadt\xF3ng i-taas ay bukas (kung
+      sayn mo bin\xFAtang su s\xEDper) "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600103174426624
+    m_Localized: "Baliktad\xFAn kan pouch nganing sa l\xFAg kan t\xEDnah\xEDan. Nganing
+      malinig kikit\xFAn kan pouch mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16600112435449856
+    m_Localized: "Pwede na magamit kan pouch mo! Pwede kang mag-b\xFAtang mga pang-s\xFArat,
+      lapis o maski \xFAno pa na pwede mo ib\xFAtang. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605096652722176
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\n- Lumang tela o bado \r\n- Gamit
+      Panahi \r\n- Garter  \r\n- Gunting \r\n- Medida\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605130605613056
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na gagamit\xFAn sa pag-gibo nikading
+      proyekto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605169595863040
+    m_Localized: "S\xFAk\xFAl\xFAn tapos gunting\xFAn kan \xFAsad na pidasong tela
+      na kay\xFAn s\xFAkol na 4x16 pulgada. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605183185408000
+    m_Localized: "Mag-gunting nikan 5-pulgada sa \xFAsad na  garter. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605195130785792
+    m_Localized: "Tahi\xFAn kan paryong p\xFAro nikan garter nganing maka-buong pabilog.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605205062897664
+    m_Localized: "I-p\xFAtos kan tela sa palib\xF3t nikan garter tapos tahi\xFAn.
+      Sig\xFArad\xFAn na napalib\xFAtan tela kan garter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605215062118400
+    m_Localized: "Baliktad\xFAn kan tinah\xED na tela sagk\xFAd garter nganing ma-i-tago
+      kan tahi. Tahi\xFAn kan mga p\xFAro nikan tela nganing masarad\xF3 na kan palib\xF3t
+      nikan garter. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16605225027784704
+    m_Localized: "Congrats! Naka-gibo na ikang sad\xEDr\xED mo na scrunchie na magamit
+      mo pang-p\xFAngos nikan b\xFAk mo. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608853780221952
+    m_Localized: "Mga Materyales na Caipuwan:\n \r\n- Luma na Bado \r\n- Gunting
+      \r\n- Pang-tahi \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608954674204672
+    m_Localized: "Mag-pili ning lum\xE1 na t-shirt na m\xFAya mong gib\xF3 na bag.
+      I-b\xFAtang kan t-shirt sa patag tapos pakinisin kan mga gusot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608973062033408
+    m_Localized: "Gunting\xFAn kan pary\xF3ng manggas nikan t-shirt. R\xFAmr\xFAm\xFAn
+      na kan mga manggas kan magiging kap\xFAtan nikan bag, kaya pumili nikan \xE1b\xE1
+      na komportable s\xE1ymo na darawn. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608982289502208
+    m_Localized: "Baliktad\xFAn kan t-shirt ta sa l\xFAg nikan may tahi nganing magay\xF3n
+      kan kal\xFAwasan. Mag-gamit ning makina sa pagtahi o I-mano-mano kan pag-tahi
+      nganing masarado kan irar\xFAm na parte nikan t-shirt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16608989503705088
+    m_Localized: "Pa-ka-tap\xF3s mag tahi baliktad\xFAn kan t-shirt. Pwede na magamit
+      kan bag. (Opsyonal) Kung m\xFAya mo pwede pa ika mag-r\xFAgang nikan mga disenyo
+      nganing mas mapagay\xF3n mo pa kan bag mo. Pwede ka mag-r\xFAgang ning tela,
+      mga patch o maski uno pa na gusto mo i-r\xFAgang.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

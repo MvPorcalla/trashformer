@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PlasticTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: 1b8a00292723a0b4a8ccf2da39c34222, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5602693120
+    m_Localized: "Kan plastic ay \xFAsad na materyales na nabuo nikan mga polimer,
+      kadi ay darak\xFAlong molekula na pinaga-buo nikan pa-d\xF3r\xF3d\xF3bleng
+      sub-yunit. B\xEDsto kading mga sub-yunit na kadi bilang monomer. Kan mga plastic
+      ay mga materyal na pwede h\xFAlmah\xFAn sa iba-ibang hugis sagk\xFAd anyo,
+      g\xEDn\xEDg\xEDbo kading kapaki-pakinabang sa iba-ibang mga aplikasyon kak\xFAyog
+      kan pag-impake ar\xFAg nikan plastic bag sagk\xFAd b\xFAtangan, mga materyales
+      sa pag-gibo ning gusali ar\xFAg nikan mga tubo, mga produkto ar\xFAg nikan
+      mga \xE1mn\xE1n tapos elektroniks, mga gamit pang-medical, mga piyesa nikan
+      l\xFAnadan, sagk\xFAd iba pa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615047983747072
+    m_Localized: "Mga Materyales na Caip\xFAwan: \n\r\n- Plastik na Bote  \r\n- Gunting 
+      \r\n- Glue Gun at Glue Sticks  \r\n- Saday na kand\xEDla\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615137028820992
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615148634460160
+    m_Localized: "Gunting\xFAn kan  ita\xE1s sagk\xFAd kan ibaba  nikan plastic na
+      bote, \xED-t\xFAra  sana kan b\xFAtnga na parte. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615158033895424
+    m_Localized: "Mag-p\xFAn sa b\xFAtngang parte nikan bote,  mag-gunting dak\xFAl
+      na  kuwadradong hugis na iba-iba kan dak\xFAlo. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615167362027520
+    m_Localized: "Gamit kan mga  ginunting na kuwadradong  hugis gib\xF3n kading
+      b\xFArak  sa pa\xE1gi nikan pag-p\xFAtol  nikadi sa hugis nikan  tal\xFAlot.
+      G\xFAmibong dak\xFAl nikadi. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615176987955200
+    m_Localized: "Mag-s\xFAlong kandila  tapos l\xFAway-l\xFAway na  t\xFAn\xFAw\xFAn
+      kan mga gilid  nikan bawat tal\xFAlot nganing ma-ar\xFAg kan its\xFAra  nikan
+      b\xFArak. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615186685186048
+    m_Localized: "Mag-b\xFAtang pampasta sa \xFAsad na gilid nikan  tal\xFAlot sagk\xFAd
+      i-kabit kadi sa  \xFAsad pa na tal\xFAlot. \xDAlit\xFAn  kan prosesong kadi 
+      hanggang sa maka-buo ika nikan pabilog na pag-ka\xFAsay nikan mga  tal\xFAlot. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615194838913024
+    m_Localized: " I-dag\xFAs kan pag pasta nikan mga tal\xFAlot  hanggang sa ma-\xFAko
+      mo  kan gusto mo na dak\xFAlo  sagk\xFAd itsura nikan b\xFArak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14615210882125824
+    m_Localized: "Pag na-kumpleto  mo na, gamit\xFAn kan b\xFArak  na plastic bilang
+      pandekorasyon sa bal\xFAy o  ib\xFAtang sa vase nganing  mag-s\xEDrb\xED na
+      k\xE1-\xE1kit-\xE1kit na  art\xEDp\xEDsyal na b\xFArak. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618697892253696
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n- Mga CDs or DVDs \r\n- Acrylic
+      na pinture \r\n- Paintbrushes \r\n- Paleta \r\n- Dyaryo o plastic sheet \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618751638065152
+    m_Localized: "Mag-ap\xEDn dyaryo o plastic sheet nganing d\xED ma\xFAlaan pintura
+      kan lugar na pag-g\xEDg\xEDbwan mo. Mag-pili nikan disenyo na gusto mo na gib\xF3n.
+      Pwede man na gib\xF3n mo ay abstract, mga pattern, landscape, portrait, o maski
+      uno na ma-isipan mo na magay\xF3n na gib\xF3n. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618758718050304
+    m_Localized: "Mag-p\xFAn m\xFAna sa pag-b\xFAtang nikan base na kulay sa CD.
+      Pwedeng gumamit nikan \xFAsad na kulay o g\xFAmibo ning gradient, nganing gib\xF3n
+      kadi pwede mong pag-salak\xFAn kan mga kulay. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618764627824640
+    m_Localized: "Pag-mara na kan na base coat, mag-p\xFAn ng r\xFAgang nikan disenyo
+      gamit kan iba-ibang brush tapos kulay nikan pintura. Mag-eksperimento gamit
+      kan mga brushstroke, tuldok, linya para makagibo ning texture sagk\xFAd pattern.
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618826300870656
+    m_Localized: "Pag nag-mara na kan pintura pwede mo na kan i-display sa bal\xFAy
+      o kung sayn mo gusto na i-b\xFAtang.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14618770365632512
+    m_Localized: "Pabayan m\xFAna na mag-mara kan mga pinint\xFAran na CD bago idag\xF3s
+      kan sun\xF3d na gigibon. Nay-al\xFAy kadi ning 20 hanggang 30 minuto, depende
+      kung g\xE1wno kakapal kan layer nikan pintura. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622560296783872
+    m_Localized: "Mga Materyales na Caip\xFAwan: \n\r\n- Plastik na Bote\r\n- Gunting\r\n-
+      Plastic na Kutsara (Puti)\r\n- Saday na kand\xEDla\r\n- Glue Gun at Glue Stick\r\n-
+      Marker\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622592341266432
+    m_Localized: "Pwede \xEDkang mag-gamit nikan marker o pan\xFArat nganing markahan
+      kan b\xFAtngang parte nikan plastik na bote. Kadi kan parte na caip\xFAwan
+      nganing makag\xEDbo nikan lampshade. Mag-\xEDngat sa pag-g\xFAnting kan bote
+      sa b\xFAtnga na kay\xFAn marka gamit kan gunting o kutsilyo. Pwede kang mag-s\xFAlog
+      ning gwantes para sa proteksyon.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622609588244480
+    m_Localized: "Ali\xFAn kan mga kap\xFAtan nikan puting plastik na kutsara, \xEDwatak
+      sana kan mga parteng hugis kutsara. Mag\xEDg\xEDbo mo kadi pag pin\xFAtol mo
+      kan kap\xFAtan gamit kan gunting. Sig\xFArad\xFAn na sapat kan pidaso nikan
+      kutsara nganing matakl\xFAban kan buong ibab\xFAw nikan b\xFAtngang parte nikan
+      plastik na bote.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622617435787264
+    m_Localized: "Mag-b\xFAtang nikan d\xFAd\xFAy na pampasta gamit kan glue gun
+      o matibay na pampasta. Pindut\xFAn kan naka-pasta na p\xFAro nikan kutsara
+      sa \xEDtas na parte nikan plastik na bote. \xDAlit\xFAn kan prosesong kadi,
+      \xEDkabit kan mga pidaso nikan kutsara na mag-katarak\xEDn, sagk\xFAd gib\xF3n
+      kadi p\xFAn sa taas sagk\xFAd sa baba, dapat matakl\xFAban kan buong parte
+      nikan bote.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14622626633895936
+    m_Localized: "Pag-natakl\xFAban na kan bote nikan mga kutsara, ib\xFAtang na
+      kan saday na kandila sa l\xFAg nikan plastik na bote. Sigurad\xFAn na naka-sentro
+      sagk\xFAd naka-r\xFAkot na maray kan mga kutsara. S\xFAl\xFAan kan kand\xEDla
+      nganing makita kan magay\xFAn na liwanag nikan lampshade. Kan mga puting plastik
+      na kutsara maga-likha ning maaliwalas na epekto na may-taw nikan kakaiba sagk\xFAd
+      pandekorasyon na liwanag.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

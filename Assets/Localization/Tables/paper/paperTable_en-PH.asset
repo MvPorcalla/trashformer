@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: paperTable_en-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-PH
+  m_SharedData: {fileID: 11400000, guid: 9c5eb784583e99b4b8663f2b88953da0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8790364160
+    m_Localized: Paper is a thin, flat material composed of cellulose fibers generated
+      mostly from wood pulp, rags, or some grasses. It is one of the most used materials
+      for writing, printing, packing, and a variety of other applications. For thousands
+      of years, paper has been a vital tool for communication and documentation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595227347210240
+    m_Localized: "Materials Needed:  \r\n\n- Cardboard \r\n- Magazine  \r\n- Elastic
+      Garter  \r\n- Scissors  \r\n- Glue Gun with Glue Sticks \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595395102593024
+    m_Localized: "Gather the needed  materials. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595406146195456
+    m_Localized: Draw and cut out  two circular shapes from  the cardboard. You can 
+      choose your preferred size.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595417214963712
+    m_Localized: "Cut a piece of  elastic garter to use as the  hanger. Attach each
+      end of  the elastic to the top of  the cardboard circle using  the glue gun.
+      \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595426715062272
+    m_Localized: 'Apply a glue to the  edge of the cardboard  circle and press the
+      other cardboard circle on top of  it, creating a sturdy base. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595435971891200
+    m_Localized: "Cut multiple 3x3  inch squares from magazines. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595445669122048
+    m_Localized: 'Roll each magazine  square into a tube to form  a flower bud. Make
+      as  many of these as needed. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595459497742336
+    m_Localized: 'Apply glue to the  entire surface of the cardboard circle and start 
+      attaching the rolled magazine tubes, layer by  layer. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595471371816960
+    m_Localized: 'Continue adding  the rolled magazine tubes  until the entire cardboard 
+      circle is covered, forming a  flower-like design. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595482516082688
+    m_Localized: "Repeat the process  until you\u2019ve filled the  entire circle.
+      Your magazine wall hanging is  completed! Hang it as a  decorative piece anywhere 
+      in your home."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603662612647936
+    m_Localized: "Materials needed: \r\n\n- Newspaper \r\n- Scissors \r\n- Glue gun
+      with glue stick \r\n- Ruler \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603727464976384
+    m_Localized: "Gather all the required materials. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603751787745280
+    m_Localized: Get a full sheet of newspapers, fold it in half and using a scissor,
+      cut it horizontally.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603765180157952
+    m_Localized: "Next is to fold the newspaper with 1-inch-wide strips and make
+      more strips with samesizes. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603777024872448
+    m_Localized: 'Get ten strips of newspaper. Position the five strips vertically
+      and another five stripshorizontally. Weave it over and over and add more strips
+      to continue with your desired size of the basket. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603790010437632
+    m_Localized: "Use glue to help secure the strips in place. Press the strips down
+      to ensure they adhere well. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603801016291328
+    m_Localized: 'Once the base is at your desired size, start weaving and folding
+      the vertical stripsupwards. These will form the sides of the basket. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603816686211072
+    m_Localized: "Repeat the process patiently and when the basket reaches your desired
+      height, fold the remaining strips down over the outside of the basket. Apply
+      glue to secure the strips and trim  the excess length.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608009484455936
+    m_Localized: "Materials Needed: \n\r\n- Newspapers  \r\n- Magazine/Brochure \r\n-
+      Glue Gun with Glue Sticks  \r\n- Scissors \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608120503488512
+    m_Localized: 'Gather the needed  materials. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608166137516032
+    m_Localized: "Take a newspaper,  fold it in half horizontally,  and cut along
+      the fold. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608176275148800
+    m_Localized: "Roll each cut  newspaper strip to make a  sturdy stick. Prepare 
+      several of these. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608185703944192
+    m_Localized: Arrange the rolled  newspaper tubes into a  diamond shape, gluing 
+      them together to create  the base for your wall  hanging.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608234492088320
+    m_Localized: From the magazine,  cut out multiple circle  shapes in various sizes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608247943221248
+    m_Localized: 'On each magazine  circle, cut in a circular  motion towards the
+      center  but not all the way  through. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608258785497088
+    m_Localized: "At the end of the  circular cut, roll the  magazine paper until
+      it  forms a flower-like shape.  Create multiple flowers using different sizes
+      of  magazine circles.  \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608269019598848
+    m_Localized: "Attach these rolled  magazine flowers to the  diamond-shaped base
+      you  created earlier. Fill the  entire bottom base with  these flowers until
+      you're  satisfied with the result. \r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

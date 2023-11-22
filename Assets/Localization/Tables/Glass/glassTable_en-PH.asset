@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: glassTable_en-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-PH
+  m_SharedData: {fileID: 11400000, guid: 6e1e2deda4388c7429a1d8004eb2691a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5170679808
+    m_Localized: Glass is a solid substance with a smooth, shining surface that is
+      often transparent and fragile. It is commonly used to make windows, containers,
+      and other objects with a smooth, shiny surface. It's made by cooling a molten
+      combination of several materials to a hard state without crystallization. Because
+      of its transparency, smoothness, and adaptability, it is a valuable material
+      in a variety of sectors.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12511631161577472
+    m_Localized: "Materials Needed: \r\n\n\t- Small to medium glass \tcontainers
+      \r\n\t- Acrylic paints \r\n\t- Paintbrushes \r\n\t- Tea light candles \r\n\t-
+      Yarn \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513166541082624
+    m_Localized: "Collect clean glass containers of varying sizes. Jars, bottles,
+      and other glass items workwell for creating lanterns. Decide on the design
+      you want to paint on the glass lanterns. Consider Patterns, landscapes, silhouettes,
+      or abstract designs. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12513715256709120
+    m_Localized: Cover your workspace with newspaper or a plastic sheet to protect
+      it from paint splatters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12514252521885696
+    m_Localized: Start by painting the chosen design you want. If desired, add finer
+      details to your painted design. This could include highlights, shading, or
+      intricate patterns. Allow the paint to dry thoroughly before moving on to the
+      next step.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515004178911232
+    m_Localized: ' Wrap the yarn on the lid of the glass containers.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515787976888320
+    m_Localized: 'Put tea light candles inside. Make sure the lights are secured
+      and won''t tip over. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12515789956599808
+    m_Localized: Light the candles to see your lanterns come to life. Arrange your
+      finished lanterns indoors or outdoors to create a warm and inviting atmosphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517662839164928
+    m_Localized: "Materials Needed:  \r\n\n\t- Mason Jar  \r\n\t- Glue Gun with Glue
+      Sticks  \r\n\t- Yarn\r\n\t- Scissors \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517829629857792
+    m_Localized: Collect all the materials you'll need for this project.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517893114843136
+    m_Localized: Cut four pieces of yarn, each measuring 25 inches.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517919186636800
+    m_Localized: Lay two pieces of yarn horizontally and the other two vertically,
+      overlapping in the center.  Start making a knot at this intersection point.
+      This knot will be the center point of your design.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517934386794496
+    m_Localized: Apply a small amount of hot glue to the bottom center of the glass
+      container and press the knotted yarn onto it.  Ensure it's firmly attached.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517946768379904
+    m_Localized: Take one piece of  yarn from each pair  (horizontal and vertical) 
+      and start knotting them  together around the glass  container. Alternate  between
+      the pairs as you  go. Apply a small amount  of hot glue at the end of  each
+      knot to keep them in  place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517957673570304
+    m_Localized: Once the knot has  all securely covered the jar  and you reach the
+      top, tie  a final knot to secure the  yarn, and cut off any  excess.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12517968712978432
+    m_Localized: Place a tea light  candle inside the knotted  glass jar. Ensure
+      it's  securely in place and won't  tip over. Light it and the  knotted design
+      will create  a warm and cozy ambiance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539019132030976
+    m_Localized: "Materials Needed: \n \r\n\t- Glass Bottle \r\n\t- Acrylic Paint 
+      \r\n\t- Palette \r\n\t- Paintbrush  \r\n\t- Newspaper \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539118813859840
+    m_Localized: Gather all the  needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539136329273344
+    m_Localized: 'Take your glass  bottle. Use a paintbrush  and acrylic paint to
+      create  the design you desire on  the bottle''s surface. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539148106878976
+    m_Localized: "Don't hesitate to  incorporate finer details  and let your creativity
+      flow  as you paint. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12539174921064448
+    m_Localized: 'Continue making  as many painted glass  bottles as you like. Place 
+      them anywhere in your  space to enhance the  room''s decorative appeal. '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

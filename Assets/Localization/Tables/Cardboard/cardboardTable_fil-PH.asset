@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: cardboardTable_fil-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil-PH
+  m_SharedData: {fileID: 11400000, guid: d6427c4e3c5da51449635cc4e31a0f10, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20056264704
+    m_Localized: Ang karton ay isang makapal at matigas na paperboard o materyal
+      na naka-batay sa papel na karaniwang gina-gamit para sa pag-iimpake, konstruksiyon,
+      at iba pa na layunin. Ang mga layer ng papel o pulp ay dinidiin at pinag-sasama-sama
+      upang bumuo ng isang matibay at pang-matagalang karton. Ang karton ay pina-hahalagahan
+      para sa kakayahang umangkop nito, dahil madali itong gupitin, tiklupin, at
+      hubugin upang umangkop sa iba't-ibang pangangailangan. Ito ay isang murang
+      alternatibo para sa pag-iimpake ng mga kalakal, pag-protekta sa mga gamit sa
+      pag-bibiyahe, at pag-tatayo ng pansamantala o permanenteng mga gusali sa mga
+      disenyo ng proekto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104973408030720
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n\t- Karton \r\n\t- Acrylic na
+      pintura \r\n\t- Paint Brush \r\n\t- Glue Gun at Glue Sticks\r\n\t- Masking
+      Tape\r\n\t- Manipis na Lubid\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110814823600128
+    m_Localized: Kolektahin ang lahat ng mga materyales na kakailanganin mo para
+      sa proyektong ito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110948538011648
+    m_Localized: 'Kumuha ng tatlong piraso na karton, sukatin at gupitin ang bawat
+      isa sa sukat na 8x20 sentimetro. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110972898529280
+    m_Localized: Mag-lagay ng masking tape sa gilid ng mga rektanggulong karton upang
+      takpan at maayos ang mga gilid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111033195843584
+    m_Localized: Gumamit ng acrylic na pintura at isang paintbrush upang ma-pinturahan
+      ang lahat ng tatlong piraso ng karton sa iyong napiling kulay. Hayaang matuyo
+      sila nang lubusan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111076648833024
+    m_Localized: 'Kapag natuyo na ang pintura, maaari kang  magsimulang magdagdag
+      ng kaligrapya o mga salita na gusto mong ilagay sa pininturahan na karton. 
+      Gamitin ang iyong pagka-malikhain upang  gawin itong kakaiba at kaakit-akit. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111090909466624
+    m_Localized: Baliktarin ang mga karton sa likod. Gamit ang  glue gun, ikabit
+      ang isang manipis na lubid sa mga  gilid ng bawat piraso ng karton. Ito ang
+      mag-sisilbing hanger para sa iyong wall hanging.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111106143178752
+    m_Localized: Kumpleto na ang iyong wall hanging! Maaari  mo itong isabit kahit
+      saan sa iyong bahay upang  mag-dagdag ng magandang palamuti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117903235108864
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\n\t- Karton \r\n\t- Acrylic na
+      pintura \r\n\t- Paint Brush \r\n\t- Glue Gun at Glue Sticks\r\n\t- Cutter \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117978925518848
+    m_Localized: Kolektahin ang lahat ng mga materyales na kakailanganin mo para
+      sa proyektong ito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118061368758272
+    m_Localized: Sukatin at gupitin ang 12 piraso ng karton, bawat isa ay dapat may
+      sukat na 3x5 pulgada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118070193573888
+    m_Localized: Kumuha ng dalawang piraso ng karton at pag-dikitin ang mga ito upang
+      maging mas matibay. Kakailanganin mo ng anim na mga piraso para kumapal ito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118080830328832
+    m_Localized: Simulan ang pag-dikit ng anim na makapal na piraso ng karton upang
+      bumuo ng hugis heksagono.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118091030876160
+    m_Localized: Gamit ang acrylic na pintura at isang paintbrush, pintahan ang hexasagono
+      sa mga kulay  na gusto mo. Mag-lagay ng dyaryo sa ilalim ng lugar na pag-gagawan
+      mo upang ma-protektahan ito mula sa talamsik ng pintura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118104150659072
+    m_Localized: Kapag natapos mo na ang hugis hexagono, maaari mo na ngayong idikit
+      ang dalawang hugis  hexagono na ito sa iyong dingding. Ang mga hexagono na
+      hugis na ito ay maaaring mag-silbi  bilang mga pang-dekorasyon na istante o
+      mga display kung saan maaari kang mag-lagay ng maliliit na bagay tulad ng mga
+      pigurin o iba pang-dekorasyon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125030896914432
+    m_Localized: "Mga Kagamitan na kailangan: \n\r\n\t- Lagayan ng Sapatos\r\n\t-
+      Scissor or cutter \r\n\t- Glue gun with glue stick \r\n\t- Decorative paper
+      (Opsyonal) \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125085649358848
+    m_Localized: Magsimula sa pamamagitan ng pag-putol ng ibabaw na takip mula sa
+      lalagyan ng sapatos gamit ang gunting o pamutol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125107493294080
+    m_Localized: Gupitin ang takip ng kahon sa kalahati upang magkaroon ito ng dalawang
+      pantay na laki.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125117391851520
+    m_Localized: Ilagay ang kahon sa isang patag na ibabaw na ang bukas na bahagi
+      ay nakaharap sa itaas. Gumuhit ng dayagonal na linya mula sa gitnang ng kahon
+      ng sapatos. Ito ay lilikhang dalawang tatsulok. Gupitin ang mga linya ng dayagonal
+      gamit ang gunting o isang craft knife. Magkakaroon ka ng dalawang triangular
+      na piraso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125129173651456
+    m_Localized: Kapag pinutol mo ang dayagonal na linya, ang kahon ng sapatos ay
+      mag-iiwan ng walang laman na hugis tatsulok. Itupi ang walang laman na triangular
+      na hugis sa gitnang puntong kahon at lilikha ito ng nakataas na divider.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125137394487296
+    m_Localized: "Kunin ang takip ng kahon na nahati sa kalahati at idikit ang mga
+      ito sa bawat gilid ng shoebox na nakatiklop upang magamit bilang isang divider.
+      Ang mga divider na ito ay makakatulong sa pag-aayos ng mga nilalaman ng kahon.
+      (Opsyonal) Kung gusto mo, maaari mong takpan ng pang-dekorasyon na papel ang
+      labas ng shoebox para bigyan ito ng mas personalized na hitsura. Sukatin at
+      gupitin ang papel/tela ayon sa laki at gumamit ng glue gun para ikabit ito.
+      \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125145275584512
+    m_Localized: 'Ngayon na handa na ang iyong shoebox organizer, ilagay ang mga
+      item na gusto mong ayusin sa loob ng nahahati na mga seksyon.
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

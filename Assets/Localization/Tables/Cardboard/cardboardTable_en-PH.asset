@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: cardboardTable_en-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-PH
+  m_SharedData: {fileID: 11400000, guid: d6427c4e3c5da51449635cc4e31a0f10, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20056264704
+    m_Localized: "Cardboard is a thick and stiff paperboard or paper-based material
+      that is commonly used for packaging, construction, and other purposes. Layers
+      of paper or pulp are pressed and cemented together to form a strong and long-lasting
+      substance.\r\nCardboard is valued for its adaptability, as it can be easily
+      cut, folded, and shaped to suit various needs. It is a low-cost alternative
+      for packaging goods, protecting items in transit, and constructing temporary
+      or permanent buildings in construction or design projects.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104973408030720
+    m_Localized: "Materials Needed:  \r\n\n\t- Cardboard  \r\n\t- Acrylic Paint 
+      \r\n\t- Paint Brush  \r\n\t- Glue Gun with Glue Sticks  \r\n\t- Masking Tape\r\n\t-
+      Thin Rope  \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110814823600128
+    m_Localized: 'Collect all the materials you''ll need for this project. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110948538011648
+    m_Localized: Measure and cut three pieces of cardboard, each measuring 8x20 centimeters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110972898529280
+    m_Localized: Place a masking tape along the edges of the cardboard rectangles
+      to cover and neaten the sides.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111033195843584
+    m_Localized: Use acrylic paint and a paintbrush to paint all three pieces of
+      cardboard in your chosen  light colors. Let them dry completely.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111076648833024
+    m_Localized: Once the paint is dry, you can start adding calligraphy or words
+      of your choice to the painted cardboard. Use your creativity to make it unique
+      and appealing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111090909466624
+    m_Localized: Flip the cardboard pieces over to the backside. Using a glue gun,
+      attach a thin rope to the sides of each cardboard piece. This will serve as
+      the hanger for your wall hanging.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111106143178752
+    m_Localized: Your wall hanging is now complete! You can hang it anywhere in your
+      home to add a beautiful decorative touch.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117903235108864
+    m_Localized: "Materials Needed: \r\n\n\t- Cardboard  \r\n\t- Acrylic Paint  \r\n\t-
+      Paint Brush  \r\n\t- Glue Gun with Glue Sticks \r\n\t- Cutter   \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117978925518848
+    m_Localized: Collect all the materials you'll need for this project.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118061368758272
+    m_Localized: Measure and cut 12 pieces of cardboard, each measuring 3x5 inches.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118070193573888
+    m_Localized: Take two pieces of cardboard and attach them together to make them
+      sturdier. You'll need six of these double-thick pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118080830328832
+    m_Localized: Begin connecting and gluing the six double thick cardboard pieces
+      together to form a hexagon shape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118091030876160
+    m_Localized: Using acrylic paint and a paintbrush, paint the hexagon shape in
+      the colors of your choice. Place a newspaper sheet under your work area to
+      protect it from paint spills.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118104150659072
+    m_Localized: "Once you\u2019ve finished the hexagon shape, you can now glue these
+      two hexagon shapes to your wall. These hexagon shapes can serve as decorative
+      shelves or displays where you can  place small items like figurines or other
+      decorations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125030896914432
+    m_Localized: "Materials Needed:\n\n\t- Shoe box \r\n\t- Scissor or cutter \r\n\t-
+      Glue gun with glue stick \r\n\t- Decorative paper (optional)\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125085649358848
+    m_Localized: Start by cutting the flap lid from the shoebox using scissors or
+      cutter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125107493294080
+    m_Localized: Cut the flap lid in half so that you have two equal-sized pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125117391851520
+    m_Localized: Place the shoebox on a flat surface with the open side facing up.
+      Draw a diagonal line from the shoe box's center point. This will create two
+      triangles. Cut along the diagonal lines using scissors or a craft knife. You'll
+      end up with two triangular pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125129173651456
+    m_Localized: When you cut through the diagonal line, the shoe box will be leaving
+      an empty triangular shape. Fold the empty triangular shape at the box's center
+      point and this will create a raised divider.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125137394487296
+    m_Localized: Get the flap lid that was cut in half and glue them on each side
+      of the shoebox that was folded to use as a divider. These dividers will help
+      organize the contents of the box. (Optional) If you'd like, you can cover the
+      outside of the shoebox with decorative paper to give it a more personalized
+      look. Measure and cut the paper/fabric to size and use a glue gun to attach
+      it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125145275584512
+    m_Localized: Now that your shoebox organizer is ready, place the items you want
+      to organize inside the divided sections.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

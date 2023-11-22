@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: aboutTable_pol
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pol
+  m_SharedData: {fileID: 11400000, guid: 27879126c688a6246b0eef98d5aa1c66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8672923648
+    m_Localized: "Dag\xF3s kam\xF3 sa TrashFormers, kan go-to na mobile app para
+      sa pag-recycle nikan bas\xFAra sagk\xFAd pag-kamalikhain. Gusto nam\xF3 kan
+      pag-\xE1-\xE1sikaso nikan bas\xFAra sagk\xFAd nan\xFAbod kami na ngamin kita
+      ay pwedeng mag-gibo nikan positibong epekto sa kapalib\xFAtan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12628152320
+    m_Localized: "Kan M\xEDsyon Nam\xF3\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169835962368
+    m_Localized: "Kan m\xEDsyon nam\xF3 ay simple: nganing maka-t\xE1w k\xE1-\xE1r\xE1m\xE1n
+      sa mga indibidwal sagk\xFAd kom\xFAnidad na bawasan kan bas\xFAra, i-recycle,
+      sagk\xFAd gibong kapaki-pakinabang. \xD3bhet\xF3 nam\xF3 na ita\xE1s kan kamalayan
+      man\xFAng\xFAd sa importansya nikan responsableng pag-\xE1-\xE1sik\xE1so nikan
+      bas\xFAra sagk\xFAd mag-t\xE1w nikan mga praktikal na gamit sagk\xFAd ma-\xFAkwan
+      nganing mag-t\xE1w inspirasyon sa pagbabago.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4411383500800
+    m_Localized: Kan Pangako Namo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4435672715264
+    m_Localized: "Kami ay na-ka-t\xFAon sa pag-b\xE1b\xE1go nikan mundo parang\xFAp
+      sa berdeng kapalib\xFAtan sa pa\xE1gi nikan pag-t\xE1w sa inyo  nikan mga gamit
+      sagk\xFAd impormasyon na caip\xFAwan mo nganing maging opu\xFArt\xFAnidad kan
+      bas\xFAra. Kan mga na-\xE1r\xE1m\xE1n nam\xF3 ay \xED-d\xEDnesenyo nganing
+      mag-t\xE1w nikan inspirasyon sagk\xFAd \xED-pa-\xE1ram sa inyo kan man\xFAng\xFAdl
+      sa pinakabagong mga \xFAso sa pag-a-asikaso nikan bas\xFAra sagk\xFAd pag-recycle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6081354027008
+    m_Localized: "Makikuyog!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105647435776
+    m_Localized: "Mag-k\xFAyog sam\xF3 sa kom\xFAnidad nikan TrashFormers sagk\xFAd
+      maging bahagi nikan solusyon, kan mga proyekto sa pag-recycle, manatiling napapanahon
+      sa mga pinakabagong bar\xEDta sagk\xFAd kaganapan sa mundo ng pag-a-asikaso
+      nikan bas\xFAra. K\xFAr\xFAy\xFAgan, pwede kitang g\xFAimibong pag-b\xE1-b\xE1go."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

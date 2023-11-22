@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: FAQsTable_en-PH
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-PH
+  m_SharedData: {fileID: 11400000, guid: 985dc406d038c7b459fe4f0f37913597, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6680629248
+    m_Localized: 'What is TrashFormers?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41199751168
+    m_Localized: TrashFormers is a mobile application dedicated to waste recycling
+      and management. It offers resources, guides, and projects to help you recycle
+      and repurpose various waste materials into useful items and provides updates
+      on waste management in our community.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4712169623552
+    m_Localized: 'How do I get started with TrashFormers?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4732902068224
+    m_Localized: "To get started, download the apk.file of the TrashFormers. Once
+      installed, you don\u2019t need to sign up or log in because our app is open
+      to everyone. You can immediately access waste categories, recycling projects,
+      and community updates without the need for an account. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5972880936960
+    m_Localized: 'What are the waste categories in TrashFormers?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5974755790848
+    m_Localized: 'TrashFormers includes six waste categories: plastic, cans, papers,
+      glass, textiles, and cardboard. Each category offers recycling projects and
+      step-by-step instructions on how to transform waste into useful items.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7435283746816
+    m_Localized: 'Sure! One example is turning old newspapers into eco-friendly baskets.
+      The app provides detailed instructions and materials needed to complete this
+      project, helping you reduce waste and create something useful.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7419378946048
+    m_Localized: Can you give me an example of a recycling project available in TrashFormers?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9319063113728
+    m_Localized: "We aim to provide regular updates with fresh content and community
+      highlights. You can expect to see new projects and news articles added to the
+      app on a regular basis to keep you informed and inspired.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9295075889152
+    m_Localized: "How often is the app updated with new content and community highlights?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10398517579776
+    m_Localized: "How do I navigate the different waste categories in TrashFormers?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10416561475584
+    m_Localized: "To explore waste categories, simply open the app and tap on the
+      \"Recycle\" section. From there, you can select the category you're interested
+      in and access recycling projects and guides related to that specific waste
+      type.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11883468967936
+    m_Localized: "Now, TrashFormers is available in English, Tagalog and Polangui
+      language only, and we are actively working to expand our language support to
+      reach a broader audience.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11865253105664
+    m_Localized: Is Trashformers available in multiple languages?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: paperTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: paperTable
+  m_TableCollectionNameGuidString: 9c5eb784583e99b4b8663f2b88953da0
+  m_Entries:
+  - m_Id: 8790364160
+    m_Key: paperDesc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595227347210240
+    m_Key: WHPAmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595395102593024
+    m_Key: WHPA1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595406146195456
+    m_Key: WHPA2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595417214963712
+    m_Key: WHPA3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595426715062272
+    m_Key: WHPA4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595435971891200
+    m_Key: WHPA5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595445669122048
+    m_Key: WHPA6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595459497742336
+    m_Key: WHPA7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595471371816960
+    m_Key: WHPA8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14595482516082688
+    m_Key: WHPA9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603662612647936
+    m_Key: PBmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603727464976384
+    m_Key: PB1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603751787745280
+    m_Key: PB2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603765180157952
+    m_Key: PB3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603777024872448
+    m_Key: PB4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603790010437632
+    m_Key: PB5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603801016291328
+    m_Key: PB6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603816686211072
+    m_Key: PB7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608009484455936
+    m_Key: PaperWHmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608120503488512
+    m_Key: PaperWH1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608166137516032
+    m_Key: PaperWH2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608176275148800
+    m_Key: PaperWH3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608185703944192
+    m_Key: PaperWH4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608234492088320
+    m_Key: PaperWH5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608247943221248
+    m_Key: PaperWH6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608258785497088
+    m_Key: PaperWH7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14608269019598848
+    m_Key: PaperWH8
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7858890284423184436
+  references:
+    version: 2
+    RefIds:
+    - rid: 7858890284423184436
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1696358623712
