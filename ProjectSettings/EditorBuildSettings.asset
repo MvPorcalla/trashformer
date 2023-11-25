@@ -92,6 +92,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Content/ECardboardContent/ECBPage3SO.unity
     guid: 49c0eb43931221846af87b6af06fe5d2
+  - enabled: 1
+    path: Assets/Scenes/Content/ETextile/ETextilePage5Apron.unity
+    guid: ec26611072ff147458fdd95cf68f02e3
+  - enabled: 1
+    path: Assets/Scenes/Content/ETextile/ETextilePage4DenimFlower.unity
+    guid: 208d11e342a94ac49b97b8ad3e37a47c
+  - enabled: 1
+    path: Assets/Scenes/Content/ETextile/ETextilePage7PencilOrganizer.unity
+    guid: 3762d6e1e675e0846bd79c4cd904a9d3
+  - enabled: 1
+    path: Assets/Scenes/Content/ETextile/ETextilePage6Woven.unity
+    guid: d61346ffb291d5d4182ca1e140713271
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 28d307d1f30994c459ee9288d8e6e0d7, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: fd34de43d3d88f44abf16aefe6c79610, type: 2}

@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 27749387}
   - component: {fileID: 27749386}
   m_Layer: 5
-  m_Name: Scissorholder
+  m_Name: WovenPotholder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -210,7 +210,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 850204199}
         m_TargetAssemblyTypeName: EnglishPageManager, Assembly-CSharp
-        m_MethodName: LoadTextileFabricPouch
+        m_MethodName: LoadTextileWoven
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -863,7 +863,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 367ce86eb46ef814fba8740077f36b11, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ebf007ad0e3e43043a5b784e689ce408, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1263,7 +1263,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 850204199}
         m_TargetAssemblyTypeName: EnglishPageManager, Assembly-CSharp
-        m_MethodName: LoadTextileFabricPouch
+        m_MethodName: LoadTextileApron
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1369,7 +1369,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Denim Organizer
+  m_text: Denim Flower
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1802,7 +1802,7 @@ GameObject:
   - component: {fileID: 798733913}
   - component: {fileID: 798733912}
   m_Layer: 5
-  m_Name: Upcycle
+  m_Name: PencilOrganizer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1876,7 +1876,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 850204199}
         m_TargetAssemblyTypeName: EnglishPageManager, Assembly-CSharp
-        m_MethodName: LoadTextileFabricPouch
+        m_MethodName: LoadTextilePencilOrganizer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2352,7 +2352,7 @@ GameObject:
   - component: {fileID: 1199823341}
   - component: {fileID: 1199823340}
   m_Layer: 5
-  m_Name: DenimOrganizer
+  m_Name: DenimFlower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2426,7 +2426,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 850204199}
         m_TargetAssemblyTypeName: EnglishPageManager, Assembly-CSharp
-        m_MethodName: LoadTextileFabricPouch
+        m_MethodName: LoadTextileDenimFlower
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2919,7 +2919,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ccc9eb3db7714a94eb6e778886d544da, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c1f19916eb9b8848ab9d91428ef74fc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3103,7 +3103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2175955235353904339, guid: 3caed2029c3ba7c4b8d569c1c9e83b0f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 94.96155
+      value: 94.961426
       objectReference: {fileID: 0}
     - target: {fileID: 2175955235353904339, guid: 3caed2029c3ba7c4b8d569c1c9e83b0f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -3210,7 +3210,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8571590e1fe3bf746ba9ba02590fab8c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1da008769722f5b4ab913156115ac6fe, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3286,7 +3286,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Upcycle Denim Organizer
+  m_text: Pencil Organizer
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3691,7 +3691,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scissor Holder
+  m_text: ' Woven Potholder'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

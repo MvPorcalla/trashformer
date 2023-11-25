@@ -127,11 +127,6 @@ MonoBehaviour:
       flow  as you paint. \r\n"
     m_Metadata:
       m_Items: []
-  - m_Id: 12539174921064448
-    m_Localized: 'Continue making  as many painted glass  bottles as you like. Place 
-      them anywhere in your  space to enhance the  room''s decorative appeal. '
-    m_Metadata:
-      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -120,7 +120,23 @@ public class EnglishPageManager : MonoBehaviour
     {
         SceneManager.LoadScene("ETextilePage3OCE");
     }
-
+    public void LoadTextileDenimFlower()
+    {
+        SceneManager.LoadScene("ETextilePage4DenimFlower");
+    }
+    public void LoadTextileApron()
+    {
+        SceneManager.LoadScene("ETextilePage5Apron");
+    }
+    public void LoadTextileWoven()
+    {
+        SceneManager.LoadScene("ETextilePage6Woven");
+    }
+    public void LoadTextilePencilOrganizer()
+    {
+        SceneManager.LoadScene("ETextilePage7PencilOrganizer");
+    }
+    //ETextilePage7PencilOrganizer
     // cardboard page ------------------------------------------------------------------------------------------
     public void LoadCardboardPage()
     {

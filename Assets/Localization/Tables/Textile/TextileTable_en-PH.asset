@@ -128,6 +128,176 @@ MonoBehaviour:
       embellishments.\r"
     m_Metadata:
       m_Items: []
+  - m_Id: 18707610915176448
+    m_Localized: 'Materials Needed:
+
+      - Old Denim Jeans
+
+      - Glue Gun with
+      Glue Sticks
+
+      - Cardboard
+
+      - Scissors or Cutter
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18710490283900928
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18710757192630272
+    m_Localized: Cut diamond shapes from old denim in various sizes. Prepare several
+      of these.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18710912453181440
+    m_Localized: Form the petals. Glue the diamond shapes together to create petal-like
+      structures.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18711865269026816
+    m_Localized: Cut a circular shape from the cardboard to serve as the flower's
+      base and support. Arrange the denim petal forms in a circular pattern on the
+      cardboard, leaving no gaps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18712900016406528
+    m_Localized: 'Continue attaching the denim petals to the cardboard until all
+      spaces are filled. You have now created a denim flower. Place it anywhere in
+      your house as a decorative item.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18739533116997632
+    m_Localized: 'Materials Needed:
+
+      - Old Clothes
+
+      - Sewing Kit
+
+      -
+      Scissor
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18739966896111616
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18740199185055744
+    m_Localized: Cut the old clothes into square shapes in various colors, preparing
+      several of these fabric squares.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18740340658929664
+    m_Localized: Lay out the fabric squares and sew them together piece by piece.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18740536428068864
+    m_Localized: 'Create straps for the apron, sewing them in place for the neck
+      and waist ties.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18740668003385344
+    m_Localized: 'You''ve successfully recycled old clothes into a practical apron
+      that can protect you from splatters, stains, and spills while cooking.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18790664589410304
+    m_Localized: 'Materials Needed:
+
+      - Old Clothes
+
+      - Sewing Kit
+
+      -
+      Scissor
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18791330850406400
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18791489235714048
+    m_Localized: Cut old fabrics into long strips, each measuring around 10 inches
+      in length, and prepare several of these strips.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18792073028304896
+    m_Localized: 'Begin weaving the strips alternately to form a square-shaped mat.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18792499018596352
+    m_Localized: Continue weaving until you reach your desired mat size, then sew
+      the sides to secure the strips in place and prevent them from unraveling.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18792656460185600
+    m_Localized: Your woven mat is now complete. You can use smaller ones as potholders
+      and larger ones as floor mats, depending on your preference and needs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18810639458893824
+    m_Localized: "Materials Needed:\t\t\n- Old Clothes\r\n- Small Plastic Bottle\r\n-
+      Sewing Kit\r\n- Scissor or Cutter\r\n- Glue Gun with Glue Stick"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18811035787067392
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18811430886309888
+    m_Localized: "Cut the small plastic bottle in half, keeping the bottom part.\r\n
+      \t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18811620313661440
+    m_Localized: 'Vertically cut the half bottle into 8 segments, stopping just until
+      the end of the bottle.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18811875469950976
+    m_Localized: 'Cut old clothes into several long strips.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18812001332625408
+    m_Localized: 'Weave the cloth strips into the cut sections of the bottle, securing
+      them in place with glue as needed.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18812179934478336
+    m_Localized: Once you've finished weaving and securing the strips, you've created
+      a pencil organizer that you can place anywhere in your home to neatly store
+      and arrange your pencils.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
