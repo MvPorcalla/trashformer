@@ -28,8 +28,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14595227347210240
-    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n- Karton \r\n- Magazine  \r\n-
-      Elastic Garter  \r\n- Gunting \r\n- Glue Gun at Glue Sticks \r"
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Karton \r\n\t- Magazine 
+      \r\n\t- Elastic Garter  \r\n\t- Gunting \r\n\t- Glue Gun at Glue Sticks \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14595395102593024
@@ -79,7 +79,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14603662612647936
-    m_Localized: "Mga Materyales na Caip\xFAwan: \n\r\n- Dyaryo \r\n- Gunting \r\n-
+    m_Localized: "Mga Materyales na Caip\xFAwan: \n\t- Dyaryo \r\n\t- Gunting \r\n\t-
       Glue gun with glue stick \r\n- Ruler \r"
     m_Metadata:
       m_Items: []
@@ -124,8 +124,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14608009484455936
-    m_Localized: "Mga Materyales na Caipuwan: \n\r\n- Dyaryo  \r\n- Magazine/Brochure
-      \r\n- Glue Gun at Glue Sticks  \r\n- Gunting \r"
+    m_Localized: "Mga Materyales na Caipuwan: \n\r\t- Dyaryo  \r\n\t- Magazine/Brochure
+      \r\n\t- Glue Gun at Glue Sticks  \r\t- Gunting \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14608120503488512
@@ -167,6 +167,263 @@ MonoBehaviour:
     m_Localized: "I-pasta kan mga  b\xFArak sa hugis diamond na  ginibo mo. B\xFAtangan
       kan  parteng ibaba nikan base nikan mga b\xFArak hanggang sa magay\xF3nan na
       ika sa resulta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966216058830848
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Papel\r\n\t- Glue Gun at Glue
+      Sticks\r\n\t- Gunting o Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966284396625920
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na caip\xFAwan. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966306991341568
+    m_Localized: "Tikl\xFApun kan papel sa k\xE1b\xE1ng\xE1 saka gunting\xFAn.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966323449790464
+    m_Localized: "Irolyo kan papel mag-p\xFAn sa gilid gamit kan manipis na patpat,
+      irolyo kadi hanggang sa ma\xE1bot mo kan puro nikan papel.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966342391267328
+    m_Localized: "Pantay\xFAn kan nirolyo na papel. G\xFAmibong dak\xFAl nikadi.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966362586841088
+    m_Localized: "Irolyo kan mga napantay na papel sagk\xFAd ilapat kan pampasta
+      nganing di maali sa pagkaka\xFAsay.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966381083721728
+    m_Localized: "Idagos kan pagr\xFAgang nikan mga napantay na papel hanggang sa
+      mabilog na kan hugis nikan bowl.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966397558947840
+    m_Localized: "Tapos na kan paper bowl. Pwede na ika magr\xFAgang nikan mga disenyo
+      sagk\xFAd gamit\xFAn kadi pang display sa bal\xFAy.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972245236613120
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Magazine/Brochure\r\n\t- Glue
+      Gun at Glue Sticks\r\n\t-Gunting"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972344171855872
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na caip\xFAwan. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972368276520960
+    m_Localized: "Irolyo kan sad na brochure p\xFAn sa puro nganing makag\xEDbo nikan
+      brochure na patpat. G\xFAmibo ning p\xEDra nikadi.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972385645133824
+    m_Localized: "Gamit\xFAn kan brochure na patpat nganing b\xFAmilog nikan parisukat
+      na frame. Sig\xFArad\xFAn na nakapasta kad\xEDng maray saka gunting\xFAn kan
+      mga sobra na patpat.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972400497164288
+    m_Localized: "Magpasta nikan sad pa na brochure na patpat sa l\xFAg nikan parisukat
+      na frame nganing mags\xEDrb\xED kad\xEDng tangkay nikan b\xFArak.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972419308617728
+    m_Localized: "G\xFAmibo nikan iba ibang b\xFArak na origami na kayun iba iba
+      na dak\xFAlo. Ikabit kan mga b\xFArak na origami sa frame gamit kan glue gun.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972446168940544
+    m_Localized: 'Tapos na kan frame na pandekorasyon. Isabit kadi sa pader bilang
+      pandekorar.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057013164834816
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Colored Paper\r\n\t- Tape\r\n\t-
+      Glue Gun with Glue Sticks\r\n\t- Gunting o Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057076389773312
+    m_Localized: "Tip\xFAn\xFAn kan mga materyales na caip\xFAwan. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057093057937408
+    m_Localized: "Tikl\xFAp\xFAn  kan sad na pidaso nikan colored paper sa kabanga
+      saka g\xFAnting\xFAn kadi. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057150305992704
+    m_Localized: "Irolyo kan papel p\xFAn sa p\xFAro nikan papel hanggang sa l\xFAyong
+      p\xFAro nikadi nganing makagibo ning matibay na patpat. Gumibo ning dak\xFAl
+      nikadi na kayun iba ibang kulay.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057167032877056
+    m_Localized: "Tikl\xFAp\xFAn kan sad na pidaso nikan colored paper sa hugis hexagon
+      sagk\xFAd b\xFAtangan ning double-sided tape sa itaas.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057183076089856
+    m_Localized: "Ipasta kan \xFAn\xFAm na patpat nikan papel sa mga gilid nikan
+      hugis hexagon, sig\xFAradon na kan t\xFAktok nikan mga patpat ay kayun double-sided
+      tape.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057199702310912
+    m_Localized: "Tikl\xFAp\xFAn kan mga papel na patpat sa buong hexagon.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057247529959424
+    m_Localized: "Kumpleto na kan pen holder mo. Magamit mo kadi bilang organizer
+      para ma\xFAsay kan desk mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067134024581120
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Magazine o Brochure\r\n\t-
+      Gunting\r\n\t- Christmas Lights\r\n\t- Glue Gun at Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067200718209024
+    m_Localized: "Gumunting sad na wavy na pattern sa sad na pabilog na paag\xED
+      al\xED sa magazine, p\xFAm\xFAndo pag naab\xF3t mo kan b\xFAtnga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067239054147584
+    m_Localized: "Ip\xE1st\xE1 kan mga g\xEDl\xEDd nikan ginunting na wavy na pattern
+      nganing makabuo nikan hugis b\xFArak.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067263246893056
+    m_Localized: "Pag k\xFAmpleto na kan b\xFArak, b\xFAtangan pamp\xE1st\xE1 kan
+      mga gilid saka magr\xFAgang nikan DIY na paper glitters na g\xEDn\xEDbo sa
+      paag\xED nikan pagp\xFAtol nikan papel na kayun kulay sa s\xE1r\xE1day na pidaso.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067278400913408
+    m_Localized: "Gumibo nikan iba iba na b\xFArak na kayun iba iba man na dak\xFAlo,
+      ip\xE1st\xE1 kadi saka palib\xFAtan nikan christmas light."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067296096681984
+    m_Localized: "Kan DIY magazine na b\xFArak mo ay tapos na, pwede mo na kadi idisplay
+      sa baluy mo.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20070948148477952
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Dyaryo\r\n\t- Gunting o
+      Cutter\r\n\t- Glue Gun at Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071013336350720
+    m_Localized: "Tikl\xFAp\xFAn kan dyaryo nikan t\xFAlong beses saka gunting\xFAn
+      kan ka\xE1b\xE1\xE1n nikan mga t\xFApi nganing makabuo nikan mga pidaso.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071049881321472
+    m_Localized: "\xDAk\xFAn kan bawat strip, tikl\xFAp\xFAn kadi sa abilog na paag\xED,
+      saka gib\xF3n kading sad na origami na b\xFArak.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071072509591552
+    m_Localized: "Gumibo nikan pira na origami na b\xFArak gamit kan nakatiklop na
+      mga pidaso nikan dyaryo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071094487744512
+    m_Localized: "Pagk\xFAr\xFAy\xFAg\xFAn kan mga b\xFArak na origami saka ib\xFAtang
+      kadi sa flower vase nganing makagibo ning centerpiece para sa lamesa mo.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087663926312960
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Dyaryo\r\n\t- Acrylic na
+      Pintura\r\n\t- Paint Brush\r\n\t- Gunting o Cutter\r\n\t- Glue Gun at Glue
+      Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087745811709952
+    m_Localized: "Tikl\xFAp\xFAn kan dyaryo sa t\xFAlong seksyon , gunting\xFAn kadi
+      sa mga pidaso.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087769006211072
+    m_Localized: "Irolyo kan ginunting na mga pidaso nikan dyaryo sa mga patpat,
+      pagkatap\xF3s patagin kadi.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087790732705792
+    m_Localized: "Irolyo kan mga napatag na mga papel na patpat sa mga spiral na
+      hugis nikan b\xFArak na kayun iba iba na dak\xFAlo saka lapad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087806637506560
+    m_Localized: "Magpab\xFAtog nikan sad na lobo sa gusto na dak\xFAlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087826216517632
+    m_Localized: "Ip\xE1st\xE1 kan mga ginibong b\xFArak sa lobo, sig\xFArad\xFAn
+      na nakap\xE1st\xE1 kading m\xE1r\xE1y, kan lobo kan magas\xEDrb\xEDng gabay
+      sa paggibo nikan mangkok na gibo sa papel.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087844059086848
+    m_Localized: "Pag okay na ika sa taas nikan mangkok, pap\xFAt\xFAk\xFAn kan lobo
+      gamit kan matar\xFAm na gamit.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087859330547712
+    m_Localized: "Pinturan kan l\xFAwas nikan mangkok sa kulay na gusto mo.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087888090890240
+    m_Localized: "Nakagibo na ika nikan pabilog na flower vase. Magb\xFAtang nikan
+      mga artipisyal na b\xFArak sa lug saka kadi idisplay.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20096911993339904
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Dyaryo\r\n\t- Karton\r\n\t-
+      Acrylic na Pintura\r\n\t- Paint Brush\r\n\t- Gunting\r\n\t- S\xE1d\xE1y na
+      Kandila\r\n\t- Glue Gun at Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20096969191063552
+    m_Localized: "Gumunting nikan d\xFAwang hugis bilog ali sa karton saka dak\xFAl
+      na hugis dawn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097009464770560
+    m_Localized: "B\xFAtangan nikan acrylic na pintura kan mga hugis dawn sa napili
+      mo na kulay.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097043551879168
+    m_Localized: "Tikl\xFAp\xFAn saka gunting\xFAn kan dyaryosa t\xFAlong parte.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097100091097088
+    m_Localized: "Gumibo nikan matibay na mga patpat na papel gamit kan dyaryo. Gumibo
+      nikan dak\xFAl nikadi.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097124476780544
+    m_Localized: "Ip\xE1st\xE1 kan mga patpat na papel sa sad na karton na hugis
+      bilog, pagkatapos ay ikabit kan pininturahan na mga dawn saka gumunting mga
+      bilog na pidaso gamit kan magazine o brochure saka ip\xE1st\xE1 kadi sa pagitan
+      nikan mga hugis dawn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097141161721856
+    m_Localized: "Magp\xE1st\xE1 nikan sad pang karton na hugis bilog sa b\xFAtnga,
+      ilinya kadi sa base nganing magr\xFAgang suporta.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097172304429056
+    m_Localized: "Tapos na kan wall flower art,  pwede maging dekorasyon sa pader
+      nikan bal\xFAy niyo\r\n"
     m_Metadata:
       m_Items: []
   references:

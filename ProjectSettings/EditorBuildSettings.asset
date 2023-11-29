@@ -21,15 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Content/EPlasticPage.unity
     guid: 1efe2f8c54f9e1d4489e025a81e51234
   - enabled: 1
-    path: Assets/Scenes/Content/EPlastic/EPlasticPage1PBF.unity
-    guid: f0fff52cf7028b8479d8da0a18668047
-  - enabled: 1
-    path: Assets/Scenes/Content/EPlastic/EPlasticPage2DP.unity
-    guid: c0274c1cedb15c64f9e4342d5311ba31
-  - enabled: 1
-    path: Assets/Scenes/Content/EPlastic/EPlasticPage3LPS.unity
-    guid: d48fa9450b979ac40b4db69b494874d4
-  - enabled: 1
     path: Assets/Scenes/Content/ECansPage.unity
     guid: d5b7efb4b7425944786d9057372c0236
   - enabled: 1
@@ -42,20 +33,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Content/ECansContent/ECansPage3DreamCatcher.unity
     guid: 901cfb7b3cf6a33409acfcaf939838c9
   - enabled: 1
-    path: Assets/Scenes/Content/ECansContent/ECansPage4CLT.unity
+    path: Assets/Scenes/Content/ECansContent/ECansPage5CandleLighting.unity
     guid: 2b76314460d72d545b1207f6888ae913
   - enabled: 1
     path: Assets/Scenes/Content/EPaperPage.unity
     guid: f47ff242514c63b499c6ec86d2d9cbd9
-  - enabled: 1
-    path: Assets/Scenes/Content/EPaper/EPaperPage1WHFA.unity
-    guid: c6badea7f975d7d40bca316c2e3be222
-  - enabled: 1
-    path: Assets/Scenes/Content/EPaper/EPaperPage2PB.unity
-    guid: 4517d880a55be8f42928bb490a78bbc1
-  - enabled: 1
-    path: Assets/Scenes/Content/EPaper/EPaperPage3WH.unity
-    guid: 1054589fc534a2641be00b8d307678c5
   - enabled: 1
     path: Assets/Scenes/Content/EGlassPage.unity
     guid: aa9bc3171ddea584c81cc1e2b2370573
@@ -104,6 +86,132 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Content/ETextile/ETextilePage6Woven.unity
     guid: d61346ffb291d5d4182ca1e140713271
+  - enabled: 1
+    path: Assets/Scenes/Content/ETextile/ETextilePage8ToteBag.unity
+    guid: 28e5919ddad23d74290acee472038a93
+  - enabled: 1
+    path: Assets/Scenes/Content/ETextile/ETextilePage9UpcycleDenim.unity
+    guid: 578744844d07c7047bf5a25e714c6c46
+  - enabled: 1
+    path: Assets/Scenes/Content/ETextile/ETextilePage10DenimWallOrganizer.unity
+    guid: effc86f716084a842b5be48e8a12c0b2
+  - enabled: 1
+    path: Assets/Scenes/Content/ECardboardContent/ECBPage4CardboardVase.unity
+    guid: c6f4e920767b48b4999b0cff8a16705e
+  - enabled: 1
+    path: Assets/Scenes/Content/ECansContent/ECansPage4CLT.unity
+    guid: eec9f6b29924bcf46b85db5ee2592fff
+  - enabled: 1
+    path: Assets/Scenes/Content/ECansContent/ECansPage6Triangular.unity
+    guid: 04a19abb6bbb347499f8d9503607a7cc
+  - enabled: 1
+    path: Assets/Scenes/Content/ECansContent/ECansPage7CanOrganizer.unity
+    guid: 3ce13a16a6dcab740890579321e84f2a
+  - enabled: 1
+    path: Assets/Scenes/Content/ECansContent/ECansPage8Tiered.unity
+    guid: 9455cac8371e05945b0ca9383234a58c
+  - enabled: 1
+    path: Assets/Scenes/Content/ECansContent/ECansPage9DenimCan.unity
+    guid: 6201412690f3435419960aff4d2a5ea6
+  - enabled: 1
+    path: Assets/Scenes/Content/ECansContent/ECansPage10BottleCap.unity
+    guid: 3f82066a488c2ca47933df026c4908c6
+  - enabled: 1
+    path: Assets/Scenes/Content/ECardboardContent/ECBPage5HangingLamp.unity
+    guid: 16fdedf103af9ca42b9556320163df9b
+  - enabled: 1
+    path: Assets/Scenes/Content/ECardboardContent/ECBPage6PictureFrame.unity
+    guid: bb93006861b5489438aafb77610997ec
+  - enabled: 1
+    path: Assets/Scenes/Content/ECardboardContent/ECBPage7MiniCabinet.unity
+    guid: e1d964a7fccafea44bbd73873f63275c
+  - enabled: 1
+    path: Assets/Scenes/Content/ECardboardContent/ECBPage8JewelryOrganizer.unity
+    guid: 6e40c3fd16a278e49bc48c16e33a9df6
+  - enabled: 1
+    path: Assets/Scenes/Content/ECardboardContent/ECBPage9BookHolder.unity
+    guid: 8038d73814000a84896c6cbcc8fd0c32
+  - enabled: 1
+    path: Assets/Scenes/Content/ECardboardContent/ECBPage10MakeUpOrganizer.unity
+    guid: 85aa45d392921404292ed218bd19b216
+  - enabled: 1
+    path: Assets/Scenes/Content/EGlass/EGlassPage4WineGlassVase.unity
+    guid: 9a29dc334b1c4a54ab02d4390d6911a8
+  - enabled: 1
+    path: Assets/Scenes/Content/EGlass/EGlassPage5GlassLighting.unity
+    guid: 0d3d230b7abe1154aafa8dd351735d08
+  - enabled: 1
+    path: Assets/Scenes/Content/EGlass/EGlassPage6PaperStickMasonJar.unity
+    guid: abf1f06a942bd9a49bc9d33e8a84a63e
+  - enabled: 1
+    path: Assets/Scenes/Content/EGlass/EGlassPage8FlowerVase.unity
+    guid: a6fa2f7e7808cd14c84c3b752b6de3e5
+  - enabled: 1
+    path: Assets/Scenes/Content/EGlass/EGlassPage9IlluminatedGlassBottle.unity
+    guid: 9a55bf3193cc5644b88c5e94e0282b0a
+  - enabled: 1
+    path: Assets/Scenes/Content/EGlass/EGlassPage10PaintedMIrror.unity
+    guid: e909d3f33c4699243b6508bfb2da2fde
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage4PaperBowl.unity
+    guid: 5ce11f6b3998f9749b8085788c62833e
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage5FlowerArt.unity
+    guid: 18acedc233bda374797ede112d349f41
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage6PencilHolder.unity
+    guid: 1d2af56ca3872b342aae225a93981cd4
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage9CircularFlowerVase.unity
+    guid: 543b4233674d5124f9efa03b35e423e7
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage7MagazineFlower.unity
+    guid: 695f05fe14cc7c14db2ba14a466bc26a
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage8OrigamiFlower.unity
+    guid: 9654eba977dc6a2418f81fca40ce153e
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage10WallFlowerArt.unity
+    guid: 1f7913be57f86154f8469eb64b89cf88
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage4PlasticBottleOrganizer.unity
+    guid: a15296f2cc4ae5248882e95df97cc725
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage5Miniature.unity
+    guid: d6d5e3059ba2cbb46ad49324de394619
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage6PlasticFlowerVase.unity
+    guid: fd41aa4a2872ef1418760d999cd3c65b
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage7MirrorWithPlasticSpoon.unity
+    guid: 8a4173af2edddf5428148acca7b6c3fe
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage8ArtificialFlower.unity
+    guid: 3707d2d4945caca4eaab057d39817d5f
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage9HangingMoon.unity
+    guid: bd01107ab8048db4e8cd1d6b77fb2b3c
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage10DIYFlower.unity
+    guid: d5bf25efbc72c394bb890780f5278ad8
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage3WH.unity
+    guid: a9f5ce5b720dddb449aa7c6f3825ab58
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage1WHFA.unity
+    guid: 8cb534ae392df264e9d179276aef5eea
+  - enabled: 1
+    path: Assets/Scenes/Content/EPaper/EPaperPage2PB.unity
+    guid: b3244c92c4fc51c43aae2f8a0906853f
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage1PBF.unity
+    guid: 8b9cd964abb2a5e4eb3b37b6bc9e9994
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage2DP.unity
+    guid: cbcbe3f47f1e05247a5e839b382513e7
+  - enabled: 1
+    path: Assets/Scenes/Content/EPlastic/EPlasticPage3LPS.unity
+    guid: 7895ff8da4eae7849a775b38ecd319fd
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 28d307d1f30994c459ee9288d8e6e0d7, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: fd34de43d3d88f44abf16aefe6c79610, type: 2}

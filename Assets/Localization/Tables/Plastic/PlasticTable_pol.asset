@@ -31,8 +31,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14615047983747072
-    m_Localized: "Mga Materyales na Caip\xFAwan: \n\r\n- Plastik na Bote  \r\n- Gunting 
-      \r\n- Glue Gun at Glue Sticks  \r\n- Saday na kand\xEDla\r"
+    m_Localized: "Mga Materyales na Caip\xFAwan: \n\t- Plastik na Bote  \r\n\t- Gunting 
+      \r\n\t- Glue Gun at Glue Sticks  \r\n\t- Saday na kand\xEDla\r"
     m_Metadata:
       m_Items: []
   - m_Id: 14615137028820992
@@ -79,8 +79,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14618697892253696
-    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n- Mga CDs or DVDs \r\n- Acrylic
-      na pinture \r\n- Paintbrushes \r\n- Paleta \r\n- Dyaryo o plastic sheet \r"
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Mga CDs or DVDs \r\n\t-
+      Acrylic na pinture \r\n\t- Paintbrushes \r\n\t- Paleta \r\n\t- Dyaryo o plastic
+      sheet \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14618751638065152
@@ -115,9 +116,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14622560296783872
-    m_Localized: "Mga Materyales na Caip\xFAwan: \n\r\n- Plastik na Bote\r\n- Gunting\r\n-
-      Plastic na Kutsara (Puti)\r\n- Saday na kand\xEDla\r\n- Glue Gun at Glue Stick\r\n-
-      Marker\r"
+    m_Localized: "Mga Materyales na Caip\xFAwan: \n\t- Plastik na Bote\r\n\t- Gunting\r\n\t-
+      Plastic na Kutsara (Puti)\r\n\t- Saday na kand\xEDla\r\n\t- Glue Gun at Glue
+      Stick\r\n\t- Marker\r"
     m_Metadata:
       m_Items: []
   - m_Id: 14622592341266432
@@ -152,6 +153,257 @@ MonoBehaviour:
       nganing makita kan magay\xFAn na liwanag nikan lampshade. Kan mga puting plastik
       na kutsara maga-likha ning maaliwalas na epekto na may-taw nikan kakaiba sagk\xFAd
       pandekorasyon na liwanag.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20100876881494016
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- S\xE1d\xE1y na plastik na
+      bote  \n\t- Acrylic na pintura\r\n\t- Paintbrush\r\n\t- Glue Gun at Glue Sticks 
+      \r\n\t- Gunting\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101012131020800
+    m_Localized: "Gunting\xFAn kan s\xE1d\xE1y na bote sa d\xFAwang parte, b\xE1y\xE1n
+      kan irar\xFAm na parte. Mag preparar pit\xF3 nikadi.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101030267191296
+    m_Localized: "Ipasta kan mga ginunting na bote, kan sad sa b\xFAtnga, kan nat\xFAra
+      may buo nikan sad na bilog, na bubuo nikan bilog na organizer.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101049976225792
+    m_Localized: "Pagk\xE1t\xE1pos ipasta kan pitong plastik na bote, pinturan kadi
+      nikan gusto mo na kulay.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101064308162560
+    m_Localized: "Gamit\xFAn kan organizer nganing usay\xFAn kan mga gamit mo ar\xFAg
+      nikan lapis, mga paintbrush, saka iba pa na mga gamit na gusto mo usay\xF3n
+      sa lamesa.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108768372195328
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Mga takl\xFAb nikan plastik
+      na bote\r\n\t- S\xE1d\xE1y na kandila\r\n\t- Rag\xFAm saka tursido\r\n\t- Glue
+      Gun at Glue Sticks\r\n\t- Gunting\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108838131859456
+    m_Localized: "Suluan kan kandila saka painit\xFAn kan rag\xFAm, pagkatapos itusok
+      kan mainit na rag\xFAm sa mga takl\xFAb nikan bote. Ulitun kan prosesong kadi
+      hanggang sa mal\xFAbot mo kan sampulong takl\xFAb.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108863813582848
+    m_Localized: "Usay\xFAn kan mga takl\xFAb nikan bote sa sad na tursido, gunting\xFAn
+      kan sobra.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108880909565952
+    m_Localized: " Ipasta kan d\xFAwang takl\xFAb nikan bote sa itaas saka ibaba
+      nikan hugis bilog na takl\xFAb nikan bote, sigurad\xFAn na kayun l\xFAbot kadi
+      nganing kayun maagyan kan tursido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108901096751104
+    m_Localized: "Kayun na ika magay\xFAn saka saday na dekorasyon. Pwede mo na kading
+      idisplay maski sayn sa bal\xFAy mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112384969539584
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Mga plastik na kutsara\r\n\t-
+      1.5 na Plastik na bote\r\n\t- Acrylic na pintura\r\n\t- Paintbrush\r\n\t- Glue
+      Gun at Glue Sticks\r\n\t- Gunting\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112471028269056
+    m_Localized: "Gunting\xFAn kan mga plastik na kutsara sa kabanga, bayan kan pinagikap\xFAtan.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112498295439360
+    m_Localized: "Kulayan kan mga pinutol na kap\xFAtan nikan kutsara gamit kan napili
+      mo na kulay.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112518755254272
+    m_Localized: "Gunting\xFAn kan tuktok na parte nikan 1.5 litro nikan plastik
+      na bote, b\xE1y\xE1n kan ibaba nganing gibong base nikan plorera.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112536266473472
+    m_Localized: "Gumamit nikan glue gun nganing makabit kan pininturan na mga kap\xFAtan
+      nikan kutsara sa palibot nikan pinutol na bote, sigurad\xF3n na da kadi puwang, 
+      nganing mabuo kan plorera.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112552179662848
+    m_Localized: "Pag kumpleto na kan plastic vase, mag butang mga artipisyal na
+      b\xFArak sa l\xFAg, sagk\xFAd gamit\xFAn kading dekorasyon sa b\xFAtnga nikan
+      lamesa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20119877078614016
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Hugis Bilog na salamin\r\n\t-
+      Plastik na kutsara\r\n\t- Acrylic na pintura\r\n\t- Paintbrush\r\n\t- Karton\r\n\t-
+      Glue Gun at Glue Sticks\r\n\t- Gunting\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20119953851154432
+    m_Localized: "Gunting\xFAn kan mga plastik na kutsara sa kabanga, b\xE1y\xE1n
+      sana kan parteng payo nikan kutsara. Mag preparar dak\xFAl nikadi.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20119982959624192
+    m_Localized: 'Kulayan kan mga kutsara sa kulay na gusto mo. Gumamit nikan dyaryo
+      nganing di matipsikan pintura kan lamesa.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120022138617856
+    m_Localized: "Uk\xF3n kan bilog na salming saka ipasta kan mga pininturan na
+      kutsara sa likod na parte nikan salming.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120040044101632
+    m_Localized: "Mag padag\xF3s sa pag rugang nikan dak\xFAl na kutsara ning pabilog.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120057978945536
+    m_Localized: "Gunting\xFAn kan karton nikan hugis bilog na pary\xF3ng dak\xFAlo
+      sa salming sagk\xFAd ipasta kadi sa likod. Mag padagos sa pag pasta nikan mga
+      kutsara sa karton.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120096398770176
+    m_Localized: "Kayun na ika salming na parang b\xFArak, magayun kadi pang disensyo
+      sa bal\xFAy.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133752817713152
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- 1.5 Plastik na bote\r\n\t-
+      Saday na kandila\r\n\t- Glue Gun at Glue Sticks\r\n\t- Gunting\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133885215113216
+    m_Localized: "Gunting\xFAn kan 1.5 na plastik na bote, bayan kan b\xFAtngang
+      parte.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133907461701632
+    m_Localized: "Gamit kan b\xFAtngang parte, gumunting dak\xFAl na 2x2 pulgadang
+      mga parisukat.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133929943171072
+    m_Localized: "Gamit kan mga parisukat bil\xFAg\xFAn kadi sa anyong tal\xFAlot.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133970560811008
+    m_Localized: "S\xFAl\xFAan kan saday na kandila nganing tunaw\xFAn kan mga gilid
+      nikan plastik na tal\xFAlot.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133988101390336
+    m_Localized: "P\xFAn sa tuktok na parte nikan bote, gumibo nikan hugis b\xFArak
+      sa paagi nikan pag gunting sagk\xFAd pag t\xFAn\xFAw sa mga gilid.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20134033731223552
+    m_Localized: "Ib\xFAtang kan mga tal\xFAlot sa tuktok nikan plastik na b\xFArak.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20134090241081344
+    m_Localized: "Nakagibo na ika nikan artipisyal na b\xFArak ali sa mga plastik
+      na bote."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140651067867136
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t-  Mga CD\r\n\t- Rag\xFAm
+      saka T\xFArsido \r\n\t- S\xE1d\xE1y na kandila\r\n\t- Yarn\r\n\t- Gunting o
+      Cutter\r\n\t- Glue Gun at Glue Sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140725147664384
+    m_Localized: "Banga\xFAn kan sad na CD sa d\xFAwang pidaso sa paagi nikan pags\xFAway\xFAn
+      kan nga layer nikadi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140791535108096
+    m_Localized: "Gumunting nikan hugis k\xE1b\xE1ng\xE1ng bul\xE1n ali sa sad na
+      pidaso na CD."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140793212829696
+    m_Localized: "Gumunting mga s\xE1r\xE1day na hugis bituin saka dyamante al\xED
+      sa CD.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140852436402176
+    m_Localized: "Gamit kan rag\xFAm saka t\xFArsido, ip\xE1st\xE1 kan hugis bituin
+      saka dyamante sa rag\xFAm na kayun sad na pulgadang pagitan sa kada \xFAsad,
+      gumibong pira nikadi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140890344521728
+    m_Localized: "Magsul\xF3 nikan kandila, painit\xFAn kan rag\xFAm, saka l\xFAb\xFAtan
+      ning \xFAn\xFAm na l\xFAbot kan gilid nikan CD.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140909202112512
+    m_Localized: "Ikab\xEDt kan t\xFArsido na pin\xE1st\xE1n nikan bituin saka dyamante
+      sa mga l\xFAbot na ginibo.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140927178899456
+    m_Localized: "Pagay\xFAn\xFAn kan half moon CD sa paagi nikan pagp\xE1st\xE1
+      nikan mga s\xE1r\xE1day na b\xFArak sa mga g\xEDl\xEDd nikadi.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140947533856768
+    m_Localized: 'Kan DIY hanging moon saka bituin ay tapos na.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146913268596736
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- S\xE1d\xE1y na Plastik na
+      Bote\r\n\t- Gunting o Cutter\r\n\t- S\xE1d\xE1y na Kandila\r\n\t- Glue Gun
+      at Glue Sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146988606685184
+    m_Localized: "Gunting\xFAn kan plastik na bote sa d\xFAwang seksyon, b\xE1y\xE1n
+      sana kan tuktok na parte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147010630975488
+    m_Localized: "Patind\xFAg na gunting\xFAn kan tuktok na parte sa \xFApat na parte
+      sagk\xFAd sa takl\xFAb nikan bote.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147035075379200
+    m_Localized: "Gunting\xFAn kan \xFApat na seksyon sa mga sanga na kayun dawn.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147050489446400
+    m_Localized: "S\xFAl\xFAan kan kandila saka t\xFAnaw\xFAn kan mga seksyon nikan
+      bote, na nagkakayun kulubot na epekto paryo nikan sad na b\xFArak.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147067618983936
+    m_Localized: "Ip\xE1st\xE1 kan d\xFAwang nat\xFAn\xFAw na burak sa ibab\xFAw
+      nikan sad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147100334555136
+    m_Localized: "Gumibo nikan mga b\xFArak na origami saka ip\xE1st\xE1 kadi sa
+      mga pur\xF3 nikan ginibo na sanga na kayun dawn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147120303636480
+    m_Localized: "Tapos na kan DIY plastic bottle na b\xFArak, pwede mo na kadi idisplay
+      maski sayn sa bal\xFAy mo."
     m_Metadata:
       m_Items: []
   references:

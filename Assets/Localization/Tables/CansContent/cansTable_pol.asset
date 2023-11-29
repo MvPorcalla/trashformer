@@ -133,6 +133,266 @@ MonoBehaviour:
       nikadi kan kaligtasan nikan produkto."
     m_Metadata:
       m_Items: []
+  - m_Id: 12922420737495040
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Lata \r\n\t- Gunting o Cutter\r\n\t-
+      Marker\r\n\t- Ruler\r\n\t- S\xE1d\xE1y na kandila\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772615664205824
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772765765763072
+    m_Localized: "Gamit\xFAn kan marker saka ruler nganing markahan kan mga lata
+      ning 8 cm p\xFAn sa ibaba."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772900063182848
+    m_Localized: "Gunting\xFAn kan kayun marka nikan linya, it\xFAra kan 8 cm sa
+      irar\xFAm na parte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773050068271104
+    m_Localized: "Gunting\xFAn kan 8 cm na seksyon sa 1cm na lapad nikan mga pidaso
+      na di naylagpas sa baba."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773188195090432
+    m_Localized: Buksan kan 1cm na lapad na mga pidaso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773359691792384
+    m_Localized: "Tikl\xFAp\xFAn kan mga pidaso pa-l\xFAg nganing bumuo ning pabilog
+      na disenyo, gunting\xFAn kan sobra sa pur\xF3."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773498477117440
+    m_Localized: "Para sa mga lata na kayun takl\xFAb, ali\xFAn kan takl\xFAb gamit
+      kan gunting."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773647244886016
+    m_Localized: "Ib\xFAtang sa taas na parte kung sayn mo inali kan takl\xFAb sa
+      lata na ginibo mo sa step 6. Kadi kan may s\xEDrb\xEDng b\xFAtangan kandila."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773804233490432
+    m_Localized: "Mag sul\xF3 ning s\xE1d\xE1y na kandila, tapos na kan b\xFAtangan
+      mo nikan kandila."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19803358008311808
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Lata \r\n\t- Yarn\r\n\t-
+      Acrylic Paint\r\n\t- Paint Brush\r\n\t- Ruler\r\n\t- Medida\r\n\t- Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804108604178432
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804241588781056
+    m_Localized: "Gamit\xFAn kan medida nganing markahan kan tuktok na parte nikan
+      mga lata."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804386376155136
+    m_Localized: "Gamit kan ruler saka cutter, g\xFAnting\xFAn kan palibot ning kayun
+      markang 1cm na s\xFAkol sa mga lata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804567733665792
+    m_Localized: "Pindut\xFAn kan tuktok saka ibaba nikan lata nganing  mabuo kadi
+      sa hugis oval."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804699237679104
+    m_Localized: "Pinturan kan mga lata sa kulay na gusto mo, gamit kan dyaryo ib\xFAtang
+      kadi sa lugar na paggigibwan mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804805332598784
+    m_Localized: "Ikabit kan d\xFAwang lata gamit kan yarn; i-gak\xFAd kan yarn sa
+      saday na bukana nikan mga lata nganing magibo mo kan lata na parol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852217438830592
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- 6 na Lata \r\n\t- Acrylic
+      na Pintura\r\n\t- Paint Brush\r\n\t- Glue gun at glue sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852513699299328
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852649682829312
+    m_Localized: "B\xFAtangan nikan acrylic na pintura kan ngamin na \xFAn\xFAm na
+      lata, magb\xFAtang papel sa irar\xFAm nikan lamesa mo nganing di kadi mat\xEDps\xEDkan
+      pintura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852703927762944
+    m_Localized: "Ip\xE1st\xE1 kan pinituran na mga lata gamit kan glue gun."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852736110657536
+    m_Localized: "\xDAsay\xFAn kan mga lata sa pagkasunud-sunod, t\xFAlo sa baba,
+      d\xFAwa sa b\xFAtnga, sad sa taas nganing makabuo ning tatsulok na hugis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852781069402112
+    m_Localized: "Gamit\xFAn kan triangular na organizer nganing \xFAsay na mas\xE1r\xE1y
+      kan mga lapis, ballpen, gunting, o maski ar\xEDn pa na bagay na gusto mo is\xE1r\xE1y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863155177029632
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Lata \r\n\t- Acrylic na
+      Pintura\r\n\t- Paint Brush\r\n\t- Glue Gun at Glue Sticks \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863202287452160
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863236072570880
+    m_Localized: "B\xFAtangan acrylic na pintura kan ngamin na lata, magb\xFAtang
+      papel sa irar\xFAm nikan lamesa mo nganing di mat\xEDps\xEDkan pintura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863306146807808
+    m_Localized: "Gamit\xFAn kan glue gun nganing makabit kan mga pininturan na lata,
+      siguradun na nakap\xE1st\xE1 kading maray nganing di matanggal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863347506839552
+    m_Localized: "Pagnakap\xE1st\xE1 na, kayun ka na simpleng organizer. Gamit\xFAn
+      kadi nganing ma\xFAsay kan mga lapis, ballpen, gunting o \xFAno pa na bagay
+      na gusto mo \xFAsay\xFAn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869691811069952
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Dak\xFAlo saka S\xE1d\xE1y
+      na Lata \r\n\t- Acrylic na Pintura\r\n\t- Paint Brush\r\n\t- Glue Gun at Glue
+      Sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869757120577536
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869794907062272
+    m_Localized: "B\xFAtangan acrylic na pintura kan ngamin na lata, magb\xFAtang
+      papel sa irar\xFAm nikan lamesa mo nganing di mat\xEDps\xEDkan pintura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869826590834688
+    m_Localized: "Ihanda kan pinint\xFArahan na 1 na dak\xFAlo na lata saka 6 na
+      saday na lata para sa organizer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869860883464192
+    m_Localized: "Ip\xE1st\xE1 kan mga s\xE1d\xE1y na lata sa dak\xFAlo na lata,
+      siguradun na nakap\xE1st\xE1 kading maray.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869922577481728
+    m_Localized: "Gamit kan mga s\xE1r\xE1day na lata na nakakabit sa dak\xFAlong
+      lata, nakagibo na ika nikan sad na tin can organizer. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883245180157952
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Mga Lata\r\n\t- Lum\xE1
+      na Maong\r\n\t- Gunting\r\n\t- Glue Gun at  Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883352835358720
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883417654132736
+    m_Localized: "Gunting\xFAn kan sad na hugis parihaba na pidaso al\xED sa maong."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883457743290368
+    m_Localized: "Ip\xE1st\xE1 kan ginunting na parihabang maong sa mga lata.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883500458082304
+    m_Localized: "Pagay\xFAn\xFAn kan itsura sa paagi nikan pagb\xFAtang ning mga
+      s\xE1r\xE1day na pearls ning b\xFArak o iba pang mga pandekorasyon sa pal\xEDg\xEDd
+      nikan mga lata na natakl\xFAbang nikan maong.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883528631222272
+    m_Localized: "Kan mga lata na pin\xFAtos mo gamit kan maong saka dekorasyon ay
+      maga s\xEDrb\xEDng sad na magay\xFAn na organizer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890479482142720
+    m_Localized: "Mga Materyales na Caip\xFAwan:\r\n\t- Mga Takl\xFAb nikan Plastik
+      na Bote\r\n\t- Glue Gun at Glue Sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890536352710656
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890573736542208
+    m_Localized: "Gamit\xFAn kan glue gun nganing ikabit kan mga takl\xFAb nikan
+      bote na magkak\xFAr\xFAyog, na nay buo ning mga pad\xE9s ar\xFAg nikan clamp."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890606317895680
+    m_Localized: "Ip\xE1st\xE1 kan mga takl\xFAb nikan bote ning magkak\xFAr\xFAyog
+      nganing bumuo nikan gusto mo na dak\xFAlo nikan coaster."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890636865011712
+    m_Localized: "Magpadag\xFAs sagk\xFAd ma\xFAko mo na kan tamang dak\xFAlo nikan
+      coaster. Opsyonal, pint\xFAran kan mga coaster sa gusto mo na kulay o magr\xFAgang
+      mga disenyo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890682452901888
+    m_Localized: "Pag m\xE1r\xE1 na, handa nang gamit\xFAn kan DIY bottle cap coaster,
+      nganing kayun ka patungan nikan malip\xF3t na inumun.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919061700968448
+    m_Localized: 'Step 1:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919567257206784
+    m_Localized: 'Step 2:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919644407234560
+    m_Localized: 'Step 3:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919674081935360
+    m_Localized: 'Step 4:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919698660556800
+    m_Localized: 'Step 5:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919739286585344
+    m_Localized: 'Step 6:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919759008202752
+    m_Localized: 'Step 7:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919797184757760
+    m_Localized: 'Step 8:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919820878381056
+    m_Localized: 'Step 9:'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

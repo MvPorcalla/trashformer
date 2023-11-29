@@ -28,8 +28,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16599963931922432
-    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\n- L\xFAmang Bad\xF3\r\n- S\xEDper 
-      \r\n- Gamit Panahi  \r\n- Gunting \r\n- Medida \r"
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- L\xFAmang Bad\xF3\r\n\t-
+      S\xEDper  \r\n\t- Gamit Panahi  \r\n\t- Gunting \r\n\t- Medida \r"
     m_Metadata:
       m_Items: []
   - m_Id: 16600042910666752
@@ -64,8 +64,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16605096652722176
-    m_Localized: "Mga Materyales na Caipuwan: \r\n\n- Lumang tela o bado \r\n- Gamit
-      Panahi \r\n- Garter  \r\n- Gunting \r\n- Medida\r"
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Lumang tela o bado \r\n\t-
+      Gamit Panahi \r\n\t- Garter  \r\n\t- Gunting \r\n\t- Medida\r"
     m_Metadata:
       m_Items: []
   - m_Id: 16605130605613056
@@ -103,8 +103,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16608853780221952
-    m_Localized: "Mga Materyales na Caipuwan:\n \r\n- Luma na Bado \r\n- Gunting
-      \r\n- Pang-tahi \r"
+    m_Localized: "Mga Materyales na Caipuwan:\n\r\t- Luma na Bado \r\n\t- Gunting
+      \r\n\t- Pang-tahi \r"
     m_Metadata:
       m_Items: []
   - m_Id: 16608954674204672
@@ -132,8 +132,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18707610915176448
-    m_Localized: "Mga Materyales na Caipuwan: \r\n- Lum\xE1ng Pantalon\r\n- Glue
-      gun at Glue sticks\r\n- Karton\r\n- Gunting \r\n"
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Lum\xE1ng Pantalon\r\n\t- Glue
+      gun at Glue sticks\r\n\t- Karton\r\n\t- Gunting \r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 18710490283900928
@@ -163,7 +163,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18739533116997632
-    m_Localized: "Mga Materyales na Caipuwan: \r\n- Lum\xE1ng Damit\r\n- Pantahi\r\n-
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Lum\xE1ng Damit\r\n\t- Pantahi\r\n\t-
       Gunting \r\n"
     m_Metadata:
       m_Items: []
@@ -192,7 +192,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18790664589410304
-    m_Localized: "Mga Materyales na Caipuwan: \r\n- Lum\xE1ng Damit\r\n- Pantahi\r\n-
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Lum\xE1ng Damit\r\n\t- Pantahi\r\n\t-
       Gunting \r"
     m_Metadata:
       m_Items: []
@@ -221,8 +221,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18810639458893824
-    m_Localized: "Mga Materyales na Caipuwan: \r\n- Lum\xE1ng Damit\r\n- Maliit na
-      plastik na bote\r\n- Pantahi\r\n- Gunting \r\n- Glue gun at Glue stick\r\n"
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Lum\xE1ng Damit\r\t\n\t- Maliit
+      na plastik na bote\r\n\t- Pantahi\r\n\t- Gunting \r\n\t- Glue gun at Glue stick\r\n"
     m_Metadata:
       m_Items: []
   - m_Id: 18811035787067392
@@ -252,6 +252,101 @@ MonoBehaviour:
   - m_Id: 18812179934478336
     m_Localized: "Nakagibo na ika ning pencil organizer na pwede mong b\xFAtangan
       nikan mga gamit nganing ma\xFAsay kit\xFAn kan lamesa mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19028160610959360
+    m_Localized: "Mga Materyales na Caipuwan: \r\n\t- Lum\xE1ng Pantalon\r\n\t- Pantahi\r\n\t-
+      Gunting \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185089442349056
+    m_Localized: "Tip\xFAn\xFAn kan mga  materyales na caip\xFAwan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185288453685248
+    m_Localized: Alisin ang zipper sa pamamagitan ng pagputol nang patayo sa baywang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185422549778432
+    m_Localized: "Ali\xFAn kan zipper sa paagi nikan pag putol nikadi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185819498708992
+    m_Localized: "Baliktad\xFAn kan maong shorts sa l\xFAg saka tahi\xFAn nganing
+      masarado kan gilid."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19186000923328512
+    m_Localized: "Gamit\xFAn kan mga nat\xFArang parte nikan tela nganing gumibo
+      ning d\xFAwang strap nikan  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19186131009667072
+    m_Localized: "Tahi\xFAn kan d\xFAwang pidaso nikan straps sa bag"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19186277684477952
+    m_Localized: "Nakagibo na ikang tote bag ali sa lum\xE1ng maong,magamit mo kadi
+      na b\xFAtangan ning mga gamit pag ali ika."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19194830000357376
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Lumang Maong\r\n\t- Gunting\r\n\t-
+      Pantahi\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195130530627584
+    m_Localized: "Tip\xFAn\xFAn ngamin na caip\xFAwan na materyales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195282150522880
+    m_Localized: "Gunting\xFAn kan lum\xE1 na maong."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195516729556992
+    m_Localized: "Baliktad\xFAn kan ginunting na maong, tahi\xFAn kan mga puro, pagkatapos
+      baliktad\xFAn kadi nganing matag\xF3 kan tinahian."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195661894418432
+    m_Localized: "Tikl\xFAp\xFAn kan tuktok na parte nikan maong ning d\xFAwang beses
+      nganing makagibo ning saday na basket. Magamit mo kadi na b\xFAtangan nikan
+      mga gamit ar\xFAg nikan mga lapis saka gunting. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19202986776592384
+    m_Localized: "Mga Materyales na Caip\xFAwan: \r\n\t- Lum\xE1 na Maong\r\n\t-
+      Gunting\r\n\t- Pantahi\r\n\t- Glue Gun at Glue Stick\r\n\t- Hanger\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203279555788800
+    m_Localized: "Tip\xFAn\xFAn ngamin na caip\xFAwan na materyales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203503208660992
+    m_Localized: "Gunting\xFAn kan maong, iw\xE1t\xE1k sana kan mga parte na kayun
+      bulsa, mag tip\xF3n pira nikadi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203613879566336
+    m_Localized: "Ip\xE1st\xE1 o tahi\xFAn kan mga bulsa nikan maong; kung mas dak\xFAl
+      na bulsa kan ik\xFAy\xFAg mo, mas dak\xFAl na gamit kan mab\xFAb\xFAtang mo
+      sa denim wall organizer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203755877728256
+    m_Localized: "Gunting\xFAn kan waistband ali sa maong saka gamit\xFAn kadi bilang
+      border para sa mga naka\xFAsay na bulsa.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203886740013056
+    m_Localized: "Magkabit ning hanger sa paagi nikan pagkabit nikadi sa ginunting
+      na waistband. Kayun na ika denim wall organizer na magamit mo para ma\xFAsay
+      kan mga gamit mo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19814632284880896
+    m_Localized: Mag-recycle
     m_Metadata:
       m_Items: []
   references:

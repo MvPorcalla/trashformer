@@ -27,8 +27,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16599963931922432
-    m_Localized: "Materials Needed:  \n\r\n- Old Clothes  \r\n- Zipper  \r\n- Sewing
-      Kit  \r\n- Scissors  \r\n- Measuring Tape \r"
+    m_Localized: "Materials Needed:  \n\r\t- Old Clothes  \r\n\t- Zipper  \r\n\t-
+      Sewing Kit  \r\n\t- Scissors  \r\n\t- Measuring Tape \r"
     m_Metadata:
       m_Items: []
   - m_Id: 16600042910666752
@@ -63,8 +63,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16605096652722176
-    m_Localized: "Materials Needed:\n  \r\n- Old Fabrics or Clothes \r\n- Sewing
-      Kit\r\n- Garter  \r\n- Scissors  \r\n- Tape Measure\r"
+    m_Localized: "Materials Needed:\n\t- Old Fabrics or Clothes \r\n\t- Sewing Kit\r\n\t-
+      Garter  \r\n\t- Scissors  \r\n\t- Tape Measure\r"
     m_Metadata:
       m_Items: []
   - m_Id: 16605130605613056
@@ -99,8 +99,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 16608853780221952
-    m_Localized: "Materials Needed: \r\n\n- Old clothes \r\n- Scissor \r\n- Sewing
-      Kit \r"
+    m_Localized: "Materials Needed: \r\n\t- Old clothes \r\t\n\t- Scissor \r\n\t-
+      Sewing Kit \r"
     m_Metadata:
       m_Items: []
   - m_Id: 16608954674204672
@@ -129,18 +129,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18707610915176448
-    m_Localized: 'Materials Needed:
-
-      - Old Denim Jeans
-
-      - Glue Gun with
-      Glue Sticks
-
-      - Cardboard
-
-      - Scissors or Cutter
-
-'
+    m_Localized: "Materials Needed:\n\t- Old Denim Jeans\n\t- Glue Gun with Glue
+      Sticks\n\t- Cardboard\n\t- Scissors or Cutter"
     m_Metadata:
       m_Items: []
   - m_Id: 18710490283900928
@@ -174,16 +164,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18739533116997632
-    m_Localized: 'Materials Needed:
-
-      - Old Clothes
-
-      - Sewing Kit
-
-      -
-      Scissor
-
-'
+    m_Localized: "Materials Needed:\n\t- Old Clothes\n\t- Sewing Kit\n\t- Scissor\n"
     m_Metadata:
       m_Items: []
   - m_Id: 18739966896111616
@@ -216,17 +197,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18790664589410304
-    m_Localized: 'Materials Needed:
-
-      - Old Clothes
-
-      - Sewing Kit
-
-      -
-      Scissor
-
-
-'
+    m_Localized: "Materials Needed:\n\t- Old Clothes\t\n\t- Sewing Kit\n\t- Scissor\n\n"
     m_Metadata:
       m_Items: []
   - m_Id: 18791330850406400
@@ -257,8 +228,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18810639458893824
-    m_Localized: "Materials Needed:\t\t\n- Old Clothes\r\n- Small Plastic Bottle\r\n-
-      Sewing Kit\r\n- Scissor or Cutter\r\n- Glue Gun with Glue Stick"
+    m_Localized: "Materials Needed:\t\t\n\t- Old Clothes\r\n\t- Small Plastic Bottle\r\n\t-
+      Sewing Kit\r\n\t- Scissor or Cutter\r\n\t- Glue Gun with Glue Stick"
     m_Metadata:
       m_Items: []
   - m_Id: 18811035787067392
@@ -268,8 +239,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18811430886309888
-    m_Localized: "Cut the small plastic bottle in half, keeping the bottom part.\r\n
-      \t"
+    m_Localized: "Cut the small plastic bottle in half, keeping the bottom part.\r\n\t"
     m_Metadata:
       m_Items: []
   - m_Id: 18811620313661440
@@ -296,6 +266,95 @@ MonoBehaviour:
     m_Localized: Once you've finished weaving and securing the strips, you've created
       a pencil organizer that you can place anywhere in your home to neatly store
       and arrange your pencils.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19028160610959360
+    m_Localized: "Materials Needed:\n\t- Old Denim Jeans\n\t- Sewing Kit\n\t- Scissor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185089442349056
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185288453685248
+    m_Localized: Cut the denim jeans below the zipper, creating short shorts.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185422549778432
+    m_Localized: Remove the zipper by cutting vertically through the waistband.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19185819498708992
+    m_Localized: Turn the denim shorts inside out and sew to close the edges.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19186000923328512
+    m_Localized: Use the leftover hem pieces to make two tote bag straps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19186131009667072
+    m_Localized: Sew the two strap pieces to the tote bag.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19186277684477952
+    m_Localized: You've successfully recycled old jeans into a handy tote bag for
+      carrying items when you're on the go.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19194830000357376
+    m_Localized: "Materials Needed:\n\t- Old Denim Jeans\n\t- Scissor\n\t- Sewing
+      Kit\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195130530627584
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195282150522880
+    m_Localized: Cut the denim jeans, leaving only the right and left seams intact.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195516729556992
+    m_Localized: Turn the cut denim inside out, sew the ends, then reverse it again
+      to hide the thread.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19195661894418432
+    m_Localized: Fold the top part of the denim twice to create a small denim basket
+      for organizing items like pencils and scissors, making your table neat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19202986776592384
+    m_Localized: "Materials Needed:\n\t- Old Denim Jeans\n\t- Scissor\n\t- Sewing
+      Kit\n\t- Glue Gun with Glue Stick\n\t- Hanger\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203279555788800
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203503208660992
+    m_Localized: "Cut the denim jeans, keeping only the parts with pockets,  gather
+      several of these pocket sections.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203613879566336
+    m_Localized: Glue or sew the denim pockets together; the more pockets you include,
+      the more items your denim wall organizer can hold.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203755877728256
+    m_Localized: Cut the waistband from the denim jeans and use it as a border for
+      the assembled denim pockets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19203886740013056
+    m_Localized: Attach a hanger by hooking it through the cut waistband. Now, you
+      have a denim wall organizer ready for neatly storing various items.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19814632284880896
+    m_Localized: Proceed To Recycle
     m_Metadata:
       m_Items: []
   references:

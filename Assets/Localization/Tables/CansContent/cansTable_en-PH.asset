@@ -129,6 +129,270 @@ MonoBehaviour:
       with acidic or corrosive components in the food, ensuring the product's safety.\r"
     m_Metadata:
       m_Items: []
+  - m_Id: 12922420737495040
+    m_Localized: "Materials Needed\n\t- Tin Cans\r\n\t- Scissor or Cutter\r\n\t-
+      Marker\r\n\t- Ruler\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772615664205824
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772765765763072
+    m_Localized: Use the marker and ruler to mark the cans at 8cm from the bottom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772900063182848
+    m_Localized: Cut along the marked lines, keeping the 8cm bottom part.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773050068271104
+    m_Localized: Cut the 8cm section into 1cm wide strips without going through the
+      bottom for stability.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773188195090432
+    m_Localized: Open up the 1cm wide strips.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773359691792384
+    m_Localized: Fold the strips inward to create a circular design, trimming excess
+      ends.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773498477117440
+    m_Localized: For the cans with the top, using a scissor remove the lid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773647244886016
+    m_Localized: Now, put the top part for which the top lid is removed into the
+      cans you made in step 6. It will serve as the candle holder.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773804233490432
+    m_Localized: Light a tea candle, and your candle lighting holder is ready.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19803358008311808
+    m_Localized: "Materials Needed:\n\t- Tin Cans\r\n\t- Yarn\r\n\t- Acrylic Paint\r\n\t-
+      Paint Brush\r\n\t- Ruler\r\n\t- Tape Measure\r\n\t- Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804108604178432
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804241588781056
+    m_Localized: Use the tape measure to mark the top part of the tin cans with centimeter
+      measurements.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804386376155136
+    m_Localized: With a ruler and cutter, carefully cut around the marked 1 cm measurements
+      on the tin cans.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804567733665792
+    m_Localized: Press the top and bottom of the tin can to shape it into an oval
+      due to the cut, making it suitable for your lantern.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804805332598784
+    m_Localized: Attach two of the prepared tin cans together using yarn; tie the
+      yarn to the small openings of the cans to create your tin can lantern. You
+      can now display it anywhere in your house.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804699237679104
+    m_Localized: Paint the prepared tin cans in the color of your choice, and protect
+      your work surface with newspaper to prevent paint splatter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852217438830592
+    m_Localized: "Materials Needed:\n\t- 6 Tin Cans\r\n\t- Acrylic Paint\r\n\t- Paint
+      Brush\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852513699299328
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852649682829312
+    m_Localized: Apply acrylic paint to all 6 tin cans, using a paper sheet underneath
+      to protect your table from paint splashes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852703927762944
+    m_Localized: Securely glue the painted tin cans together using a glue gun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852736110657536
+    m_Localized: Arrange the cans in order, 3 at the bottom, 2 in the middle, and
+      1 on top to form a triangular shape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852781069402112
+    m_Localized: Use your new triangular organizer to neatly store pencils, ballpoint
+      pens, scissors, or any items you want to keep your table tidy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863155177029632
+    m_Localized: "Materials Needed:\n\t- Tin Cans\r\n\t- Acrylic Paint\r\n\t- Paint
+      Brush\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863202287452160
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863236072570880
+    m_Localized: 'Apply acrylic paint to all tin cans, using a paper sheet underneath
+      to protect your table from paint splashes.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863306146807808
+    m_Localized: Use the glue gun to securely attach the painted cans, ensuring a
+      strong bond to keep them in place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863347506839552
+    m_Localized: Once glued, you now have a simple can organizer. Use it to neatly
+      store items like pencils, ballpoint pens, scissors, or anything you want to
+      keep organized.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869691811069952
+    m_Localized: "Materials Needed:\n\t- Big and Small Tin Cans\r\n\t- Acrylic Paint\r\n\t-
+      Paint Brush\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869757120577536
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869794907062272
+    m_Localized: Apply acrylic paint to all tin cans, using a paper sheet underneath
+      to protect your table from paint splashes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869826590834688
+    m_Localized: Prepare the painted 1 big can and 6 small cans for the organizer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869860883464192
+    m_Localized: Securely glue the small cans onto the big can, ensuring a firm attachment
+      to prevent them from falling off.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869922577481728
+    m_Localized: With the small cans attached to the big can, you've crafted a tiered
+      tin can organizer suitable for keeping various items neatly organized.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883245180157952
+    m_Localized: "Materials Needed:\n\t- Tin Cans\r\n\t- Old Denim Jeans\r\n\t- Scissor\r\n\t-
+      Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883352835358720
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883417654132736
+    m_Localized: Cut a rectangular piece from the denim jeans.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883457743290368
+    m_Localized: 'Securely glue the cut denim rectangle onto the tin cans, covering
+      them entirely.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883500458082304
+    m_Localized: Enhance the look by attaching small flower pearls or other decorative
+      pieces around the denim-covered cans.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883528631222272
+    m_Localized: Once done, your tin cans transformed with denim and decorations
+      serve as a stylish organizer for neatly storing various items.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890479482142720
+    m_Localized: "Materials Needed:\n\t- Bottle Caps\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890536352710656
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890573736542208
+    m_Localized: "Use the glue gun to attach bottle caps together, forming clamp-like
+      pairs.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890606317895680
+    m_Localized: 'Glue the clamp bottle caps together to create the desired size
+      for your coaster.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890636865011712
+    m_Localized: 'Keep going until the size of the coaster is enough for you. Optionally,
+      paint the coasters in your preferred color or add designs for a more personalized
+      touch.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890682452901888
+    m_Localized: 'Once dry, your DIY bottle cap coasters are ready for use, either
+      to protect surfaces from cold drinks or as a creative holder for your bottle
+      caps.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919061700968448
+    m_Localized: 'Step 1:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919567257206784
+    m_Localized: 'Step 2:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919644407234560
+    m_Localized: 'Step 3:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919674081935360
+    m_Localized: 'Step 4:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919698660556800
+    m_Localized: 'Step 5:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919739286585344
+    m_Localized: 'Step 6:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919759008202752
+    m_Localized: 'Step 7:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919797184757760
+    m_Localized: 'Step 8:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919820878381056
+    m_Localized: 'Step 9:'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

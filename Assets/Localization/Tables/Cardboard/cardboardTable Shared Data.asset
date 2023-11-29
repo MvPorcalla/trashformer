@@ -107,6 +107,214 @@ MonoBehaviour:
     m_Key: Shoebox6
     m_Metadata:
       m_Items: []
+  - m_Id: 19221011596705792
+    m_Key: CardboardVaseMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19221277192617984
+    m_Key: CardboardVase1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19221446822854656
+    m_Key: CardboardVase2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19221579299946496
+    m_Key: CardboardVase3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19221719310008320
+    m_Key: CardboardVase4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19221865972236288
+    m_Key: CardboardVase5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835044075012096
+    m_Key: HangingLampMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835163235188736
+    m_Key: HangingLamp1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835200589660160
+    m_Key: HangingLamp2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835268797431808
+    m_Key: HangingLamp3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835291517976576
+    m_Key: HangingLamp4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835329417707520
+    m_Key: HangingLamp5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835372962971648
+    m_Key: HangingLamp6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19835394991456256
+    m_Key: HangingLamp7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855234292645888
+    m_Key: PictureFrameMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855295328157696
+    m_Key: PictureFrame1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855312222814208
+    m_Key: PictureFrame2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855334947553280
+    m_Key: PictureFrame3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855356929900544
+    m_Key: PictureFrame4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855374030077952
+    m_Key: PictureFrame5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855394972237824
+    m_Key: PictureFrame6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855434113482752
+    m_Key: PictureFrame7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19855452992045056
+    m_Key: PictureFrame8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863891638091776
+    m_Key: MiniCabinetMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863956293287936
+    m_Key: MiniCabinet1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864000257982464
+    m_Key: MiniCabinet2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864020227063808
+    m_Key: MiniCabinet3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864030339530752
+    m_Key: MiniCabinet4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864153513656320
+    m_Key: MiniCabinet5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864174418067456
+    m_Key: MiniCabinet6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864192659095552
+    m_Key: MiniCabinet7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864238498643968
+    m_Key: MiniCabinet8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19864268785713152
+    m_Key: MiniCabinet9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19870403265691648
+    m_Key: JewelryOrganizerMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19870576821796864
+    m_Key: JewelryOrganizer1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19870640310976512
+    m_Key: JewelryOrganizer2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19870667368431616
+    m_Key: JewelryOrganizer3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19870757495635968
+    m_Key: JewelryOrganizer4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19870799006662656
+    m_Key: JewelryOrganizer5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19870834322702336
+    m_Key: JewelryOrganizer6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19875861552562176
+    m_Key: BookHolderMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19875923426934784
+    m_Key: BookHolder1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19875963499315200
+    m_Key: BookHolder2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19876008277704704
+    m_Key: BookHolder3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19876042712940544
+    m_Key: BookHolder4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19881876591345664
+    m_Key: MakeUpOrganizerMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19881972015955968
+    m_Key: MakeUpOrganizer1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19882010251231232
+    m_Key: MakeUpOrganizer2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19882029360480256
+    m_Key: MakeUpOrganizer3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19882073048350720
+    m_Key: MakeUpOrganizer4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19882089586491392
+    m_Key: MakeUpOrganizer5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19882107227734016
+    m_Key: MakeUpOrganizer6
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

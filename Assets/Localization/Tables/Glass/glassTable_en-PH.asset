@@ -127,6 +127,261 @@ MonoBehaviour:
       flow  as you paint. \r\n"
     m_Metadata:
       m_Items: []
+  - m_Id: 19913713015455744
+    m_Localized: "Materials Needed:\n\t- Glass Bottle\r\n\t- Yarn\r\n\t- Scissor\r\n\t-
+      Glue Gun with Glue Stick"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913760553697280
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913784767414272
+    m_Localized: 'Wrap yarn around the glass bottle, ensuring there are no gaps or
+      spaces.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913799975960576
+    m_Localized: Use the glue gun to secure the yarn in place periodically as you
+      wrap it around the bottle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913818888077312
+    m_Localized: Experiment with different yarn colors and create designs of your
+      choice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913836957138944
+    m_Localized: Your glass bottle vase is now ready. You can place artificial flowers
+      in it and use it as a decorative centerpiece for your table.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918695957659648
+    m_Localized: "Materials Needed:\n\t- Wine Glass\r\n\t- Christmas Light\r\n\t-
+      Scissor\r\n\t- Yarn\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918780208644096
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918800525852672
+    m_Localized: 'Wrap yarn around the bottle''s neck.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918818653634560
+    m_Localized: Insert Christmas lights into the bottle for a vibrant color display.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918835095306240
+    m_Localized: You now have a beautiful glass bottle lighting. Wherein you can
+      light it up at night and it will give a beautiful light effect. You can make
+      many of these as you like.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924276168753152
+    m_Localized: "Materials Needed:\n\t- Mason Jar\r\n\t- Papers\r\n\t- Scissor or
+      Cutter\r\n\t- Tape\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924359396327424
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924375414374400
+    m_Localized: 'Fold the paper and cut it in half.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924393097560064
+    m_Localized: Roll the cut paper strips tightly, securing the ends with glue to
+      create several paper sticks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924412127117312
+    m_Localized: 'Place tape on the table with the sticky side facing up to line
+      up the paper sticks.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924429038551040
+    m_Localized: 'Use the glue gun to apply glue to the mason jar.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924477289824256
+    m_Localized: Roll the glue-coated mason jar over the paper sticks on the tape,
+      applying glue as needed, until the jar is covered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924495027535872
+    m_Localized: 'Once dry, your mason jar covered in paper sticks is ready to use
+      as a stylish flower vase for your center table.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930448737206272
+    m_Localized: "Materials Needed:\t\n\t- Mason Jar\r\n\t- Plastic Spoons\r\n\t-
+      Scissors\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930535374749696
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930551376019456
+    m_Localized: 'Cut the plastic spoons in half, keeping only the head part and
+      prepare several of these.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930566882361344
+    m_Localized: 'Using a glue gun, attach the cut spoon heads to the mason jar,
+      covering the entire outer surface.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930600151580672
+    m_Localized: 'Continue adding spoon heads, ensuring there are no gaps, and securely
+      glue each spoon in place.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930627125149696
+    m_Localized: 'Once finished, you have a stylish and functional plant holder or
+      flower base made from recycled plastic spoons and a mason jar, ready to enhance
+      your home decor.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937235309821952
+    m_Localized: "Materials Needed:\t\n\t- Small Mason Jar\r\n\t- Barbeque Sticks\r\n\t-
+      Yarn\r\n\t- Tape\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937282311192576
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937297033199616
+    m_Localized: 'Place tape on the table with the sticky side up and align barbeque
+      sticks on it.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937340582658048
+    m_Localized: Apply glue to the outer surface of the mason jar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937371519844352
+    m_Localized: Roll the glue-coated mason jar on the lined-up barbeque sticks,
+      ensuring complete coverage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937502352769024
+    m_Localized: You've now crafted a flower vase where the mason jar provides support
+      for the barbeque sticks. You can now add flowers and display it in any corner
+      of your home.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937449357737984
+    m_Localized: 'Remove the tape and wrap yarn around the top part of the jar to
+      prevent the sticks from opening up.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942470690406400
+    m_Localized: "Materials Needed:\n\t- Glass Bottle\r\n\t- Acrylic Paint\r\n\t-
+      Paint Brush\r\n\t- Christmas Lights\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942575548006400
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942596183982080
+    m_Localized: 'Get the glass bottle, paint it with any design you want, make sure
+      to place a paper sheet under the glass bottle to prevent paint splashes.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942620221538304
+    m_Localized: 'Add fine details to make your design more beautiful and experiment
+      with any color combinations.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942638269628416
+    m_Localized: 'Allow the painted bottle to dry completely. Once dry, insert Christmas
+      lights into the glass bottle.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942656665845760
+    m_Localized: 'Your illuminated glass bottle art is ready, light it up at night
+      and place it anywhere in your house to add beautiful lighting effects and a
+      lively ambiance.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947178222026752
+    m_Localized: "Materials Needed:\n\t- Circle-shaped Mirror\r\n\t- Acrylic Paint\r\n\t-
+      Paint Brush\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947230608883712
+    m_Localized: Gather all the needed materials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947246291386368
+    m_Localized: 'Get the circle shaped mirror, customize it by painting it with
+      any design you want. Make sure to place a paper sheet under the mirror to protect
+      your table from paint splashes.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947271671119872
+    m_Localized: 'Add finer and little details in your painting to make it even more
+      beautiful and experiment with different color combinations.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947291690532864
+    m_Localized: 'Allow the painted mirror to dry completely. Your customized mirror
+      is now ready to be displayed anywhere you like, adding a touch of beauty and
+      uniqueness to your space.
+
+'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

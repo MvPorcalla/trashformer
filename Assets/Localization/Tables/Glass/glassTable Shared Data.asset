@@ -95,6 +95,178 @@ MonoBehaviour:
     m_Key: gp3
     m_Metadata:
       m_Items: []
+  - m_Id: 19913713015455744
+    m_Key: WineGlassMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913760553697280
+    m_Key: WineGlass1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913784767414272
+    m_Key: WineGlass2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913799975960576
+    m_Key: WineGlass3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913818888077312
+    m_Key: WineGlass4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19913836957138944
+    m_Key: WineGlass5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918695957659648
+    m_Key: GlassLightingMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918780208644096
+    m_Key: GlassLighting1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918800525852672
+    m_Key: GlassLighting2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918818653634560
+    m_Key: GlassLighting3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19918835095306240
+    m_Key: GlassLighting4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924276168753152
+    m_Key: PaperStickJarMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924359396327424
+    m_Key: PaperStickJar1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924375414374400
+    m_Key: PaperStickJar2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924393097560064
+    m_Key: PaperStickJar3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924412127117312
+    m_Key: PaperStickJar4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924429038551040
+    m_Key: PaperStickJar5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924477289824256
+    m_Key: PaperStickJar6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19924495027535872
+    m_Key: PaperStickJar7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930448737206272
+    m_Key: SpoonAndMasonJarMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930535374749696
+    m_Key: SpoonAndMasonJar1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930551376019456
+    m_Key: SpoonAndMasonJar2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930566882361344
+    m_Key: SpoonAndMasonJar3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930600151580672
+    m_Key: SpoonAndMasonJar4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19930627125149696
+    m_Key: SpoonAndMasonJar5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937235309821952
+    m_Key: FlowerVaseMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937282311192576
+    m_Key: FlowerVase1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937297033199616
+    m_Key: FlowerVase2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937340582658048
+    m_Key: FlowerVase3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937371519844352
+    m_Key: FlowerVase4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937449357737984
+    m_Key: FlowerVase5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19937502352769024
+    m_Key: FlowerVase6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942470690406400
+    m_Key: IlluminatedGlassMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942575548006400
+    m_Key: IlluminatedGlass1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942596183982080
+    m_Key: IlluminatedGlass2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942620221538304
+    m_Key: IlluminatedGlass3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942638269628416
+    m_Key: IlluminatedGlass4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19942656665845760
+    m_Key: IlluminatedGlass5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947178222026752
+    m_Key: PaintedMirrorMaterials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947230608883712
+    m_Key: PaintedMirror1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947246291386368
+    m_Key: PaintedMirror2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947271671119872
+    m_Key: PaintedMirror3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19947291690532864
+    m_Key: PaintedMirror4
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

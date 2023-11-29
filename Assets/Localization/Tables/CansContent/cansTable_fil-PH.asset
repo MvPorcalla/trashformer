@@ -132,6 +132,267 @@ MonoBehaviour:
 '
     m_Metadata:
       m_Items: []
+  - m_Id: 12922420737495040
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\t- Lata \r\n\t- Gunting o Cutter\r\n\t-
+      Marker\t\r\n\t- Ruler\r\n\t- Maliit na kandila\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772615664205824
+    m_Localized: "Ipunin ang mga kinakailangang materyales. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772765765763072
+    m_Localized: Gamitin ang marker at ruler para markahan ang mga lata ng 8cm mula
+      sa ibaba.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19772900063182848
+    m_Localized: Gupitin ang may marka ng linya, itira ang 8cm sa ibabang bahagi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773050068271104
+    m_Localized: "Gupitin ang 8cm na seksyon sa 1cm na lapad ng mga piraso nang hindi
+      lalagpas sa ibaba \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773188195090432
+    m_Localized: 'Buksan ang 1cm ang lapad na mga piraso.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773359691792384
+    m_Localized: Tiklupin ang mga piraso papasok upang lumikha ng isang pabilog na
+      disenyo, guntingin ang labis na mga dulo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773498477117440
+    m_Localized: Para sa mga lata na may takip, alisin ang takip gamit ang gunting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773647244886016
+    m_Localized: Ngayon, ilagay sa taas na bahagi kung saan inalis ang takip sa lata
+      na ginawa mo sa ika-anim na hakbang. Ito ang magsisilbing lalagyan ng kandila.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19773804233490432
+    m_Localized: Magsindi ng maliit na kandila, at handa na ang iyong lalagyan ng
+      kandila.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19803358008311808
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\t- Lata \r\n\t- Yarn\r\n\t- Acrylic
+      Paint\r\n\t- Paint Brush\r\n\t- Ruler\r\n\t- Medida\r\n\t- Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804108604178432
+    m_Localized: 'Ipunin ang mga kinakailangang materyales. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804241588781056
+    m_Localized: Gamitin ang medida upang markahan ang tuktok na bahagi ng mga lata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804386376155136
+    m_Localized: Gamit ang ruler at cutter, maingat na gupitin sa paligid ng may
+      markang 1cm na sukat sa mga lata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804567733665792
+    m_Localized: Pindutin ang tuktok at ibaba ng lata upang hubugin ito sa isang
+      hugis oval, na babagay sa iyong parol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804805332598784
+    m_Localized: Ikabit ang dalawang lata gamit ang yarn; itali ang yarn sa maliliit
+      na bukana ng mga lata upang malikha ang iyong lata na parol. Maaari mo na itong
+      ipakita kahit saan sa iyong bahay.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19804699237679104
+    m_Localized: Pintahan ang mga lata sa kulay na gusto mo, gamit ang dyaryo ilagay
+      ito sa lugar na paggagawan mo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852217438830592
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\t- 6 na Lata \r\n\t- Acrylic na
+      Pintura\r\n\t- Paint Brush\r\n\t- Glue gun at glue sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852513699299328
+    m_Localized: 'Ipunin ang mga kinakailangang materyales. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852649682829312
+    m_Localized: Lagyan ng acrylic na pintura ang lahat ng anim na lata, maglagay
+      ng papel sa ilalim ng iyong mesa upang hindi ito  matalsikan ng pintura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852703927762944
+    m_Localized: Idikit ang pininturahan na mga lata gamit ang glue gun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852736110657536
+    m_Localized: Ayusin ang mga lata sa pagkakasunud-sunod, tatlo sa ibaba, dalawa
+      sa gitna, at isa sa itaas upang bumuo ng isang tatsulok na hugis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852781069402112
+    m_Localized: Gamitin ang iyong bagong triangular na organizer para maayos na
+      mag-imbak ng mga lapis, ballpen, gunting, o anumang bagay na gusto mong panatilihing
+      malinis ang iyong mesa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863155177029632
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\t- Lata \r\n\t- Acrylic na Pintura\r\n\t-
+      Paint Brush\r\n\t- Glue Gun at Glue Sticks \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863202287452160
+    m_Localized: 'Ipunin ang mga kinakailangang materyales. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863236072570880
+    m_Localized: Lagyan ng acrylic na pintura ang lahat ng lata, maglagay ng papel
+      sa ilalim ng iyong mesa upang hindi ito  matalsikan ng pintura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863306146807808
+    m_Localized: Gamitin ang glue gun upang ikabit ang mga pininturahan na lata,
+      siguraduhin na ito ay nakadikit ng mabuti para hindi matanggal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863347506839552
+    m_Localized: Kapag ito ay nakadikit na, mayroon ka na ngayong isang simpleng
+      organizer ng lata. Gamitin ito para maayos na mag-imbak ng mga bagay tulad
+      ng mga lapis, ballpen, gunting, o anumang bagay na gusto mong panatilihing
+      maayos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869794907062272
+    m_Localized: Lagyan ng acrylic na pintura ang lahat ng lata, maglagay ng papel
+      sa ilalim ng iyong mesa upang hindi ito  matalsikan ng pintura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869826590834688
+    m_Localized: Ihanda ang pininturahan na 1 malaking lata at 6 maliit na lata para
+      sa organizer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869860883464192
+    m_Localized: Idikit ang maliliit na lata sa malaking lata, na tinitiyak ang matatag
+      na pagkakadikit upang maiwasang mahulog ang mga ito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869922577481728
+    m_Localized: Gamit ang mga maliliit na lata na nakakabit sa malaking lata, nakagawa
+      ka ng isang tiered tin can organizer na angkop para sa pagpapanatiling maayos
+      ng iba't ibang mga gamit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869691811069952
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\t- Malaki at Maliit na Lata\r\n\t-
+      Acrylic na Pintura\r\n\t- Paint Brush\r\n\t- Glue Gun at Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19869757120577536
+    m_Localized: 'Ipunin ang mga kinakailangang materyales. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883245180157952
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\t- Mga Lata\r\n\t- Lumang Maong\r\n\t-
+      Gunting\r\n\t- Glue Gun at  Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883352835358720
+    m_Localized: 'Ipunin ang mga kinakailangang materyales. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883417654132736
+    m_Localized: Gupitin ang isang hugis-parihaba na piraso mula sa maong.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883457743290368
+    m_Localized: Idikit ang ginunting na parihabang maong sa mga lata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883500458082304
+    m_Localized: Pagandahin ang hitsura sa pamamagitan ng paglakip ng maliliit na
+      perlas ng bulaklak o iba pang mga pandekorasyon na piraso sa paligid ng mga
+      lata na natatakpan ng maong.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19883528631222272
+    m_Localized: Kapag tapos na, ang mga lata na binalot ng maong at dekorasyon ay
+      magsisilbing isang magandang organizer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890479482142720
+    m_Localized: "Mga Kagamitan na kailangan: \r\n\t- Mga takip ng plastik na bote\r\n\t-
+      Glue Gun at Glue Sticks \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890536352710656
+    m_Localized: 'Ipunin ang mga kinakailangang materyales. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890573736542208
+    m_Localized: Gamitin ang glue gun upang ikabit ang mga takip ng bote nang magkasama,
+      na bumubuo ng mga pares na parang clamp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890606317895680
+    m_Localized: Idikit ang mga takip ng bote ng clamp nang magkasama upang lumikha
+      ng nais na laki para sa iyong coaster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890636865011712
+    m_Localized: Magpatuloy hanggang sa ang laki ng coaster ay sapat na para sa iyo.
+      Opsyonal, pintahan ang mga coaster sa gusto mong kulay o magdagdag ng mga disenyo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19890682452901888
+    m_Localized: Kapag natuyo na, handa nang gamitin ang iyong DIY bottle cap coaster,
+      para protektahan ang mga mesa mula sa malamig na inumin o bilang isang creative
+      holder para sa iyong mga takip ng bote.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919061700968448
+    m_Localized: 'Unang Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919567257206784
+    m_Localized: 'Ikalawang Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919644407234560
+    m_Localized: 'Ikatlong Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919674081935360
+    m_Localized: 'Ika-apat na Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919698660556800
+    m_Localized: 'Ika-limang Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919739286585344
+    m_Localized: 'Ika-anim na Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919759008202752
+    m_Localized: 'Ika-pitong Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919820878381056
+    m_Localized: 'Ika-siyam na Hakbang:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19919797184757760
+    m_Localized: 'Ika-walong Hakbang:'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -26,8 +26,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14595227347210240
-    m_Localized: "Materials Needed:  \r\n\n- Cardboard \r\n- Magazine  \r\n- Elastic
-      Garter  \r\n- Scissors  \r\n- Glue Gun with Glue Sticks \r"
+    m_Localized: "Materials Needed:  \r\n\t- Cardboard \r\n\t- Magazine  \r\n\t-
+      Elastic Garter  \r\n\t- Scissors  \r\n\t- Glue Gun with Glue Sticks \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14595395102593024
@@ -76,8 +76,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14603662612647936
-    m_Localized: "Materials needed: \r\n\n- Newspaper \r\n- Scissors \r\n- Glue gun
-      with glue stick \r\n- Ruler \r"
+    m_Localized: "Materials needed: \r\n\t- Newspaper \r\n\t- Scissors \r\n\t- Glue
+      gun with glue stick \r\n\t- Ruler \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14603727464976384
@@ -117,21 +117,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14608009484455936
-    m_Localized: "Materials Needed: \n\r\n- Newspapers  \r\n- Magazine/Brochure \r\n-
-      Glue Gun with Glue Sticks  \r\n- Scissors \r"
+    m_Localized: "Materials Needed: \n\t- Newspapers  \r\n\t- Magazine/Brochure \r\n\t-
+      Glue Gun with Glue \tSticks  \r\n\t- Scissors \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14608120503488512
-    m_Localized: 'Gather the needed  materials. '
+    m_Localized: 'Gather the needed materials. '
     m_Metadata:
       m_Items: []
   - m_Id: 14608166137516032
-    m_Localized: "Take a newspaper,  fold it in half horizontally,  and cut along
-      the fold. \r"
+    m_Localized: "Take a newspaper, fold it in half horizontally, and cut along the
+      fold. \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14608176275148800
-    m_Localized: "Roll each cut  newspaper strip to make a  sturdy stick. Prepare 
+    m_Localized: "Roll each cut newspaper strip to make a sturdy stick. Prepare 
       several of these. \r"
     m_Metadata:
       m_Items: []
@@ -159,6 +159,317 @@ MonoBehaviour:
     m_Localized: "Attach these rolled  magazine flowers to the  diamond-shaped base
       you  created earlier. Fill the  entire bottom base with  these flowers until
       you're  satisfied with the result. \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966216058830848
+    m_Localized: "Materials Needed:\n\t- Paper\r\n\t- Glue Gun with Glue Sticks\r\n\t-
+      Scissors or Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966284396625920
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966306991341568
+    m_Localized: 'Fold the paper in half and cut it.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966323449790464
+    m_Localized: 'Twirl the paper from its edge around a thin stick, rolling it until
+      you reach the other end of the paper.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966342391267328
+    m_Localized: Flatten the rolled paper stick using any flat object. Make several
+      of these.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966362586841088
+    m_Localized: 'Roll the flattened paper sticks in a circular manner and apply
+      glue to secure them in place.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966381083721728
+    m_Localized: 'Continue adding more paper sticks in a circular pattern until you
+      form the shape of a bowl.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19966397558947840
+    m_Localized: 'You''re done! You now have a paper bowl. You can add additional
+      designs to it as desired and use it as a decorative piece in your home.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972245236613120
+    m_Localized: "Materials Needed:\n\t- Magazine/Brochure\r\n\t- Glue Gun with Glue
+      Sticks\r\n\t- Scissor\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972344171855872
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972368276520960
+    m_Localized: 'Roll a brochure end to end to make brochure sticks. Make several
+      of these sticks.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972385645133824
+    m_Localized: 'Use the brochure sticks to form a square frame. Secure them in
+      place with glue, and trim any excess stick.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972400497164288
+    m_Localized: 'Attach another brochure stick inside the square frame to serve
+      as the flower''s stem.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972419308617728
+    m_Localized: 'Create different origami flowers in various sizes. The number of
+      flowers is up to you. Attach your origami flowers to the frame using the glue
+      gun.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19972446168940544
+    m_Localized: 'Your decorative flower frame is now ready. Hang it on your wall
+      to enhance the room''s decor.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057013164834816
+    m_Localized: "Materials Needed:\n\t- Colored Paper\r\n\t- Tape\r\n\t- Glue Gun
+      with Glue Sticks\r\n\t- Scissors or Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057076389773312
+    m_Localized: 'Gather all the needed materials.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057093057937408
+    m_Localized: Fold a piece of colored paper in half and cut it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057150305992704
+    m_Localized: 'Create sturdy paper sticks by rolling the colored paper from end
+      to end. Make several sticks in different colors.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057167032877056
+    m_Localized: 'Fold another piece of colored paper into a hexagon shape and apply
+      double-sided tape on top.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057183076089856
+    m_Localized: 'Attach six paper sticks to the edges of the hexagon shape, ensuring
+      that the top of each stick is covered with double-sided tape.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057199702310912
+    m_Localized: 'Fold the paper sticks along the hexagon shape, using it as a reference
+      to construct your organizer.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20057247529959424
+    m_Localized: Your pen holder is complete. You can use it as an organizer to keep
+      your desk neat, and you can make more if needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067134024581120
+    m_Localized: "Materials Needed:\n\t- Magazine or Brochure\r\n\t- Scissor\r\n\t-
+      Christmas Lights\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067200718209024
+    m_Localized: 'Cut a wavy pattern in a circular manner from the magazine, stop
+      when you reach the center.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067239054147584
+    m_Localized: 'Glue the edges of the wavy cut to create a flower shape.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067263246893056
+    m_Localized: Once the flower form is complete, apply glue to the edges and add
+      DIY paper glitters made by cutting colored paper into small pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067278400913408
+    m_Localized: Create various flowers in different sizes, glue them together, and
+      encircle them with Christmas lights.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20067296096681984
+    m_Localized: Your DIY magazine flower is ready to be displayed anywhere in your
+      house, adding a festive and creative touch to your decor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20070948148477952
+    m_Localized: "Materials Needed:\n\t- Newspapers\r\n\t- Scissor or Cutter\r\n\t-
+      Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071013336350720
+    m_Localized: Fold the newspaper three times and cut along the folds to create
+      strips.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071049881321472
+    m_Localized: 'Take each strip, fold it in a circular manner, and shape it into
+      an origami flower.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071072509591552
+    m_Localized: 'Make several origami flowers using the folded newspaper strips.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20071094487744512
+    m_Localized: Bundle the origami flowers and secure them in a flower base to create
+      a centerpiece for your table.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087663926312960
+    m_Localized: "Materials Needed:\n\t- Newspapers\r\n\t- Acrylic Paint\r\n\t- Paint
+      Brush\r\n\t- Scissor or Cutter\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087745811709952
+    m_Localized: 'Fold the newspaper into three sections vertically, cut it into
+      strips.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087769006211072
+    m_Localized: 'Roll the cut newspaper strips into sticks, then flatten them out.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087790732705792
+    m_Localized: 'Now, roll the flattened paper sticks into spiral flower shapes
+      with varying sizes and widths.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087806637506560
+    m_Localized: Blow up a balloon to the desired size.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087826216517632
+    m_Localized: Glue the spiral flowers onto the balloon, ensuring they stick together,
+      the balloon acts as a guide for creating a paper bowl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087844059086848
+    m_Localized: 'Once satisfied with the height of the paper bowl, pop the balloon
+      with a sharp object.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087859330547712
+    m_Localized: 'Paint the exposed paper surface in the color of your choice, ensuring
+      thorough coverage.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20087888090890240
+    m_Localized: 'You''ve now crafted a circular flower vase. Place artificial flowers
+      inside and display it in any corner of your house.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20096911993339904
+    m_Localized: "Materials Needed:\n\t- Newspaper\r\n\t- Carton\r\n\t- Acrylic Paint\r\n\t-
+      Paint Brush\r\n\t- Scissor\r\n\t- Tea Light Candles\r\n\t- Glue Gun with Glue
+      Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20096969191063552
+    m_Localized: 'Cut two circle shapes from carton and multiple leaf shapes.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097009464770560
+    m_Localized: Apply acrylic paint to the leaf shapes in your chosen colors.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097043551879168
+    m_Localized: 'Fold and cut the newspaper into three parts.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097100091097088
+    m_Localized: 'Make sturdy paper sticks from the newspaper. Make several of these.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097124476780544
+    m_Localized: 'Glue the paper sticks onto one of the circle-shaped cartons, then
+      attach the painted leaves and cut circle pieces from magazines or brochures
+      and paste them in between the leaf shapes.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097141161721856
+    m_Localized: 'Glue another circle-shaped carton in the middle, aligning it with
+      the base to add support.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20097172304429056
+    m_Localized: 'Your wall flower art is now ready, providing a decorative touch
+      that can be easily mounted on your wall.
+
+'
     m_Metadata:
       m_Items: []
   references:

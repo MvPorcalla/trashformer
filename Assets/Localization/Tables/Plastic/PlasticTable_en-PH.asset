@@ -29,8 +29,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14615047983747072
-    m_Localized: "Materials Needed:  \r\n\n- Plastic Bottle  \r\n- Scissors  \r\n-
-      Glue Gun with Glue Sticks \r\n- Tea Light Candles \r"
+    m_Localized: "Materials Needed:  \r\n\t- Plastic Bottle  \r\n\t- Scissors  \r\n\t-
+      Glue Gun with Glue Sticks \r\n\t- Tea Light Candles \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14615137028820992
@@ -48,8 +48,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14615167362027520
-    m_Localized: 'Transform the  square pieces into flower  petals by cutting them
-      into  petal-like shapes. Create  several of these petals. '
+    m_Localized: 'Transform the square pieces into flower petals by cutting them
+      into  petal-like shapes. Create several of these petals. '
     m_Metadata:
       m_Items: []
   - m_Id: 14615176987955200
@@ -74,8 +74,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14618697892253696
-    m_Localized: "Materials Needed: \r\n\n- Old CDs or DVDs \r\n- Acrylic paints
-      \r\n- Paintbrushes \r\n- Palette \r\n- Newspaper or plastic sheet \r"
+    m_Localized: "Materials Needed: \r\n\t- Old CDs or DVDs \r\n\t- Acrylic paints
+      \r\n\t- Paintbrushes \r\n\t- Palette \r\n\t- Newspaper or plastic sheet \r"
     m_Metadata:
       m_Items: []
   - m_Id: 14618751638065152
@@ -108,22 +108,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14622560296783872
-    m_Localized: 'Materials Needed:
-
-
-      - Plastic bottles
-
-      - Scissors or
-      cutter
-
-      - White plastic spoons
-
-      - Tea light candles
-
-      - Glue
-      gun or any strong adhesive
-
-      - Marker or pen'
+    m_Localized: "Materials Needed:\n\t- Plastic bottles\n\t- Scissors or cutter\n\t-
+      White plastic spoons\n\t- Tea light candles\n\t- Glue gun or any strong adhesive\n\t-
+      Marker or pen"
     m_Metadata:
       m_Items: []
   - m_Id: 14622592341266432
@@ -134,10 +121,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 14622609588244480
-    m_Localized: ' Remove the handles of the white plastic spoons, leaving only the
+    m_Localized: Remove the handles of the white plastic spoons, leaving only the
       spoon-shaped parts. You can do this by snapping off the handles or cutting
       them using scissors. Ensure you have enough spoon pieces to cover the entire
-      surface of the middle section of the plastic bottle.'
+      surface of the middle section of the plastic bottle.
     m_Metadata:
       m_Items: []
   - m_Id: 14622617435787264
@@ -154,6 +141,294 @@ MonoBehaviour:
       tea light candles to see the lampshade in action. The white plastic spoons
       will create a soft and diffused light effect, giving a unique and decorative
       ambiance.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20100876881494016
+    m_Localized: "Materials Needed:\n\t- Small Plastic Bottles\r\n\t- Acrylic Paint\r\n\t-
+      Paint Brush\r\n\t- Glue Gun with Glue Sticks\r\n\t- Cutter\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101012131020800
+    m_Localized: 'Cut the plastic bottles into two parts, leaving only the bottom
+      portion. Prepare seven of these.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101030267191296
+    m_Localized: 'Glue the cut bottles together, with one as the center and the rest
+      forming a circle around it, creating a circular-shaped organizer.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101049976225792
+    m_Localized: After gluing the seven plastic bottles, paint them in your preferred
+      color.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20101064308162560
+    m_Localized: You're done! Use the organizers to arrange items like pencils, paint
+      brushes, or anything else you want to keep neatly organized on your table.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108768372195328
+    m_Localized: "Materials Needed:\n\t- Plastic Bottle Caps\r\n\t- Tea Light Candles\r\n\t-
+      Needle and Thread\r\n\t- Glue Gun with Glue Sticks\r\n\t- Scissors\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108838131859456
+    m_Localized: 'Light the candles and heat a needle, then pierce the hot needle
+      through each bottle cap. Repeat this process until you''ve pierced ten bottle
+      caps.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108863813582848
+    m_Localized: 'Arrange the bottle caps on a thread, tie the thread, and trim the
+      excess.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108880909565952
+    m_Localized: 'Glue two bottle caps on the top and bottom of the circle-shaped
+      bottle cap, ensuring they also have holes for the thread to pass through.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20108901096751104
+    m_Localized: 'You now have cute, miniature bottle cap decorations. You can display
+      them anywhere in your house.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112384969539584
+    m_Localized: "Materials Needed:\n\t- Plastic Spoons\r\n\t- 1.5 Plastic Bottles\r\n\t-
+      Acrylic Paint\r\n\t- Paint Brush\r\n\t- Glue Gun with Glue Sticks\r\n\t- Scissors\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112471028269056
+    m_Localized: Cut the plastic spoons in half, keeping only the handle part. Prepare
+      several of these
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112498295439360
+    m_Localized: 'Paint the cut spoon handles with your choice of color, using a
+      newspaper to protect your workspace.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112518755254272
+    m_Localized: Cut the top part of a 1.5-liter plastic bottle, leaving only the
+      bottom to serve as the vase's base.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112536266473472
+    m_Localized: 'Use a glue gun to attach the painted spoon handles around the edges
+      of the cut plastic bottle, ensuring there are no gaps, to form the plastic
+      vase.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20112552179662848
+    m_Localized: 'Once the plastic vase is complete, place artificial flowers inside,
+      and use it as a beautiful decoration in the center of your table.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20119877078614016
+    m_Localized: "Materials Needed:\n\t- Circle-shaped Mirror\r\n\t- Plastic Spoons\r\n\t-
+      Acrylic Paint\r\n\t- Paint Brush\r\n\t- Cardboard\r\n\t- Glue Gun with Glue
+      Sticks\r\n\t- Scissors\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20119953851154432
+    m_Localized: Cut the plastic spoons in half, keeping only the head part. Prepare
+      several of these.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20119982959624192
+    m_Localized: 'Paint the spoon with any color you want. Remember to use a newspaper
+      sheet to avoid paint splashing on your table.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120022138617856
+    m_Localized: 'Get the circle-shaped mirror and glue each painted spoon on the
+      back part of the mirror.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120040044101632
+    m_Localized: 'Continue to add more spoons in a circular way leaving no spaces.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120057978945536
+    m_Localized: 'Cut a circle shape of cardboard the same size with a mirror and
+      glue it on the back. Continue to add a spoon, now gluing it on the cardboard.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20120096398770176
+    m_Localized: 'You now have a mirror that looks like a flower, you can now put
+      it anywhere in your house to add an aesthetic touch in your place.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133752817713152
+    m_Localized: "Materials Needed:\n\t- 1.5 Plastic Bottle\r\n\t- Tea Light Candles\r\n\t-
+      Scissor or Cutter\r\n\t- Glue Gun with Glue Stick\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133885215113216
+    m_Localized: Cut the 1.5 plastic bottle, keeping the middle part.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133907461701632
+    m_Localized: 'Cut the middle part into multiple 2x2-inch square shapes.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133929943171072
+    m_Localized: 'Shape these squares into petal forms.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133970560811008
+    m_Localized: 'Use a lit tea light candle to melt the edges of each plastic petal,
+      giving them a natural, wrinkled appearance.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20133988101390336
+    m_Localized: From the top part of the bottle, create a flower shape by cutting
+      and melting the edges.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20134033731223552
+    m_Localized: 'Attach the petals to the plastic flower top, filling all the gaps.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20134090241081344
+    m_Localized: You've now crafted an artificial flower from plastic bottles that
+      you can display in your home.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140651067867136
+    m_Localized: "Materials Needed:\n\t- CD's\r\n\t- Needle and Thread\r\n\t- Tea
+      Light Candles\r\n\t- Yarn\r\n\t- Scissor or Cutter\r\n\t- Glue Gun with Glue
+      Sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140725147664384
+    m_Localized: 'Split a CD into two pieces by separating its layers.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140791535108096
+    m_Localized: 'Cut a half moon shape from one of the CD pieces.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140793212829696
+    m_Localized: 'Cut small star and diamond shapes from the CD.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140852436402176
+    m_Localized: Using the needle and thread, glue the star and diamond shape on
+      the thread with 1-inch spacing from each other. make several of these
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140890344521728
+    m_Localized: 'Light a candle, heat the needle, and pierce six holes along the
+      edge of the CD.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140909202112512
+    m_Localized: 'Attach the threaded star and diamond pieces to the holes created.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140927178899456
+    m_Localized: 'Enhance the half moon CD by gluing small flower shapes along its
+      edges.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20140947533856768
+    m_Localized: 'Your DIY hanging moon and stars are ready to be displayed anywhere
+      in your home.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146913268596736
+    m_Localized: "Materials Needed:\n\t- Small Plastic Bottles\r\n\t- Scissor or
+      Cutter\r\n\t- Tea Light Candles\r\n\t- Glue Gun with Glue Sticks\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146988606685184
+    m_Localized: Cut the plastic bottle into two sections, keeping only the top part.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147010630975488
+    m_Localized: Vertically cut the top part into four segments up to the bottle
+      cap.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147035075379200
+    m_Localized: 'Shape the four segments into branches with leaves.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147050489446400
+    m_Localized: Light a candle and melt the bottle segments, creating a wrinkled
+      effect resembling a flower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147067618983936
+    m_Localized: 'Stack and glue the two melted flower bottles on top of each other.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147100334555136
+    m_Localized: 'Craft a flower origami and glue it to the ends of the created branches
+      with leaves.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147120303636480
+    m_Localized: Your DIY plastic bottle flower is now finished and ready to be displayed
+      anywhere in your place.
     m_Metadata:
       m_Items: []
   references:
